@@ -14,11 +14,13 @@ setwd('~/github/laBudget/proposed_budget/data/FY18-19')
 
 # read in the new expenses data
 sec2 <- read_excel("Expenditures_Sec2 All Regular Depts and NonDepts_1819Proposed.xlsx") %>% data.frame
-sec4 <- read_excel("Expenditures_Sec4 Library and Rec Parks_1819Proposed.xlsx") %>% data.frame
+# sec4 <- read_excel("Expenditures_Sec4 Library and Rec Parks_1819Proposed.xlsx") %>% data.frame
 
 # merge into a single dataset
-new_expenses <- merge(sec2, sec4, all=T)
-rm(sec2, sec4)
+# new_expenses <- merge(sec2, sec4, all=T)
+# rm(sec2, sec4)
+
+new_expenses <- sec2
 
 # remove rows with no 2018-2019 data
 new_expenses %<>% filter(!is.na(X2018.19.Proposed))
@@ -26,8 +28,11 @@ new_expenses %<>% filter(!is.na(X2018.19.Proposed))
 # read in the existing data on Socrata
 old_expenses <- read.socrata("https://data.lacity.org/resource/ws4f-n5ax.json")
 
+# filter out any 2019 data
+old_expenses %<>% filter(fiscal_year!=2019)
+
 # save a copy as a backup
-write.csv(old_expenses, 'old_expenses.csv', row.names=F)
+# write.csv(old_expenses, 'old_expenses.csv', row.names=F)
 
 colnames(new_expenses)
 colnames(old_expenses)
@@ -67,14 +72,21 @@ new_expenses$expense_type <- NA
 # arrange columns in the same order as the old expenses data
 new_expenses %<>% select(colnames(old_expenses))
 
+# prevent use of scientific notation when writing to csv
+options(scipen=999)
+
+# convert appropriation column to character
+new_expenses %<>% mutate(appropriation=as.character(appropriation))
+
 # combine the old and new data
-new_expenses <- rbind(new_expenses, old_expenses)
+expenses <- rbind(new_expenses, old_expenses)
 
 # sort according to fiscal year, department name, program name, account name
-new_expenses %<>% arrange(desc(fiscal_year), department_name, program_name, account_name)
+expenses %<>% arrange(desc(fiscal_year), department_name, program_name, account_name)
+
 
 # write to csv
-write.csv(new_expenses, 'new_expenses.csv', row.names=F)
+write.csv(expenses, 'expenses.csv', row.names=F)
 
 # # upload the data to Socrata
 # user_password <- readLines("~/github/laBudget/proposed_budget/scripts/password.txt")
