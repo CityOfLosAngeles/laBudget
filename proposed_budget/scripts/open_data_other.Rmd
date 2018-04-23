@@ -1,0 +1,157 @@
+---
+title: "Other Budget Open Datasets"
+author: "Chelsea Ursaner"
+date: "4/18/2018"
+output: word_document
+---
+
+## Setup
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(dplyr, tidyr, lubridate, data.table, RSocrata, readxl)
+```
+
+###General fund revenue
+
+```{r}
+# Read the previous dataset from Socrata
+gfrev_existing <- read.socrata(url = 'https://data.lacity.org/A-Prosperous-City/General-Fund-Revenue/qrkr-kfbh')
+glimpse(gfrev_existing)
+levels(as.factor(gfrev_existing$Fiscal.Year))
+
+#take out proposed with issues
+gfrev_existing <- gfrev_existing %>% filter(Fiscal.Year != "2018_19_proposed")
+
+# Read the new file
+gfrev_current <- read_excel("~/R_labs/laBudget2/proposed_budget/data/FY18-19/General Fund Revenue_1819Proposed.xlsx")
+
+# Standard removals and renaming
+gfrev_current <- gfrev_current %>% select (-`Org Level 5 Code`, -`Org Level 5 Name`) %>% rename(Dept.Code = `Dept Code`, Department.Name = `Dept Name`, Program.Code = `Prog Code`, Program.Name = `Prog Name` , Fund.Code = `Fund Code`, Fund.Name = `Fund Name`, Account.Code = `Account Code`, Account.Name = `Account Name`)
+glimpse(gfrev_current)
+# Specific edits for this year
+gfrev_current <- gfrev_current %>% select (-`2016-17 Actuals`, -`2017-18 Adopted Budget`, -`2017-18 Estimates`) %>% rename(Revenue.Amount = `2018-19 Proposed`)
+
+# Filter out NAs, add fiscal year column
+gfrev_current_clean <- filter(gfrev_current, Revenue.Amount != 0)
+gfrev_current_clean$Fiscal.Year <- "2018_19_proposed"
+
+# Make new dataset
+gfrev_new <- rbind(gfrev_existing, gfrev_current_clean)
+write.csv(gfrev_new, "gfrev_new.csv", row.names=F)
+
+# Write table to Socrata using RSocrata package
+# Set password
+user_password <- readLines("~/R_labs/laBudget2/proposed_budget/data/FY18-19/password.txt")
+write.socrata(dataframe = gfrev_new,
+              dataset_json_endpoint = "https://data.lacity.org/resource/4bp6-ts79.json",
+              update_mode = "REPLACE",
+              email = "chelsea.ursaner@lacity.org",
+              password = user_password)
+```
+
+###Postions
+```{r}
+# Read the previous dataset from Socrata
+positions_existing <- read.socrata(url = 'https://data.lacity.org/A-Well-Run-City/Positions/46qe-t7np')
+glimpse(positions_current)
+levels(as.factor(positions_existing$Budget))
+
+# Read the new file
+positions_current <- read_excel("~/R_labs/laBudget2/proposed_budget/data/FY18-19/Positions_1819Proposed.xlsx")
+
+# Standard removals and renaming
+positions_current <- positions_current %>% select (-`Org Level 5 Code`, -`Org Level 5 Name`) %>% rename(Department.Code = `Dept Code`, Department.Name = `Dept Name`, Program.Code = `Prog Code`, Program.Name = `Prog Name` , Fund.Code = `Fund Code`, Source.Fund.Code = `Source Fund Code`, Source.Fund.Name = `Source Fund Name`, Account.Code = `Account Code`, Account.Name = `Account Name`)
+
+# Specific edits for this year
+positions_current <- positions_current %>% select (-`2017-18 Adopted Budget`) %>% rename(Positions = `2018-19 Proposed`)
+
+# Filter out NAs, add fiscal year column
+positions_current_clean <- filter(positions_current, Positions != 0)
+positions_current_clean$Budget <- "2018-19 Proposed Budget"
+
+# Check dataset
+glimpse(positions_current_clean)
+
+# Make new dataset
+positions_new <- rbind(positions_existing, positions_current_clean)
+
+write.csv(positions_new, "positions_new.csv", row.names=F)
+
+# Write table to Socrata using RSocrata package
+# Set password
+user_password <- readLines("~/R_labs/laBudget2/proposed_budget/data/FY18-19/password.txt")
+write.socrata(dataframe = positions_new,
+              dataset_json_endpoint = "https://data.lacity.org/resource/n8bu-i9tg.json",
+              update_mode = "REPLACE",
+              email = "chelsea.ursaner@lacity.org",
+              password = user_password)
+```
+
+###Incremental changes
+```{r}
+# Read the previous dataset from Socrata
+inc_existing <- read.socrata(url = 'https://data.lacity.org/A-Prosperous-City/General-City-Budget-Incremental-Changes/k4k6-bwwv')
+levels(as.factor(inc_existing$Budget))
+
+# Read the new file
+inc_current <- read_excel("~/R_labs/laBudget2/proposed_budget/data/FY18-19/Budget Requests Detail_Sec2_1819Proposed.xlsx")
+
+# Standard removals and renaming
+inc_current <- inc_current %>% rename(Department.Code = `Department Code`, Department.Name = `Department Name`, Program.Code = `Program Code`, Program.Name = `Program Name` , Fund.Code = `Fund Code`, Fund.Name = `Fund Name`, Source.Fund.Code = `Source Fund Code`, Source.Fund.Name = `Source Fund Name`, Budget.Request.Description = `Budget Request Description`, Budget.Request.Category = `Budget Request Category`, Account.Code = `Budget Object Code`, Account.Name = `Audit Budget Object Name`, One.Time..01....On.going..BB. = `One Time/ On-going`)
+
+# Specific edits for this year
+inc_current <- inc_current %>% rename(Incremental.Change = `2018-19 Incremental change from 2017-18 Adopted Budget`)
+
+# Filter out NAs, add fiscal year column
+inc_current$Budget <- "2018-19 Proposed Budget Incremental Change from 2017-18 Adopted"
+
+# Make new dataset
+inc_new <- rbind(inc_existing, inc_current)
+
+write.csv(inc_new, "inc_new.csv", row.names=F)
+
+# Write table to Socrata using RSocrata package
+# Set password
+user_password <- readLines("~/R_labs/laBudget2/proposed_budget/data/FY18-19/password.txt")
+write.socrata(dataframe = inc_new,
+              dataset_json_endpoint = "https://data.lacity.org/resource/9cw2-457h.json",
+              update_mode = "REPLACE",
+              email = "chelsea.ursaner@lacity.org",
+              password = user_password)
+```
+
+###Performance Measures
+```{r}
+# Read the previous dataset from Socrata
+pm_existing <- read.socrata(url = 'https://data.lacity.org/A-Prosperous-City/Performance-Measures/bywz-284j')
+levels(as.factor(pm_existing$Budget))
+glimpse(pm_existing)
+# Read the new file
+pm_current <- read_excel("~/R_labs/laBudget2/proposed_budget/data/FY18-19/Performance Measures_1819Proposed.xlsx")
+
+# Standard removals and renaming
+pm_current <- pm_current %>% rename(Department.Code = `Dept Code`, Department.Name = `Department Name`, SubDept.Code = `Org Level 5 Code`, SubDept.Name = `Org Level 5 Name`, Program.Code = `Prog Code`, Program.Name = `Program Name` , Performance.Measure.Code = `PM Code`, Performance.Measure.Name = `Performance Measure Name`, Unit = `Unit/Value`)
+
+# Specific edits for this year
+pm_current <- pm_current %>% select(-`2014-15 Actuals`,-`2015-16 Actuals`,-`2016-17 Actuals`, -`2017-18 Adopted Budget`, -`2017-18 Estimates`) %>% rename(Performance.Measure.Amount = `2018-19 Proposed`)
+
+# Filter out NAs, add fiscal year column
+pm_current$Budget <- "2018-19 Proposed"
+
+# Make new dataset
+pm_new <- rbind(pm_existing, pm_current)
+
+write.csv(pm_new, "pm_new.csv", row.names=F)
+
+# Write table to Socrata using RSocrata package
+# Set password
+user_password <- readLines("~/R_labs/laBudget2/proposed_budget/data/FY18-19/password.txt")
+write.socrata(dataframe = inc_new,
+              dataset_json_endpoint = "https://data.lacity.org/resource/s7t9-7smw.json",
+              update_mode = "REPLACE",
+              email = "chelsea.ursaner@lacity.org",
+              password = user_password)
+```
+
