@@ -40,37 +40,46 @@ timestamp <- gsub(' ','_',timestamp)
 # prevent R from writing to scientific notation
 options(scipen=999)
 
+# get the fiscal year being updated
+# default to the year after the current date
+new_fiscal_year <- year(today()) + 1
 
-## Read In Data
 
 
-# read in the new expenses data. section 2 only
-new_expenses <- read_excel(excel_file) %>% data.frame
-
-# remove rows with no 2018-2019 data
-new_expenses %<>% filter(!is.na(X2018.19.Proposed))
+## Back up existing data
 
 # read in the existing data on Socrata
 old_expenses <- read.socrata(socrata_url)
 
-# filter out any 2019 data
-old_expenses %<>% filter(fiscal_year!=2019)
-
 # save a copy as a backup
 write.csv(old_expenses, paste0('old_expenses_',timestamp,'.csv'), row.names=F)
 
-colnames(new_expenses)
-colnames(old_expenses)
+# filter out any data from the fiscal year that's being updated
+old_expenses %<>% filter(Fiscal_Year!=new_fiscal_year)
 
-# remove unnecessary columns from the new data
-# (fund code, fund name, prior year appropriations/expenditures)
-new_expenses <- new_expenses[,-c(7,8,13,14,15)]
+
+
+## Read in new data
+
+# read in the new expenses data. section 2 only
+new_expenses <- read_excel(excel_file) %>% data.frame
+
+# keep only the desired columns
+# assumes that the last column contains the data of interest (correct fiscal year, proposed/adopted as desired)
+new_expenses %<>% select(Dept.Code, Dept.Name, Org.Level.5.Code, Org.Level.5.Name, Prog.Code, Prog.Name,
+	Source.Fund.Code, Source.Fund.Name, Account.Code, Account.Name, 
+	colnames(new_expenses)[ncol(new_expenses)])
 
 # change the column names of the new data to match the old data
 # missing columns: Program_Priority, Expense_Type
 colnames(new_expenses) <- c("Dept_Code","Department_Name","SubDept_Code",
 	"SubDepartment_Name","Prog_Code","Program_Name","Source_Fund_Code",
 	"Source_Fund_Name","Account_Code","Account_Name","Appropriation")
+
+# remove rows with no appropriation data
+new_expenses %<>% filter(!is.na(Appropriation))
+
+
 
 
 ## Get Program Priorities
@@ -90,20 +99,36 @@ dd <- priority %>% select(Dept_Code, Prog_Code) %>% duplicated
 priority <- priority[!dd,]
 
 # merge in the program priority and expense type
-new_expenses <- merge(new_expenses, priority, by=c("Dept_Code","Prog_Code"), all.x=T)
+# new_expenses <- merge(new_expenses, priority, by=c("Dept_Code","Prog_Code"), all.x=T)
+new_expenses <- merge(new_expenses, priority, by="Prog_Code", all.x=T)
 
 # examine the merge
-sapply(colnames(new_expenses), function(j) sum(is.na(new_expenses[,j])))
+# sapply(colnames(new_expenses), function(j) sum(is.na(new_expenses[,j])))
+
+
+
+# alternatively: assign program priority using the descriptions dataset
+priority2 <- read.csv('program_priorities.csv', stringsAsFactors=F) %>% select(Prog_Code, Program_Priority)
+new_expenses <- merge(new_expenses, priority2, by="Prog_Code", all.x=T)
+
+# merge the two estimates of priority, giving preference to the one from the descriptions dataset
+new_expenses$Program_Priority <- ifelse(is.na(new_expenses$Program_Priority.y) | 
+	new_expenses$Program_Priority.y=="", new_expenses$Program_Priority.x, new_expenses$Program_Priority.y)
+
+new_expenses$Program_Priority[is.na(new_expenses$Program_Priority)] <- "Not Categorized"
+
+# what portion of the appropriations have been assigned a program priority?
+tapply(new_expenses$Appropriation, new_expenses$Program_Priority, sum) / sum(new_expenses$Appropriation)
 
 
 
 ### Miscellaneous data transformations
 
 
-# add a fiscal year column
-new_expenses$fiscal_year <- 2019
+# add a fiscal year column.
+new_expenses$fiscal_year <- new_fiscal_year
 
-# add a blank expense_type column
+# add a blank expense_type column. this is no longer provided
 new_expenses$expense_type <- NA
 
 # arrange columns in the same order as the old expenses data
