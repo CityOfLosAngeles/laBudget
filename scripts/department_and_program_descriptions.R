@@ -16,8 +16,8 @@ pacman::p_load(dplyr, magrittr, tidyr, lubridate, data.table, RSocrata, readxl)
 #         (username.txt, password.txt - these should be plain text files 
 #		   with the first line containing nothing but the username or 
 #          password, respectively, and the second line blank)
-dir <- list(data="~/github/laBudget/proposed_budget/data/FY18-19/",
-       login="~/github/laBudget/proposed_budget/scripts/")
+dir <- list(data="~/github/laBudget/data/proposed_budget/FY18-19/",
+       login="~/github/laBudget/scripts/")
 
 # set the working directory
 setwd(dir$data)

@@ -18,14 +18,19 @@ pacman::p_load(dplyr, tidyr, lubridate, data.table, RSocrata, readxl)
 # data = directory where the data are saved
 # login = directory where Socrata login information is saved
 # (username.txt, password.txt)
-dir <- list(data="~/github/laBudget/proposed_budget/data/FY18-19/",
-       login="~/github/laBudget/proposed_budget/scripts/")
+dir <- list(data="~/github/laBudget/data/proposed_budget/FY18-19/",
+       login="~/github/laBudget/scripts/")
 
 # get Socrata username and password for upload
 username <- readLines(paste0(dir$login, 'username.txt'))
 password <- readLines(paste0(dir$login, 'password.txt'))
 
 # excel sheet filenames
+# excel_files <- list(
+#        gfrev="General Fund Revenue_1819Adopted.xlsx",
+#        positions="Positions_1819Adopted.xlsx",
+#        inc="Budget Requests Detail_Sec2_1819Adopted.xlsx",
+#        pm="Performance Measures_1819Adopted.xlsx")
 excel_files <- list(
        gfrev="General Fund Revenue_1819Proposed.xlsx",
        positions="Positions_1819Proposed.xlsx",
