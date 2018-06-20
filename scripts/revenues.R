@@ -16,8 +16,8 @@ pacman::p_load(dplyr, magrittr, tidyr, lubridate, data.table, RSocrata, readxl)
 # data = directory where the data are saved
 # login = directory where Socrata login information is saved
 #         (username.txt, password.txt)
-dir <- list(data="~/github/laBudget/proposed_budget/data/FY18-19/",
-       login="~/github/laBudget/proposed_budget/scripts/")
+dir <- list(data="~/github/laBudget/data/proposed_budget/FY18-19/",
+       login="~/github/laBudget/scripts/")
 
 # set the working directory
 setwd(dir$data)
