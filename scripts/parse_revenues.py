@@ -10,10 +10,10 @@ import PyPDF2
 import re
 
 # set directory
-os.chdir('/Users/adamscherling/github/laBudget/data/proposed_budget/FY18-19')
+os.chdir('/Users/adamscherling/github/laBudget/data/approved_budget/FY18-19')
 
 # pull text from pdf file
-pdfFileObject = open('05-Exhibit B 19P.pdf', 'rb')
+pdfFileObject = open('05-Exhibit B 19A.pdf', 'rb')
 pdfReader = PyPDF2.PdfFileReader(pdfFileObject)
 
 # combine text from all pages into a single string
@@ -23,16 +23,16 @@ for i in range(count):
     page = pdfReader.getPage(i)
     pdfText = pdfText + page.extractText()
 
-# pick out the text for General Receipts and Special Receipts
-start = pdfText.find("General Receipts:")
-# end = pdfText.find("Available Balances:")
-pdfText = pdfText[start:]
-
 # remove gratuitous newline characters, commas, $, %
 pdfText = pdfText.replace('\n', '')
 pdfText = pdfText.replace(',', '')
 pdfText = pdfText.replace('$', '')
 pdfText = pdfText.replace('%', '')
+
+# pick out the text for General Receipts, Special Receipts, and Available Balances
+start = pdfText.find("General Receipts:")
+# end = pdfText.find("Available Balances:")
+pdfText = pdfText[start:]
 
 end = pdfText.find("Total General Receipts")
 GF_receipts = pdfText[17:end]
@@ -45,6 +45,10 @@ start = pdfText.find("Available Balances:")
 end = pdfText.find("Total Available Balances...")
 SF_balances = pdfText[(start+19):end]
 
+# close the file
+pdfFileObject.close()
+
+# print the current text
 print(GF_receipts)
 print('***')
 print(SF_receipts)
@@ -89,27 +93,33 @@ GF_receipts = spaceBeforeComma.sub(',', GF_receipts)
 SF_receipts = spaceBeforeComma.sub(',', SF_receipts)
 SF_balances = spaceBeforeComma.sub(',', SF_balances)
 
-
+# print the result
 print(GF_receipts)
 print('***')
 print(SF_receipts)
 print('***')
 print(SF_balances)
 
-pdfFileObject.close()
+# add a newline to the end of each
+GF_receipts = GF_receipts + '\n'
+SF_receipts = SF_receipts + '\n'
+
+# add fund type to receipts data
+endOfLine = re.compile(r'\n')
+GF_receipts = endOfLine.sub(',General Fund\n', GF_receipts)
+SF_receipts = endOfLine.sub(',Special Fund\n', SF_receipts)
 
 # write the files to CSV
-gf = open('gf_receipts.csv', 'w')
-gf.write(GF_receipts)
-gf.close()
+rev = open('new_revenues.csv', 'w')
+rev.write('Revenue.Source,Amount,Percent,Fund.Type\n')
+rev.write(GF_receipts)
+rev.write(SF_receipts)
+rev.close()
 
-sf1 = open('sf_receipts.csv', 'w')
-sf1.write(SF_receipts)
-sf1.close()
-
-sf2 = open('sf_balances.csv', 'w')
-sf2.write(SF_balances)
-sf2.close()
+bal = open('available_balances.csv', 'w')
+bal.write('Revenue.Source,Available.Balance,Percent\n')
+bal.write(SF_balances)
+bal.close()
 
 
 

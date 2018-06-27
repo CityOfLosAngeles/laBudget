@@ -19,6 +19,9 @@ pacman::p_load(dplyr, magrittr, tidyr, lubridate, data.table, RSocrata, readxl)
 dir <- list(data="~/github/laBudget/data/approved_budget/FY18-19/",
        login="~/github/laBudget/scripts/")
 
+fy = "2018-2019"
+fy_shorthand = 2019
+
 # set the working directory
 setwd(dir$data)
 
@@ -54,17 +57,30 @@ old_revenues %<>% filter(Fiscal.Year.Shorthand!=2019)
 new_revenues <- read.csv('new_revenues.csv', stringsAsFactors=F)
 available_balances <- read.csv('available_balances.csv', stringsAsFactors=F)
 
+# remove the Percent column from each
+new_revenues %<>% select(-Percent)
+available_balances %<>% select(-Percent)
+
+# remove available balances of 0
 available_balances %<>% filter(Available.Balance!=0)
 
 # add the available balances to the revenues
 new_revenues <- merge(new_revenues, available_balances, 
 	by="Revenue.Source", all=T)
+
+## STOP - CHECK THE MERGE. YOU HAVE TO CHANGE SOME OF THE FUND NAMES FOR THE
+## MATCH TO WORK 
+
 new_revenues$Available.Balance[is.na(new_revenues$Available.Balance)] <- 0
 new_revenues %<>% mutate(Amount=as.numeric(Amount) + 
 	as.numeric(Available.Balance))
 
 # remove the available balances column
 new_revenues %<>% select(-Available.Balance)
+
+# add the fiscal year
+new_revenues$Fiscal.Year.Shorthand <- fy_shorthand
+new_revenues$Fiscal.Year <- fy
 
 # merge with old revenues
 revenues <- rbind(new_revenues, old_revenues)
