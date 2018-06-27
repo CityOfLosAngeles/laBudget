@@ -18,24 +18,26 @@ pacman::p_load(dplyr, tidyr, lubridate, data.table, RSocrata, readxl)
 # data = directory where the data are saved
 # login = directory where Socrata login information is saved
 # (username.txt, password.txt)
-dir <- list(data="~/github/laBudget/data/proposed_budget/FY18-19/",
+dir <- list(data="~/github/laBudget/data/approved_budget/FY18-19/",
        login="~/github/laBudget/scripts/")
+
+setwd(dir$data)
 
 # get Socrata username and password for upload
 username <- readLines(paste0(dir$login, 'username.txt'))
 password <- readLines(paste0(dir$login, 'password.txt'))
 
 # excel sheet filenames
-# excel_files <- list(
-#        gfrev="General Fund Revenue_1819Adopted.xlsx",
-#        positions="Positions_1819Adopted.xlsx",
-#        inc="Budget Requests Detail_Sec2_1819Adopted.xlsx",
-#        pm="Performance Measures_1819Adopted.xlsx")
 excel_files <- list(
-       gfrev="General Fund Revenue_1819Proposed.xlsx",
-       positions="Positions_1819Proposed.xlsx",
-       inc="Budget Requests Detail_Sec2_1819Proposed.xlsx",
-       pm="Performance Measures_1819Proposed.xlsx")
+       gfrev="General Fund Revenue_1819Adopted.xlsx",
+       positions="Positions_1819Adopted.xlsx",
+       inc="Budget Requests Detail Sec2_1819Adopted.xlsx",
+       pm="Performance Measures_1819Adopted.xlsx")
+# excel_files <- list(
+#        gfrev="General Fund Revenue_1819Proposed.xlsx",
+#        positions="Positions_1819Proposed.xlsx",
+#        inc="Budget Requests Detail_Sec2_1819Proposed.xlsx",
+       # pm="Performance Measures_1819Proposed.xlsx")
 
 # Socrata urls
 urls <- list(
@@ -47,11 +49,19 @@ urls <- list(
 
 # Socrata endpoints
 endpoints <- list(
-       gfrev="https://data.lacity.org/resource/4bp6-ts79.json",
-       positions="https://data.lacity.org/resource/n8bu-i9tg.json",
-       inc="https://data.lacity.org/resource/9cw2-457h.json",
-       pm="https://data.lacity.org/resource/s7t9-7smw.json"
+       gfrev="https://data.lacity.org/resource/qrkr-kfbh.json",
+       positions="https://data.lacity.org/resource/46qe-t7np.json",
+       inc="https://data.lacity.org/resource/k4k6-bwwv.json",
+       pm="https://data.lacity.org/resource/bywz-284j.json"
        )
+
+# get a timestamp
+timestamp <- gsub(':','.',now())
+timestamp <- gsub(' ','_',timestamp)
+
+# prevent R from writing to scientific notation
+options(scipen=999)
+
 
 ```
 
@@ -60,11 +70,12 @@ endpoints <- list(
 ```{r}
 # Read the previous dataset from Socrata
 gfrev_existing <- read.socrata(url = urls$gfrev)
+write.csv(gfrev_existing, paste0('old_gfrev_',timestamp,'.csv'), row.names=F)
 glimpse(gfrev_existing)
 levels(as.factor(gfrev_existing$Fiscal.Year))
 
 # take out proposed data for current year, if any exists
-gfrev_existing <- gfrev_existing %>% filter(Fiscal.Year != "2018_19_proposed")
+# gfrev_existing <- gfrev_existing %>% filter(Fiscal.Year != "2018_19_proposed")
 
 # Read the new file
 gfrev_current <- read_excel(paste0(dir$data, excel_files$gfrev))
@@ -86,16 +97,23 @@ glimpse(gfrev_current)
 gfrev_current <- gfrev_current %>% 
        select (-`2016-17 Actuals`,
               -`2017-18 Adopted Budget`,
-              -`2017-18 Estimates`) %>% 
-       rename(Revenue.Amount = `2018-19 Proposed`)
+              -`2017-18 Estimates`,
+              -`2018-19 Proposed Budget`) %>% 
+       rename(Revenue.Amount = `2018-19 Adopted Budget`)
 
 # Filter out NAs, add fiscal year column
 gfrev_current_clean <- filter(gfrev_current, Revenue.Amount != 0)
-gfrev_current_clean$Fiscal.Year <- "2018_19_proposed"
+gfrev_current_clean$Fiscal.Year <- "2018_19_adopted"
+glimpse(gfrev_current_clean)
 
 # Make new dataset
 gfrev_new <- rbind(gfrev_existing, gfrev_current_clean)
 write.csv(gfrev_new, "gfrev_new.csv", row.names=F)
+
+# names to match API endpoint
+colnames(gfrev_new) <- c("dept_code","department_name","program_code",
+       "program_name","fund_code","fund_name","account_code","account_name",
+       "fiscal_year","revenue")
 
 # Write table to Socrata using RSocrata package
 write.socrata(dataframe = gfrev_new,
@@ -109,6 +127,7 @@ write.socrata(dataframe = gfrev_new,
 ```{r}
 # Read the previous dataset from Socrata
 positions_existing <- read.socrata(url = urls$positions)
+write.csv(positions_existing, paste0('old_positions_',timestamp,'.csv'), row.names=F)
 glimpse(positions_current)
 levels(as.factor(positions_existing$Budget))
 
@@ -128,14 +147,15 @@ positions_current <- positions_current %>%
               Account.Code = `Account Code`,
               Account.Name = `Account Name`)
 
-# Specific edits for this year
-positions_current <- positions_current %>% 
-       select (-`2017-18 Adopted Budget`) %>% 
-       rename(Positions = `2018-19 Proposed`)
+# Select only the data of interest
+positions_current <- positions_current[,c(1:9, ncol(positions_current))]
+
+# rename the latest data as "Positions"
+colnames(positions_current)[ncol(positions_current)] <- "Positions"
 
 # Filter out NAs, add fiscal year column
 positions_current_clean <- filter(positions_current, Positions != 0)
-positions_current_clean$Budget <- "2018-19 Proposed Budget"
+positions_current_clean$Budget <- "2018-19 Adopted Budget"
 
 # Check dataset
 glimpse(positions_current_clean)
@@ -144,6 +164,11 @@ glimpse(positions_current_clean)
 positions_new <- rbind(positions_existing, positions_current_clean)
 
 write.csv(positions_new, "positions_new.csv", row.names=F)
+
+# change column names to match API endpoint
+colnames(positions_new) <- c("department_code","department_name","program_code",
+       "program_name","fund_code","source_fund_code","source_fund_name",
+       "account_code","account_name","budget","positions")
 
 # Write table to Socrata using RSocrata package
 write.socrata(dataframe = positions_new,
@@ -157,6 +182,7 @@ write.socrata(dataframe = positions_new,
 ```{r}
 # Read the previous dataset from Socrata
 inc_existing <- read.socrata(url = urls$inc)
+write.csv(inc_existing, paste0('old_increments_',timestamp,'.csv'), row.names=F)
 levels(as.factor(inc_existing$Budget))
 
 # Read the new file
@@ -178,18 +204,25 @@ inc_current <- inc_current %>%
               Account.Name = `Audit Budget Object Name`,
               One.Time..01....On.going..BB. = `One Time/ On-going`)
 
-# Specific edits for this year
-inc_current <- inc_current %>% 
-       rename(Incremental.Change = 
-              `2018-19 Incremental change from 2017-18 Adopted Budget`)
+# select only the desired data
+inc_current <- inc_current[,c(1:13, ncol(inc_current))]
+
+# rename the incremental changes as "Incremental.Change"
+colnames(inc_current)[ncol(inc_current)] <- "Incremental.Change"
 
 # Filter out NAs, add fiscal year column
-inc_current$Budget <- "2018-19 Proposed Budget Incremental Change from 2017-18 Adopted"
+inc_current$Budget <- "2018-19 Adopted Budget Incremental Change from 2017-18 Adopted"
 
 # Make new dataset
 inc_new <- rbind(inc_existing, inc_current)
 
 write.csv(inc_new, "inc_new.csv", row.names=F)
+
+# change column names to match the API endpoint
+colnames(inc_new) <- c("department_code","department_name","program_code",
+       "program_name","fund_code","fund_name","source_fund_code",
+       "source_fund_name","budget_request_description","budget_request_category",
+       "account_code","account_name","one_time_ongoing")
 
 # Write table to Socrata using RSocrata package
 write.socrata(dataframe = inc_new,
@@ -203,6 +236,7 @@ write.socrata(dataframe = inc_new,
 ```{r}
 # Read the previous dataset from Socrata
 pm_existing <- read.socrata(url = urls$pm)
+write.csv(pm_existing, paste0('old_pm_',timestamp,'.csv'), row.names=F)
 levels(as.factor(pm_existing$Budget))
 glimpse(pm_existing)
 
@@ -220,25 +254,27 @@ pm_current <- pm_current %>% rename(Department.Code = `Dept Code`,
        Performance.Measure.Name = `Performance Measure Name`,
        Unit = `Unit/Value`)
 
-# Specific edits for this year
-pm_current <- pm_current %>% 
-       select(-`2014-15 Actuals`,
-              -`2015-16 Actuals`,
-              -`2016-17 Actuals`,
-              -`2017-18 Adopted Budget`,
-              -`2017-18 Estimates`) %>% 
-       rename(Performance.Measure.Amount = `2018-19 Proposed`)
+# select only the desired data
+pm_current <- pm_current[,c(1:9, ncol(pm_current))]
+
+# change the column name of the amount to "Performance.Measure.Amount"
+colnames(pm_current)[ncol(pm_current)] <- "Performance.Measure.Amount"
 
 # Filter out NAs, add fiscal year column
-pm_current$Budget <- "2018-19 Proposed"
+pm_current$Budget <- "2018-19 Adopted"
 
 # Make new dataset
 pm_new <- rbind(pm_existing, pm_current)
 
 write.csv(pm_new, "pm_new.csv", row.names=F)
 
+# change column names to match API endpoint
+colnames(pm_new) <- c("department_code","department_name","subdept_code",
+       "subdept_name","program_code","program_name","performance_measure_code",
+       "performance_measure_name","unit","budget","performance_measure_amount")
+
 # Write table to Socrata using RSocrata package
-write.socrata(dataframe = inc_new,
+write.socrata(dataframe = pm_new,
               dataset_json_endpoint = endpoints$pm,
               update_mode = "REPLACE",
               email = username,

@@ -16,7 +16,7 @@ pacman::p_load(dplyr, magrittr, tidyr, lubridate, data.table, RSocrata, readxl)
 #         (username.txt, password.txt - these should be plain text files 
 #		   with the first line containing nothing but the username or 
 #          password, respectively, and the second line blank)
-dir <- list(data="~/github/laBudget/data/proposed_budget/FY18-19/",
+dir <- list(data="~/github/laBudget/data/approved_budget/FY18-19/",
        login="~/github/laBudget/scripts/")
 
 # set the working directory
@@ -30,8 +30,8 @@ socrata_endpoint <- "https://data.lacity.org/resource/cd49-p4un.json"
 
 # filenames
 filenames <- list()
-filenames$departments <- "QRY Department Description Text_1819Proposed.xlsx"
-filenames$programs <- "QRY Program Description Text_1819Proposed.xlsx"
+filenames$departments <- "QRY Department Name Text_1819Adopted.xlsx"
+filenames$programs <- "QRY Program Description Text_1819Adopted.xlsx"
 
 # get Socrata username and password for upload
 username <- readLines(paste0(dir$login, 'username.txt'))
@@ -168,9 +168,22 @@ write.csv(new_descriptions, paste0('new_descriptions_',timestamp,'.csv'), row.na
 ## Write the new descriptions to Socrata ################
 
 new_descriptions %<>% data.frame
+colnames(new_descriptions) <- c("Entity Type","Entity Name","Description")
 
 write.socrata(dataframe = new_descriptions,
               dataset_json_endpoint = socrata_endpoint,
               update_mode = "REPLACE",
               email = username,
               password = password)
+
+
+
+# reformat for uploading as annotations on the open budget site
+colnames(new_descriptions) <- c("column","entity","text")
+new_descriptions$column[new_descriptions$column=="Program"] <- "program_name"
+new_descriptions$column[new_descriptions$column=="Department"] <- "department_name"
+
+# write to csv
+write.csv(new_descriptions, "new_annotations.csv", row.names=F)
+
+

@@ -14,7 +14,7 @@ pacman::p_load(dplyr, magrittr, tidyr, lubridate, data.table, RSocrata, readxl)
 # login = directory where Socrata login information is saved
 #         (username.txt, password.txt - these should be plain text files 
 #		   containing nothing but the username and password, respectively)
-dir <- list(data="~/github/laBudget/data/proposed_budget/FY18-19/",
+dir <- list(data="~/github/laBudget/data/approved_budget/FY18-19/",
        login="~/github/laBudget/scripts/")
 
 # set the working directory
@@ -24,10 +24,11 @@ setwd(dir$data)
 socrata_url <- "https://data.lacity.org/A-Prosperous-City/Open-Budget-Appropriations-Fiscal-Years-2010-2019/5242-pnmt"
 
 # API endpoint for the dataset
-socrata_endpoint <- "https://data.lacity.org/resource/ws4f-n5ax.json"
+# socrata_endpoint <- "https://data.lacity.org/resource/ws4f-n5ax.json"
+socrata_endpoint <- "https://data.lacity.org/resource/5242-pnmt.json"
 
 # filename of Excel spreadsheet
-excel_file <- "Expenditures_Sec2 All Regular Depts and NonDepts_1819Proposed.xlsx"
+excel_file <- "Expenditures_Sec2 All Regular Depts and NonDepts_1819Adopted.xlsx"
 
 # get Socrata username and password for upload
 username <- readLines(paste0(dir$login, 'username.txt'))
@@ -99,8 +100,7 @@ dd <- priority %>% select(Dept_Code, Prog_Code) %>% duplicated
 priority <- priority[!dd,]
 
 # merge in the program priority and expense type
-# new_expenses <- merge(new_expenses, priority, by=c("Dept_Code","Prog_Code"), all.x=T)
-new_expenses <- merge(new_expenses, priority, by="Prog_Code", all.x=T)
+new_expenses <- merge(new_expenses, priority, by=c("Dept_Code","Prog_Code"), all.x=T)
 
 # examine the merge
 # sapply(colnames(new_expenses), function(j) sum(is.na(new_expenses[,j])))
@@ -126,29 +126,29 @@ tapply(new_expenses$Appropriation, new_expenses$Program_Priority, sum) / sum(new
 
 
 # add a fiscal year column.
-new_expenses$fiscal_year <- new_fiscal_year
+new_expenses$Fiscal_Year <- new_fiscal_year
 
 # add a blank expense_type column. this is no longer provided
-new_expenses$expense_type <- NA
+new_expenses$Expense_Type <- NA
 
 # arrange columns in the same order as the old expenses data
 new_expenses %<>% select(colnames(old_expenses))
 
 # convert appropriation column to character
-new_expenses %<>% mutate(appropriation=as.character(appropriation))
+new_expenses %<>% mutate(Appropriation=as.character(Appropriation))
 
 # combine the old and new data
 expenses <- rbind(new_expenses, old_expenses)
 
 # sort according to fiscal year, department name, program name, account name
-expenses %<>% arrange(desc(fiscal_year), department_name, program_name, account_name)
+expenses %<>% arrange(desc(Fiscal_Year), Department_Name, Program_Name, Account_Name)
 
 
 # write to csv
-# write.csv(expenses, 'expenses.csv', row.names=F)
+write.csv(expenses, 'expenses.csv', row.names=F)
 
 # upload the data to Socrata
-write.socrata(dataframe = new_expenses,
+write.socrata(dataframe = expenses,
               dataset_json_endpoint = socrata_endpoint,
               update_mode = "REPLACE",
               email = username,

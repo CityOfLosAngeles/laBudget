@@ -16,7 +16,7 @@ pacman::p_load(dplyr, magrittr, tidyr, lubridate, data.table, RSocrata, readxl)
 # data = directory where the data are saved
 # login = directory where Socrata login information is saved
 #         (username.txt, password.txt)
-dir <- list(data="~/github/laBudget/data/proposed_budget/FY18-19/",
+dir <- list(data="~/github/laBudget/data/approved_budget/FY18-19/",
        login="~/github/laBudget/scripts/")
 
 # set the working directory
@@ -26,7 +26,8 @@ setwd(dir$data)
 socrata_url <- "https://data.lacity.org/A-Prosperous-City/Open-Budget-Revenue-2010-2018/ih6g-qkwz"
 
 # API endpoint for the dataset
-socrata_endpoint <- "https://data.lacity.org/resource/y3a7-9ent.json"
+# socrata_endpoint <- "https://data.lacity.org/resource/y3a7-9ent.json"
+socrata_endpoint <- "https://data.lacity.org/resource/ih6g-qkwz.json"
 
 # get Socrata username and password for upload
 username <- readLines(paste0(dir$login, 'username.txt'))
@@ -53,6 +54,8 @@ old_revenues %<>% filter(Fiscal.Year.Shorthand!=2019)
 new_revenues <- read.csv('new_revenues.csv', stringsAsFactors=F)
 available_balances <- read.csv('available_balances.csv', stringsAsFactors=F)
 
+available_balances %<>% filter(Available.Balance!=0)
+
 # add the available balances to the revenues
 new_revenues <- merge(new_revenues, available_balances, 
 	by="Revenue.Source", all=T)
@@ -71,7 +74,7 @@ revenues %<>% arrange(desc(Fiscal.Year.Shorthand), Fund.Type, Revenue.Source)
 
 
 # write to csv
-# write.csv(revenues, 'revenues.csv', row.names=F)
+write.csv(revenues, 'revenues.csv', row.names=F)
 
 # write to socrata
 write.socrata(dataframe = revenues,
