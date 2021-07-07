@@ -1,0 +1,1175 @@
+﻿Dept Code,Dept Name,Org Level 5 Code,Org Level 5 Name,Prog Code,Prog Name,Fund Code,Source Fund Code,Source Fund Name,Account Code,Account Name,2020-21 Adopted Budget,2021-22 Proposed Budget,2021-22 Adopted
+02,Aging,02LVL5,Aging,0201,Senior Services,100,100,General Fund,POSAN,As Needed Positions,6,6,6
+02,Aging,02LVL5,Aging,0201,Senior Services,100,100,General Fund,POSSG,Civilian Regular Authority Positions,6.3,5.98,5.98
+02,Aging,02LVL5,Aging,0201,Senior Services,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,2,2,2
+02,Aging,02LVL5,Aging,0201,Senior Services,100,385,Proposition A Local Transit Assistance Fund (Sch. 26),POSSG,Civilian Regular Authority Positions,5.12,5.12,5.12
+02,Aging,02LVL5,Aging,0201,Senior Services,100,385,Proposition A Local Transit Assistance Fund (Sch. 26),RESSG,Civilian Resolution Authority Positions,,,0.46
+02,Aging,02LVL5,Aging,0201,Senior Services,100,395,Area Plan for the Aging Title 7 Fund (Sch. 21),POSSG,Civilian Regular Authority Positions,17.1,15.42,15.42
+02,Aging,02LVL5,Aging,0201,Senior Services,100,395,Area Plan for the Aging Title 7 Fund (Sch. 21),RESSG,Civilian Resolution Authority Positions,,,1.53
+02,Aging,02LVL5,Aging,0201,Senior Services,100,424,Community Development Trust Fund (Sch. 8),POSSG,Civilian Regular Authority Positions,3.48,2.48,2.48
+02,Aging,02LVL5,Aging,0201,Senior Services,100,424,Community Development Trust Fund (Sch. 8),RESSG,Civilian Resolution Authority Positions,,,0.01
+02,Aging,02LVL5,Aging,0202,Family Caregiver Services,100,100,General Fund,POSAN,As Needed Positions,1,1,1
+02,Aging,02LVL5,Aging,0202,Family Caregiver Services,100,100,General Fund,POSSG,Civilian Regular Authority Positions,0.23,0.23,0.23
+02,Aging,02LVL5,Aging,0202,Family Caregiver Services,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,0
+02,Aging,02LVL5,Aging,0202,Family Caregiver Services,100,395,Area Plan for the Aging Title 7 Fund (Sch. 21),POSSG,Civilian Regular Authority Positions,7.77,6.77,6.77
+02,Aging,02LVL5,Aging,0202,Family Caregiver Services,100,395,Area Plan for the Aging Title 7 Fund (Sch. 21),RESSG,Civilian Resolution Authority Positions,,,1
+02,Aging,02LVL5,Aging,0203,Older Workers Program,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,4,4,4
+02,Aging,02LVL5,Aging,0203,Older Workers Program,100,395,Area Plan for the Aging Title 7 Fund (Sch. 21),POSSG,Civilian Regular Authority Positions,0.29,0.29,0.29
+02,Aging,02LVL5,Aging,0203,Older Workers Program,100,410,Other Programs for the Aging (Sch. 21),POSSG,Civilian Regular Authority Positions,3.71,3.71,3.71
+06,Animal Services,06LVL5,Animal Services,0601,Animal Control and Law Enforcement,100,100,General Fund,POSAN,As Needed Positions,6,6,6
+06,Animal Services,06LVL5,Animal Services,0601,Animal Control and Law Enforcement,100,100,General Fund,POSCOMM,Commissioner Positions,5,5,5
+06,Animal Services,06LVL5,Animal Services,0601,Animal Control and Law Enforcement,100,100,General Fund,POSSG,Civilian Regular Authority Positions,83,78,78
+06,Animal Services,06LVL5,Animal Services,0601,Animal Control and Law Enforcement,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,8,6,6
+06,Animal Services,06LVL5,Animal Services,0601,Animal Control and Law Enforcement,100,55R,Code Compliance Fund (Sch. 53),RESSG,Civilian Resolution Authority Positions,2,2,2
+06,Animal Services,06LVL5,Animal Services,0602,Shelter Operations and Animal Care,100,100,General Fund,POSAN,As Needed Positions,1,1,1
+06,Animal Services,06LVL5,Animal Services,0602,Shelter Operations and Animal Care,100,100,General Fund,POSSG,Civilian Regular Authority Positions,167,167,167
+06,Animal Services,06LVL5,Animal Services,0602,Shelter Operations and Animal Care,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,6,,6
+06,Animal Services,06LVL5,Animal Services,0607,Animal Medical Services,100,100,General Fund,POSSG,Civilian Regular Authority Positions,31,33,33
+06,Animal Services,06LVL5,Animal Services,0607,Animal Medical Services,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,6,,4
+06,Animal Services,06LVL5,Animal Services,0609,Community Engagement and Partnerships,100,100,General Fund,POSSG,Civilian Regular Authority Positions,38,33,33
+06,Animal Services,06LVL5,Animal Services,0609,Community Engagement and Partnerships,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1,,
+06,Animal Services,06LVL5,Animal Services,0650,General Administration and Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,23.1,21.1,21.1
+06,Animal Services,06LVL5,Animal Services,0650,General Administration and Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,2,1,1
+06,Animal Services,06LVL5,Animal Services,0650,General Administration and Support,100,842,Animal Sterilization Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,2.9,2.9,2.9
+08,Building and Safety,08LVL5,Building and Safety,0811,Structural Plan Checking,100,100,General Fund,POSAN,As Needed Positions,20,20,20
+08,Building and Safety,08LVL5,Building and Safety,0811,Structural Plan Checking,100,100,General Fund,POSCOMM,Commissioner Positions,10,10,10
+08,Building and Safety,08LVL5,Building and Safety,0811,Structural Plan Checking,100,48R,Building and Safety Building Permit Fund (Sch. 40),POSSG,Civilian Regular Authority Positions,176,176,176
+08,Building and Safety,08LVL5,Building and Safety,0811,Structural Plan Checking,100,48R,Building and Safety Building Permit Fund (Sch. 40),RESSG,Civilian Resolution Authority Positions,40,40,40
+08,Building and Safety,08LVL5,Building and Safety,0812,Green Buildings and Electrical and Mechanical Engineering,100,100,General Fund,POSAN,As Needed Positions,1,1,1
+08,Building and Safety,08LVL5,Building and Safety,0812,Green Buildings and Electrical and Mechanical Engineering,100,48R,Building and Safety Building Permit Fund (Sch. 40),POSSG,Civilian Regular Authority Positions,84,84,84
+08,Building and Safety,08LVL5,Building and Safety,0812,Green Buildings and Electrical and Mechanical Engineering,100,48R,Building and Safety Building Permit Fund (Sch. 40),RESSG,Civilian Resolution Authority Positions,12,12,12
+08,Building and Safety,08LVL5,Building and Safety,0813,Grading Reports and Inspection,100,48R,Building and Safety Building Permit Fund (Sch. 40),POSSG,Civilian Regular Authority Positions,45,45,45
+08,Building and Safety,08LVL5,Building and Safety,0814,Residential Inspection,100,100,General Fund,POSAN,As Needed Positions,3,3,3
+08,Building and Safety,08LVL5,Building and Safety,0814,Residential Inspection,100,48R,Building and Safety Building Permit Fund (Sch. 40),POSSG,Civilian Regular Authority Positions,101,101,101
+08,Building and Safety,08LVL5,Building and Safety,0814,Residential Inspection,100,48R,Building and Safety Building Permit Fund (Sch. 40),RESSG,Civilian Resolution Authority Positions,17,17,17
+08,Building and Safety,08LVL5,Building and Safety,0815,Commercial Inspection and Licensing,100,100,General Fund,POSAN,As Needed Positions,10,10,10
+08,Building and Safety,08LVL5,Building and Safety,0815,Commercial Inspection and Licensing,100,100,General Fund,POSSG,Civilian Regular Authority Positions,14.61,14.61,14.61
+08,Building and Safety,08LVL5,Building and Safety,0815,Commercial Inspection and Licensing,100,346,Repair & Demolition Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.96,0.96,0.96
+08,Building and Safety,08LVL5,Building and Safety,0815,Commercial Inspection and Licensing,100,46F,Off-Site Sign Periodic Inspection Fee Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.68,0.68,0.68
+08,Building and Safety,08LVL5,Building and Safety,0815,Commercial Inspection and Licensing,100,48R,Building and Safety Building Permit Fund (Sch. 40),POSSG,Civilian Regular Authority Positions,196.75,196.75,196.75
+08,Building and Safety,08LVL5,Building and Safety,0815,Commercial Inspection and Licensing,100,48R,Building and Safety Building Permit Fund (Sch. 40),RESSG,Civilian Resolution Authority Positions,52,52,52
+08,Building and Safety,08LVL5,Building and Safety,0816,Development Services Case Management,100,100,General Fund,POSAN,As Needed Positions,1,1,1
+08,Building and Safety,08LVL5,Building and Safety,0816,Development Services Case Management,100,48R,Building and Safety Building Permit Fund (Sch. 40),POSSG,Civilian Regular Authority Positions,13,13,13
+08,Building and Safety,08LVL5,Building and Safety,0816,Development Services Case Management,100,48R,Building and Safety Building Permit Fund (Sch. 40),RESSG,Civilian Resolution Authority Positions,28,28,28
+08,Building and Safety,08LVL5,Building and Safety,0817,Residential and Commercial Code Enforcement,100,100,General Fund,POSSG,Civilian Regular Authority Positions,56.84,56.84,56.84
+08,Building and Safety,08LVL5,Building and Safety,0817,Residential and Commercial Code Enforcement,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,4.38,4.38,4.38
+08,Building and Safety,08LVL5,Building and Safety,0817,Residential and Commercial Code Enforcement,100,346,Repair & Demolition Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,1.84,1.84,1.84
+08,Building and Safety,08LVL5,Building and Safety,0817,Residential and Commercial Code Enforcement,100,46F,Off-Site Sign Periodic Inspection Fee Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,1.31,1.31,1.31
+08,Building and Safety,08LVL5,Building and Safety,0817,Residential and Commercial Code Enforcement,100,48R,Building and Safety Building Permit Fund (Sch. 40),POSSG,Civilian Regular Authority Positions,30.01,30.01,30.01
+08,Building and Safety,08LVL5,Building and Safety,0817,Residential and Commercial Code Enforcement,100,48R,Building and Safety Building Permit Fund (Sch. 40),RESSG,Civilian Resolution Authority Positions,1.62,1.62,1.62
+08,Building and Safety,08LVL5,Building and Safety,0818,Conservation of Existing Structures and Mechanical Devices,100,100,General Fund,POSSG,Civilian Regular Authority Positions,13.78,13.78,13.78
+08,Building and Safety,08LVL5,Building and Safety,0818,Conservation of Existing Structures and Mechanical Devices,100,346,Repair & Demolition Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.84,0.84,0.84
+08,Building and Safety,08LVL5,Building and Safety,0818,Conservation of Existing Structures and Mechanical Devices,100,46F,Off-Site Sign Periodic Inspection Fee Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,3.6,3.6,3.6
+08,Building and Safety,08LVL5,Building and Safety,0818,Conservation of Existing Structures and Mechanical Devices,100,48R,Building and Safety Building Permit Fund (Sch. 40),POSSG,Civilian Regular Authority Positions,13.78,13.78,13.78
+08,Building and Safety,08LVL5,Building and Safety,0818,Conservation of Existing Structures and Mechanical Devices,100,52D,Planning Case Processing Fund (Sch. 35),RESSG,Civilian Resolution Authority Positions,2,,
+08,Building and Safety,08LVL5,Building and Safety,0848,Development Services Systems,100,48R,Building and Safety Building Permit Fund (Sch. 40),POSSG,Civilian Regular Authority Positions,3,3,3
+08,Building and Safety,08LVL5,Building and Safety,0849,Technology Support,100,100,General Fund,POSAN,As Needed Positions,2,2,2
+08,Building and Safety,08LVL5,Building and Safety,0849,Technology Support,100,48R,Building and Safety Building Permit Fund (Sch. 40),POSSG,Civilian Regular Authority Positions,39,39,39
+08,Building and Safety,08LVL5,Building and Safety,0849,Technology Support,100,48R,Building and Safety Building Permit Fund (Sch. 40),RESSG,Civilian Resolution Authority Positions,9,9,9
+08,Building and Safety,08LVL5,Building and Safety,0850,General Administration and Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,4.26,4.26,4.26
+08,Building and Safety,08LVL5,Building and Safety,0850,General Administration and Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1.74,1.87,1.87
+08,Building and Safety,08LVL5,Building and Safety,0850,General Administration and Support,100,346,Repair & Demolition Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.03,0.03,0.03
+08,Building and Safety,08LVL5,Building and Safety,0850,General Administration and Support,100,46F,Off-Site Sign Periodic Inspection Fee Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.02,0.02,0.02
+08,Building and Safety,08LVL5,Building and Safety,0850,General Administration and Support,100,48R,Building and Safety Building Permit Fund (Sch. 40),POSAN,As Needed Positions,1,1,1
+08,Building and Safety,08LVL5,Building and Safety,0850,General Administration and Support,100,48R,Building and Safety Building Permit Fund (Sch. 40),POSSG,Civilian Regular Authority Positions,110.69,110.69,110.69
+08,Building and Safety,08LVL5,Building and Safety,0850,General Administration and Support,100,48R,Building and Safety Building Permit Fund (Sch. 40),RESSG,Civilian Resolution Authority Positions,7.26,8.13,8.13
+10,City Administrative Officer,10LVL5,City Administrative Officer,1001,Budget Formulation and Control,100,100,General Fund,POSAN,As Needed Positions,5,5,5
+10,City Administrative Officer,10LVL5,City Administrative Officer,1001,Budget Formulation and Control,100,100,General Fund,POSSG,Civilian Regular Authority Positions,33.35,32.35,32.35
+10,City Administrative Officer,10LVL5,City Administrative Officer,1001,Budget Formulation and Control,100,41M,Systematic Code Enforcement Fee Fund (Sch. 42),POSSG,Civilian Regular Authority Positions,0.98,0.48,0.4841
+10,City Administrative Officer,10LVL5,City Administrative Officer,1001,Budget Formulation and Control,100,424,Community Development Trust Fund (Sch. 8),POSSG,Civilian Regular Authority Positions,,0.68,0.679
+10,City Administrative Officer,10LVL5,City Administrative Officer,1001,Budget Formulation and Control,100,440,Rent Stabilization Trust Fund (Sch. 23),POSSG,Civilian Regular Authority Positions,0.36,0.52,0.5171
+10,City Administrative Officer,10LVL5,City Administrative Officer,1001,Budget Formulation and Control,100,46D,Citywide Recycling Trust Fund (Sch. 32),POSSG,Civilian Regular Authority Positions,0.5,0.5,0.5
+10,City Administrative Officer,10LVL5,City Administrative Officer,1001,Budget Formulation and Control,100,48R,Building and Safety Building Permit Fund (Sch. 40),POSSG,Civilian Regular Authority Positions,0.55,0.55,0.55
+10,City Administrative Officer,10LVL5,City Administrative Officer,1001,Budget Formulation and Control,100,508,Solid Waste Resources Revenue Fund (Sch. 2),POSSG,Civilian Regular Authority Positions,0.5,0.5,0.5
+10,City Administrative Officer,10LVL5,City Administrative Officer,1001,Budget Formulation and Control,100,52D,Planning Case Processing Fund (Sch. 35),POSSG,Civilian Regular Authority Positions,0.2,0.2,0.2
+10,City Administrative Officer,10LVL5,City Administrative Officer,1001,Budget Formulation and Control,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),POSSG,Civilian Regular Authority Positions,0.5,0.5,0.5
+10,City Administrative Officer,10LVL5,City Administrative Officer,1001,Budget Formulation and Control,100,55J,Low and Moderate Income Housing Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.5,,0
+10,City Administrative Officer,10LVL5,City Administrative Officer,1001,Budget Formulation and Control,100,561,HOME Investment Partnership Program Fund (Sch. 9),POSSG,Civilian Regular Authority Positions,0.16,,-0.0012
+10,City Administrative Officer,10LVL5,City Administrative Officer,1001,Budget Formulation and Control,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,1.4,1.4,1.4
+10,City Administrative Officer,10LVL5,City Administrative Officer,1001,Budget Formulation and Control,100,815,Municipal Housing Finance Fund (Sch. 48),POSSG,Civilian Regular Authority Positions,,0.32,0.321
+10,City Administrative Officer,10LVL5,City Administrative Officer,1002,Management Services,100,100,General Fund,POSCOMM,Commissioner Positions,9,9,9
+10,City Administrative Officer,10LVL5,City Administrative Officer,1002,Management Services,100,100,General Fund,POSSG,Civilian Regular Authority Positions,11.8,11.8,11.8
+10,City Administrative Officer,10LVL5,City Administrative Officer,1002,Management Services,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1,3,3
+10,City Administrative Officer,10LVL5,City Administrative Officer,1002,Management Services,100,105,Innovation Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,1,1,1
+10,City Administrative Officer,10LVL5,City Administrative Officer,1002,Management Services,100,41M,Systematic Code Enforcement Fee Fund (Sch. 42),POSSG,Civilian Regular Authority Positions,0.07,0.03,0.0289
+10,City Administrative Officer,10LVL5,City Administrative Officer,1002,Management Services,100,424,Community Development Trust Fund (Sch. 8),POSSG,Civilian Regular Authority Positions,,0.03,0.0338
+10,City Administrative Officer,10LVL5,City Administrative Officer,1002,Management Services,100,440,Rent Stabilization Trust Fund (Sch. 23),POSSG,Civilian Regular Authority Positions,0.02,0.02,0.0219
+10,City Administrative Officer,10LVL5,City Administrative Officer,1002,Management Services,100,48R,Building and Safety Building Permit Fund (Sch. 40),POSSG,Civilian Regular Authority Positions,1.1,1.1,1.1
+10,City Administrative Officer,10LVL5,City Administrative Officer,1002,Management Services,100,52D,Planning Case Processing Fund (Sch. 35),POSSG,Civilian Regular Authority Positions,0.3,0.3,0.3
+10,City Administrative Officer,10LVL5,City Administrative Officer,1002,Management Services,100,561,HOME Investment Partnership Program Fund (Sch. 9),POSSG,Civilian Regular Authority Positions,0.01,,-0.0007
+10,City Administrative Officer,10LVL5,City Administrative Officer,1002,Management Services,100,815,Municipal Housing Finance Fund (Sch. 48),POSSG,Civilian Regular Authority Positions,,0.02,0.0161
+10,City Administrative Officer,10LVL5,City Administrative Officer,1002,Management Services,100,872,Disaster Assistance Trust Fund (Sch. 37),POSSG,Civilian Regular Authority Positions,1.7,1.7,1.7
+10,City Administrative Officer,10LVL5,City Administrative Officer,1003,Employee Relations Compensation and Benefits,100,100,General Fund,POSSG,Civilian Regular Authority Positions,9,10,10
+10,City Administrative Officer,10LVL5,City Administrative Officer,1003,Employee Relations Compensation and Benefits,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,2,,
+10,City Administrative Officer,10LVL5,City Administrative Officer,1004,Risk Management,100,100,General Fund,POSSG,Civilian Regular Authority Positions,10.05,8.05,8.05
+10,City Administrative Officer,10LVL5,City Administrative Officer,1004,Risk Management,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,2.95,2.95,2.95
+10,City Administrative Officer,10LVL5,City Administrative Officer,1006,Debt Management,100,100,General Fund,POSSG,Civilian Regular Authority Positions,4.59,4.59,4.59
+10,City Administrative Officer,10LVL5,City Administrative Officer,1006,Debt Management,100,429,Los Angeles Convention & Visitors Bureau Trust Fund (Sch. 1),POSSG,Civilian Regular Authority Positions,0.41,0.41,0.41
+10,City Administrative Officer,10LVL5,City Administrative Officer,1006,Debt Management,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,1,1,1
+10,City Administrative Officer,10LVL5,City Administrative Officer,1007,Asset Management and Capital Projects,100,100,General Fund,POSSG,Civilian Regular Authority Positions,13,13,13
+10,City Administrative Officer,10LVL5,City Administrative Officer,1007,Asset Management and Capital Projects,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,0.25,0.25
+10,City Administrative Officer,10LVL5,City Administrative Officer,1007,Asset Management and Capital Projects,100,57D,CRA Non-Housing Bond Proceeds Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,1,0.75,0.75
+10,City Administrative Officer,10LVL5,City Administrative Officer,1008,Proprietary Analysis,100,100,General Fund,POSSG,Civilian Regular Authority Positions,5,5,5
+10,City Administrative Officer,10LVL5,City Administrative Officer,1050,General Administration and Support,100,100,General Fund,POSAN,As Needed Positions,2,2,2
+10,City Administrative Officer,10LVL5,City Administrative Officer,1050,General Administration and Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,18,17,17
+11,Public Accountability,11LVL5,Public Accountability,1101,Public Accountability and Ratepayer Advocate,100,100,General Fund,POSSG,Civilian Regular Authority Positions,9,9,9
+12,City Attorney,12LVL5,City Attorney,1201,Criminal and Special Litigation,100,100,General Fund,POSSG,Civilian Regular Authority Positions,364.5,354.5,354.5
+12,City Attorney,12LVL5,City Attorney,1201,Criminal and Special Litigation,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,22,21,21
+12,City Attorney,12LVL5,City Attorney,1201,Criminal and Special Litigation,100,550,City Attorney Consumer Protection Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,13.5,12.5,12.5
+12,City Attorney,12LVL5,City Attorney,1201,Criminal and Special Litigation,100,550,City Attorney Consumer Protection Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,,1,1
+12,City Attorney,12LVL5,City Attorney,1201,Criminal and Special Litigation,100,55R,Code Compliance Fund (Sch. 53),POSSG,Civilian Regular Authority Positions,6,6,6
+12,City Attorney,12LVL5,City Attorney,1202,Civil Liability Management,100,100,General Fund,POSSG,Civilian Regular Authority Positions,201.51,197.6,197.6
+12,City Attorney,12LVL5,City Attorney,1202,Civil Liability Management,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,14,12,12
+12,City Attorney,12LVL5,City Attorney,1202,Civil Liability Management,100,342,Telecommunications Development Account (Sch. 20),POSSG,Civilian Regular Authority Positions,0.09,,0
+12,City Attorney,12LVL5,City Attorney,1202,Civil Liability Management,100,508,Solid Waste Resources Revenue Fund (Sch. 2),POSSG,Civilian Regular Authority Positions,2,2,2
+12,City Attorney,12LVL5,City Attorney,1202,Civil Liability Management,100,550,City Attorney Consumer Protection Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,10,8,8
+12,City Attorney,12LVL5,City Attorney,1202,Civil Liability Management,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,0.2,0.2,0.2
+12,City Attorney,12LVL5,City Attorney,1202,Civil Liability Management,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,0.2,0.2,0.2
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,100,General Fund,POSSG,Civilian Regular Authority Positions,160.63,157.59,157.586
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,11.85,10.08,10.0784
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,10D,Accessible Housing Fund (Sch. 38),POSSG,Civilian Regular Authority Positions,,1.1,1.097
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,10D,Accessible Housing Fund (Sch. 38),RESSG,Civilian Resolution Authority Positions,3,2,2
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,240,Housing Production Revolving Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.55,0.39,0.388
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,342,Telecommunications Development Account (Sch. 20),POSSG,Civilian Regular Authority Positions,0.73,,0
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,41M,Systematic Code Enforcement Fee Fund (Sch. 42),POSSG,Civilian Regular Authority Positions,2.65,1.32,1.3245
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,41M,Systematic Code Enforcement Fee Fund (Sch. 42),RESSG,Civilian Resolution Authority Positions,0.15,0.57,0.5678
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,424,Community Development Trust Fund (Sch. 8),POSSG,Civilian Regular Authority Positions,0.99,0.53,0.5335
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,440,Rent Stabilization Trust Fund (Sch. 23),POSSG,Civilian Regular Authority Positions,0.95,0.94,0.943
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,440,Rent Stabilization Trust Fund (Sch. 23),RESSG,Civilian Resolution Authority Positions,,0.57,0.5678
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,48R,Building and Safety Building Permit Fund (Sch. 40),POSSG,Civilian Regular Authority Positions,2.5,2.5,2.5
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,508,Solid Waste Resources Revenue Fund (Sch. 2),POSSG,Civilian Regular Authority Positions,0.5,0.5,0.5
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,508,Solid Waste Resources Revenue Fund (Sch. 2),RESSG,Civilian Resolution Authority Positions,1.5,1.5,1.5
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,52D,Planning Case Processing Fund (Sch. 35),POSSG,Civilian Regular Authority Positions,1.5,1.5,1.5
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,52D,Planning Case Processing Fund (Sch. 35),RESSG,Civilian Resolution Authority Positions,1,1,1
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,52F,Planning Long-Range Planning Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,1,1,1
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,52F,Planning Long-Range Planning Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,4,4,4
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),POSSG,Civilian Regular Authority Positions,1,1,1
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,55J,Low and Moderate Income Housing Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.5,1.19,1.1855
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,561,HOME Investment Partnership Program Fund (Sch. 9),POSSG,Civilian Regular Authority Positions,0.4,1.7,1.6975
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,56V,Foreclosure Registry Program Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,1,0.79,0.786
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,57F,Sidewalk Repair Fund (Sch. 51),RESSG,Civilian Resolution Authority Positions,0.4,0.4,0.4
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,57W,Workforce Innovation and Opportunity Act Fund (Sch. 22),POSSG,Civilian Regular Authority Positions,1.25,1.25,1.25
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,59T,Housing Impact Trust Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,,0.69,0.694
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,60E,Cannabis Regulation Special Revenue Fund (Sch. 33),RESSG,Civilian Resolution Authority Positions,4,4,4
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,1,1,1
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,760,Sewer Operations & Maintenance Fund (Sch. 14),RESSG,Civilian Resolution Authority Positions,2.1,2.1,2.1
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,1.5,1.5,1.5
+12,City Attorney,12LVL5,City Attorney,1203,Municipal Law,100,815,Municipal Housing Finance Fund (Sch. 48),POSSG,Civilian Regular Authority Positions,0.35,0.3,0.301
+12,City Attorney,12LVL5,City Attorney,1204,Proprietary and Outside Counsel,100,100,General Fund,POSSG,Civilian Regular Authority Positions,96.88,96.98,96.98
+12,City Attorney,12LVL5,City Attorney,1204,Proprietary and Outside Counsel,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,6,6,6
+12,City Attorney,12LVL5,City Attorney,1204,Proprietary and Outside Counsel,100,342,Telecommunications Development Account (Sch. 20),POSSG,Civilian Regular Authority Positions,0.1,,0
+12,City Attorney,12LVL5,City Attorney,1204,Proprietary and Outside Counsel,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,0.01,0.01,0.01
+12,City Attorney,12LVL5,City Attorney,1204,Proprietary and Outside Counsel,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,0.01,0.01,0.01
+12,City Attorney,12LVL5,City Attorney,1250,General Administration and Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,47.82,42.9,42.9
+12,City Attorney,12LVL5,City Attorney,1250,General Administration and Support,100,342,Telecommunications Development Account (Sch. 20),POSSG,Civilian Regular Authority Positions,0.08,,0
+12,City Attorney,12LVL5,City Attorney,1250,General Administration and Support,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,0.05,0.05,0.05
+12,City Attorney,12LVL5,City Attorney,1250,General Administration and Support,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,0.05,0.05,0.05
+13,Cannabis Regulation,13LVL5,Cannabis Regulation,1301,Regulations and Licensing,100,100,General Fund,POSAN,As Needed Positions,6,6,6
+13,Cannabis Regulation,13LVL5,Cannabis Regulation,1301,Regulations and Licensing,100,100,General Fund,POSCOMM,Commissioner Positions,5,5,5
+13,Cannabis Regulation,13LVL5,Cannabis Regulation,1301,Regulations and Licensing,100,60E,Cannabis Regulation Special Revenue Fund (Sch. 33),POSAN,As Needed Positions,2,2,2
+13,Cannabis Regulation,13LVL5,Cannabis Regulation,1301,Regulations and Licensing,100,60E,Cannabis Regulation Special Revenue Fund (Sch. 33),POSSG,Civilian Regular Authority Positions,6,6,6
+13,Cannabis Regulation,13LVL5,Cannabis Regulation,1301,Regulations and Licensing,100,60E,Cannabis Regulation Special Revenue Fund (Sch. 33),RESSG,Civilian Resolution Authority Positions,31,31,31
+14,City Clerk,14LVL5,City Clerk,1401,Council and Public Services,100,100,General Fund,POSAN,As Needed Positions,2,2,2
+14,City Clerk,14LVL5,City Clerk,1401,Council and Public Services,100,100,General Fund,POSBOARD,As Needed - Elections Precinct Board Members,3,3,3
+14,City Clerk,14LVL5,City Clerk,1401,Council and Public Services,100,100,General Fund,POSELECT,As Needed - Elections,14,14,14
+14,City Clerk,14LVL5,City Clerk,1401,Council and Public Services,100,100,General Fund,POSSG,Civilian Regular Authority Positions,25,24,25
+14,City Clerk,14LVL5,City Clerk,1401,Council and Public Services,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,2,2
+14,City Clerk,14LVL5,City Clerk,1401,Council and Public Services,100,508,Solid Waste Resources Revenue Fund (Sch. 2),POSSG,Civilian Regular Authority Positions,0.5,0.5,0.5
+14,City Clerk,14LVL5,City Clerk,1401,Council and Public Services,100,60E,Cannabis Regulation Special Revenue Fund (Sch. 33),POSSG,Civilian Regular Authority Positions,1,1,1
+14,City Clerk,14LVL5,City Clerk,1401,Council and Public Services,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,0.5,0.5,0.5
+14,City Clerk,14LVL5,City Clerk,1402,Administration of City Elections,100,100,General Fund,POSSG,Civilian Regular Authority Positions,28,25,26
+14,City Clerk,14LVL5,City Clerk,1405,Records Management,100,100,General Fund,POSAN,As Needed Positions,1,1,1
+14,City Clerk,14LVL5,City Clerk,1405,Records Management,100,100,General Fund,POSSG,Civilian Regular Authority Positions,4,4,4
+14,City Clerk,14LVL5,City Clerk,1406,Special Assessments,100,100,General Fund,POSSG,Civilian Regular Authority Positions,2.8,2.52,2.5201
+14,City Clerk,14LVL5,City Clerk,1406,Special Assessments,100,659,Business Improvement Trust Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,8.2,7.48,7.4799
+14,City Clerk,14LVL5,City Clerk,1407,Mayor and City Council Administrative Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,27,26,27
+14,City Clerk,14LVL5,City Clerk,1449,Technology Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,4,6,6
+14,City Clerk,14LVL5,City Clerk,1449,Technology Support,100,342,Telecommunications Development Account (Sch. 20),POSSG,Civilian Regular Authority Positions,2,,0
+14,City Clerk,14LVL5,City Clerk,1450,General Administration and Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,12.28,10.28,12.28
+14,City Clerk,14LVL5,City Clerk,1450,General Administration and Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1,,1
+14,City Clerk,14LVL5,City Clerk,1450,General Administration and Support,100,659,Business Improvement Trust Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,2.72,2.72,2.72
+15,"Civil, Human Rights and Equity",15LVL5,"Civil, Human Rights and Equity",1501,Commission Oversight and Discrimination Enforcement,100,100,General Fund,POSAN,As Needed Positions,,2,2
+15,"Civil, Human Rights and Equity",15LVL5,"Civil, Human Rights and Equity",1501,Commission Oversight and Discrimination Enforcement,100,100,General Fund,POSCOMM,Commissioner Positions,7,25,25
+15,"Civil, Human Rights and Equity",15LVL5,"Civil, Human Rights and Equity",1501,Commission Oversight and Discrimination Enforcement,100,100,General Fund,POSSG,Civilian Regular Authority Positions,1,1,1
+15,"Civil, Human Rights and Equity",15LVL5,"Civil, Human Rights and Equity",1501,Commission Oversight and Discrimination Enforcement,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,6,23,29
+17,Ethics Commission,17LVL5,City Ethics Commission,1701,Governmental Ethics,100,100,General Fund,POSAN,As Needed Positions,6,6,6
+17,Ethics Commission,17LVL5,City Ethics Commission,1701,Governmental Ethics,100,100,General Fund,POSCOMM,Commissioner Positions,5,5,5
+17,Ethics Commission,17LVL5,City Ethics Commission,1701,Governmental Ethics,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,0
+17,Ethics Commission,17LVL5,City Ethics Commission,1701,Governmental Ethics,100,534,City Ethics Commission Fund (Sch. 30),POSSG,Civilian Regular Authority Positions,32,31,32
+17,Ethics Commission,17LVL5,City Ethics Commission,1701,Governmental Ethics,100,534,City Ethics Commission Fund (Sch. 30),RESSG,Civilian Resolution Authority Positions,1,1,2
+19,Youth Development,19LVL5,Youth Department,1901,Youth Development Services,100,100,General Fund,POSSG,Civilian Regular Authority Positions,,1,1
+19,Youth Development,19LVL5,Youth Department,1901,Youth Development Services,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,7,7
+21,Community Investment for Families,21LVL5,Community Investment for Families,2101,Community Investment,100,100,General Fund,POSCOMM,Commissioner Positions,,15,15
+21,Community Investment for Families,21LVL5,Community Investment for Families,2101,Community Investment,100,100,General Fund,POSSG,Civilian Regular Authority Positions,,2.1,2.1
+21,Community Investment for Families,21LVL5,Community Investment for Families,2101,Community Investment,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,0.95,0.95
+21,Community Investment for Families,21LVL5,Community Investment for Families,2101,Community Investment,100,424,Community Development Trust Fund (Sch. 8),POSSG,Civilian Regular Authority Positions,,27.55,27.55
+21,Community Investment for Families,21LVL5,Community Investment for Families,2101,Community Investment,100,424,Community Development Trust Fund (Sch. 8),RESSG,Civilian Resolution Authority Positions,,26.75,26.75
+21,Community Investment for Families,21LVL5,Community Investment for Families,2101,Community Investment,100,428,Community Service Block Grant Trust Fund (Sch. 13),POSSG,Civilian Regular Authority Positions,,5.35,5.35
+21,Community Investment for Families,21LVL5,Community Investment for Families,2101,Community Investment,100,428,Community Service Block Grant Trust Fund (Sch. 13),RESSG,Civilian Resolution Authority Positions,,5.3,5.3
+21,Community Investment for Families,21LVL5,Community Investment for Families,2101,Community Investment,100,45C,Traffic Safety Education Program Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,,3,3
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2202,Adult Workforce Development,100,100,General Fund,POSAN,As Needed Positions,4,4,4
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2202,Adult Workforce Development,100,100,General Fund,POSSG,Civilian Regular Authority Positions,0.5,,0
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2202,Adult Workforce Development,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,2,1,1
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2202,Adult Workforce Development,100,424,Community Development Trust Fund (Sch. 8),POSSG,Civilian Regular Authority Positions,0.1,,0
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2202,Adult Workforce Development,100,424,Community Development Trust Fund (Sch. 8),RESSG,Civilian Resolution Authority Positions,0.01,0.01,0.01
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2202,Adult Workforce Development,100,56E,LA County Youth Job Program Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.12,,0
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2202,Adult Workforce Development,100,56E,LA County Youth Job Program Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,0.02,0.02,0.02
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2202,Adult Workforce Development,100,57D,CRA Non-Housing Bond Proceeds Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.05,,0
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2202,Adult Workforce Development,100,57W,Workforce Innovation and Opportunity Act Fund (Sch. 22),POSSG,Civilian Regular Authority Positions,25.23,22,22
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2202,Adult Workforce Development,100,57W,Workforce Innovation and Opportunity Act Fund (Sch. 22),RESSG,Civilian Resolution Authority Positions,13.97,12.97,12.97
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2205,Economic Development,100,100,General Fund,POSAN,As Needed Positions,2,2,2
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2205,Economic Development,100,100,General Fund,POSSG,Civilian Regular Authority Positions,1.39,1.39,1.39
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2205,Economic Development,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,12.55,9.55,15.55
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2205,Economic Development,100,424,Community Development Trust Fund (Sch. 8),POSSG,Civilian Regular Authority Positions,7.11,6.11,6.11
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2205,Economic Development,100,424,Community Development Trust Fund (Sch. 8),RESSG,Civilian Resolution Authority Positions,2.45,2.45,2.45
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2205,Economic Development,100,57D,CRA Non-Housing Bond Proceeds Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,2.5,2.5,2.5
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2205,Economic Development,100,57D,CRA Non-Housing Bond Proceeds Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,1,,
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2205,Economic Development,100,62L,Economic Development Trust Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,,1,1
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2207,Youth Workforce Development,100,100,General Fund,POSAN,As Needed Positions,2,2,2
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2207,Youth Workforce Development,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,5.06,4.66,5.66
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2207,Youth Workforce Development,100,56E,LA County Youth Job Program Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.7,0.7,0.7
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2207,Youth Workforce Development,100,56E,LA County Youth Job Program Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,1.16,1.09,1.09
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2207,Youth Workforce Development,100,57W,Workforce Innovation and Opportunity Act Fund (Sch. 22),POSSG,Civilian Regular Authority Positions,12.3,11.3,11.3
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2207,Youth Workforce Development,100,57W,Workforce Innovation and Opportunity Act Fund (Sch. 22),RESSG,Civilian Resolution Authority Positions,13.78,13.25,13.25
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2249,Technology Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,1.22,0.56,0.56
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2249,Technology Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,0.47,0.22,0.22
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2249,Technology Support,100,424,Community Development Trust Fund (Sch. 8),POSSG,Civilian Regular Authority Positions,0.69,0.33,0.33
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2249,Technology Support,100,424,Community Development Trust Fund (Sch. 8),RESSG,Civilian Resolution Authority Positions,0.21,0.1,0.1
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2249,Technology Support,100,56E,LA County Youth Job Program Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.2,0.1,0.1
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2249,Technology Support,100,56E,LA County Youth Job Program Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,0.04,0.02,0.02
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2249,Technology Support,100,57D,CRA Non-Housing Bond Proceeds Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.2,0.1,0.1
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2249,Technology Support,100,57D,CRA Non-Housing Bond Proceeds Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,0.08,0.04,0.04
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2249,Technology Support,100,57W,Workforce Innovation and Opportunity Act Fund (Sch. 22),POSSG,Civilian Regular Authority Positions,6.69,3.91,3.91
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2249,Technology Support,100,57W,Workforce Innovation and Opportunity Act Fund (Sch. 22),RESSG,Civilian Resolution Authority Positions,1.2,0.62,0.62
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2250,General Administration and Support,100,100,General Fund,POSAN,As Needed Positions,2,2,2
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2250,General Administration and Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,5.41,5.08,5.08
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2250,General Administration and Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1.64,1.64,2.64
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2250,General Administration and Support,100,424,Community Development Trust Fund (Sch. 8),POSSG,Civilian Regular Authority Positions,5.69,4.84,4.84
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2250,General Administration and Support,100,424,Community Development Trust Fund (Sch. 8),RESSG,Civilian Resolution Authority Positions,0.45,0.45,0.45
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2250,General Administration and Support,100,56E,LA County Youth Job Program Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,1.9,1.81,1.81
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2250,General Administration and Support,100,56E,LA County Youth Job Program Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,0.15,0.15,0.15
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2250,General Administration and Support,100,57D,CRA Non-Housing Bond Proceeds Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.89,0.83,0.83
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2250,General Administration and Support,100,57D,CRA Non-Housing Bond Proceeds Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,0.09,0.09,0.09
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2250,General Administration and Support,100,57W,Workforce Innovation and Opportunity Act Fund (Sch. 22),POSSG,Civilian Regular Authority Positions,26.01,26.44,26.44
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2250,General Administration and Support,100,57W,Workforce Innovation and Opportunity Act Fund (Sch. 22),RESSG,Civilian Resolution Authority Positions,4.67,4.67,4.67
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2250,General Administration and Support,100,58E,LA Performance Partnership Pilot Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.1,,0
+26,Controller,26LVL5,Controller,2601,Accounting and Disbursement of City Funds,100,100,General Fund,POSAN,As Needed Positions,5,5,5
+26,Controller,26LVL5,Controller,2601,Accounting and Disbursement of City Funds,100,100,General Fund,POSSG,Civilian Regular Authority Positions,41.4,40.35,40.35
+26,Controller,26LVL5,Controller,2601,Accounting and Disbursement of City Funds,100,385,Proposition A Local Transit Assistance Fund (Sch. 26),POSSG,Civilian Regular Authority Positions,1.46,1.46,1.46
+26,Controller,26LVL5,Controller,2601,Accounting and Disbursement of City Funds,100,41M,Systematic Code Enforcement Fee Fund (Sch. 42),POSSG,Civilian Regular Authority Positions,0.93,0.24,0.2425
+26,Controller,26LVL5,Controller,2601,Accounting and Disbursement of City Funds,100,424,Community Development Trust Fund (Sch. 8),POSSG,Civilian Regular Authority Positions,,0.34,0.3395
+26,Controller,26LVL5,Controller,2601,Accounting and Disbursement of City Funds,100,440,Rent Stabilization Trust Fund (Sch. 23),POSSG,Civilian Regular Authority Positions,,0.26,0.2575
+26,Controller,26LVL5,Controller,2601,Accounting and Disbursement of City Funds,100,561,HOME Investment Partnership Program Fund (Sch. 9),POSSG,Civilian Regular Authority Positions,0.02,,0
+26,Controller,26LVL5,Controller,2601,Accounting and Disbursement of City Funds,100,57W,Workforce Innovation and Opportunity Act Fund (Sch. 22),POSSG,Civilian Regular Authority Positions,0.65,0.65,0.65
+26,Controller,26LVL5,Controller,2601,Accounting and Disbursement of City Funds,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,3.54,3.54,3.54
+26,Controller,26LVL5,Controller,2601,Accounting and Disbursement of City Funds,100,815,Municipal Housing Finance Fund (Sch. 48),POSSG,Civilian Regular Authority Positions,,0.16,0.1605
+26,Controller,26LVL5,Controller,2602,Financial Reporting of City and Grant Funds,100,100,General Fund,POSSG,Civilian Regular Authority Positions,20.97,19.97,19.97
+26,Controller,26LVL5,Controller,2602,Financial Reporting of City and Grant Funds,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,2,2,2
+26,Controller,26LVL5,Controller,2602,Financial Reporting of City and Grant Funds,100,385,Proposition A Local Transit Assistance Fund (Sch. 26),POSSG,Civilian Regular Authority Positions,0.01,0.01,0.01
+26,Controller,26LVL5,Controller,2602,Financial Reporting of City and Grant Funds,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,0.02,0.02,0.02
+26,Controller,26LVL5,Controller,2603,Audits of City Departments and Programs,100,100,General Fund,POSSG,Civilian Regular Authority Positions,22,21,21
+26,Controller,26LVL5,Controller,2603,Audits of City Departments and Programs,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,1
+26,Controller,26LVL5,Controller,2603,Audits of City Departments and Programs,100,48R,Building and Safety Building Permit Fund (Sch. 40),RESSG,Civilian Resolution Authority Positions,1,2,2
+26,Controller,26LVL5,Controller,2604,Support of the City's Financial Systems,100,100,General Fund,POSSG,Civilian Regular Authority Positions,18,16,16
+26,Controller,26LVL5,Controller,2605,Citywide Payroll Administration,100,100,General Fund,POSSG,Civilian Regular Authority Positions,30,25,25
+26,Controller,26LVL5,Controller,2605,Citywide Payroll Administration,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,5,5,5
+26,Controller,26LVL5,Controller,2650,General Administration and Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,26,25,25
+26,Controller,26LVL5,Controller,2650,General Administration and Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1,1,1
+28,Council,28LVL5,Council,2801,Legislation and Policy Determination,100,100,General Fund,POSAN,As Needed Positions,34,34,34
+28,Council,28LVL5,Council,2801,Legislation and Policy Determination,100,100,General Fund,POSSG,Civilian Regular Authority Positions,107.96,107.96,107.96
+28,Council,28LVL5,Council,2801,Legislation and Policy Determination,100,385,Proposition A Local Transit Assistance Fund (Sch. 26),POSSG,Civilian Regular Authority Positions,0.04,0.04,0.04
+30,Cultural Affairs,30LVL5,Cultural Affairs,3001,Community Arts,100,100,General Fund,POSAN,As Needed Positions,38,38,38
+30,Cultural Affairs,30LVL5,Cultural Affairs,3001,Community Arts,100,100,General Fund,POSCOMM,Commissioner Positions,7,7,7
+30,Cultural Affairs,30LVL5,Cultural Affairs,3001,Community Arts,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,5
+30,Cultural Affairs,30LVL5,Cultural Affairs,3001,Community Arts,100,480,Arts and Cultural Facilities & Services Fund (Sch. 24),POSSG,Civilian Regular Authority Positions,41,36,36
+30,Cultural Affairs,30LVL5,Cultural Affairs,3001,Community Arts,100,480,Arts and Cultural Facilities & Services Fund (Sch. 24),RESSG,Civilian Resolution Authority Positions,6,6,10
+30,Cultural Affairs,30LVL5,Cultural Affairs,3002,Marketing and Development,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,1
+30,Cultural Affairs,30LVL5,Cultural Affairs,3002,Marketing and Development,100,480,Arts and Cultural Facilities & Services Fund (Sch. 24),POSSG,Civilian Regular Authority Positions,5,4,4
+30,Cultural Affairs,30LVL5,Cultural Affairs,3002,Marketing and Development,100,480,Arts and Cultural Facilities & Services Fund (Sch. 24),RESSG,Civilian Resolution Authority Positions,,,0
+30,Cultural Affairs,30LVL5,Cultural Affairs,3003,Public Art,100,480,Arts and Cultural Facilities & Services Fund (Sch. 24),POSSG,Civilian Regular Authority Positions,10,10,10
+30,Cultural Affairs,30LVL5,Cultural Affairs,3003,Public Art,100,480,Arts and Cultural Facilities & Services Fund (Sch. 24),RESSG,Civilian Resolution Authority Positions,3,3,3
+30,Cultural Affairs,30LVL5,Cultural Affairs,3004,Grants Program,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,1
+30,Cultural Affairs,30LVL5,Cultural Affairs,3004,Grants Program,100,480,Arts and Cultural Facilities & Services Fund (Sch. 24),POSSG,Civilian Regular Authority Positions,4,3,3
+30,Cultural Affairs,30LVL5,Cultural Affairs,3004,Grants Program,100,480,Arts and Cultural Facilities & Services Fund (Sch. 24),RESSG,Civilian Resolution Authority Positions,,,0
+30,Cultural Affairs,30LVL5,Cultural Affairs,3050,General Administration and Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,2
+30,Cultural Affairs,30LVL5,Cultural Affairs,3050,General Administration and Support,100,480,Arts and Cultural Facilities & Services Fund (Sch. 24),POSAN,As Needed Positions,1,1,1
+30,Cultural Affairs,30LVL5,Cultural Affairs,3050,General Administration and Support,100,480,Arts and Cultural Facilities & Services Fund (Sch. 24),POSSG,Civilian Regular Authority Positions,16,14,14
+30,Cultural Affairs,30LVL5,Cultural Affairs,3050,General Administration and Support,100,480,Arts and Cultural Facilities & Services Fund (Sch. 24),RESSG,Civilian Resolution Authority Positions,2,1,2
+32,Information Technology Agency,32LVL5,Information Technology Agency,3201,Public Safety Applications,100,100,General Fund,POSAN,As Needed Positions,10,10,10
+32,Information Technology Agency,32LVL5,Information Technology Agency,3201,Public Safety Applications,100,100,General Fund,POSHH,Hiring Hall Positions,2,2,2
+32,Information Technology Agency,32LVL5,Information Technology Agency,3201,Public Safety Applications,100,100,General Fund,POSSG,Civilian Regular Authority Positions,18,13,13
+32,Information Technology Agency,32LVL5,Information Technology Agency,3201,Public Safety Applications,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,1
+32,Information Technology Agency,32LVL5,Information Technology Agency,3202,Public Safety Communications,100,100,General Fund,POSSG,Civilian Regular Authority Positions,78,68,68
+32,Information Technology Agency,32LVL5,Information Technology Agency,3202,Public Safety Communications,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,7
+32,Information Technology Agency,32LVL5,Information Technology Agency,3203,Customer Engagement,100,100,General Fund,POSSG,Civilian Regular Authority Positions,1,26.2,26.2
+32,Information Technology Agency,32LVL5,Information Technology Agency,3203,Customer Engagement,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,2
+32,Information Technology Agency,32LVL5,Information Technology Agency,3203,Customer Engagement,100,342,Telecommunications Development Account (Sch. 20),POSSG,Civilian Regular Authority Positions,41.1,14,14
+32,Information Technology Agency,32LVL5,Information Technology Agency,3203,Customer Engagement,100,48R,Building and Safety Building Permit Fund (Sch. 40),POSSG,Civilian Regular Authority Positions,20.88,20.16,20.16
+32,Information Technology Agency,32LVL5,Information Technology Agency,3203,Customer Engagement,100,508,Solid Waste Resources Revenue Fund (Sch. 2),POSSG,Civilian Regular Authority Positions,10.44,10.08,10.08
+32,Information Technology Agency,32LVL5,Information Technology Agency,3203,Customer Engagement,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,0.58,0.56,0.56
+32,Information Technology Agency,32LVL5,Information Technology Agency,3206,Client Services and Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,40,34,34
+32,Information Technology Agency,32LVL5,Information Technology Agency,3206,Client Services and Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,2,,2
+32,Information Technology Agency,32LVL5,Information Technology Agency,3207,Enterprise Applications,100,100,General Fund,POSSG,Civilian Regular Authority Positions,47.67,36.67,36.67
+32,Information Technology Agency,32LVL5,Information Technology Agency,3207,Enterprise Applications,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,4,4,6
+32,Information Technology Agency,32LVL5,Information Technology Agency,3207,Enterprise Applications,100,347,Street Lighting Maintenance Assessment Fund (Sch. 19),POSSG,Civilian Regular Authority Positions,0.33,0.33,0.33
+32,Information Technology Agency,32LVL5,Information Technology Agency,3208,Enterprise and Cloud Infrastructure,100,100,General Fund,POSSG,Civilian Regular Authority Positions,49,44,44
+32,Information Technology Agency,32LVL5,Information Technology Agency,3208,Enterprise and Cloud Infrastructure,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,2
+32,Information Technology Agency,32LVL5,Information Technology Agency,3209,Voice and Video Engineering and Operations,100,100,General Fund,POSSG,Civilian Regular Authority Positions,11,19,19
+32,Information Technology Agency,32LVL5,Information Technology Agency,3209,Voice and Video Engineering and Operations,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,2
+32,Information Technology Agency,32LVL5,Information Technology Agency,3209,Voice and Video Engineering and Operations,100,342,Telecommunications Development Account (Sch. 20),POSSG,Civilian Regular Authority Positions,10,,0
+32,Information Technology Agency,32LVL5,Information Technology Agency,3210,Data Engineering and Operations,100,100,General Fund,POSSG,Civilian Regular Authority Positions,42,46,46
+32,Information Technology Agency,32LVL5,Information Technology Agency,3210,Data Engineering and Operations,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,2,,4
+32,Information Technology Agency,32LVL5,Information Technology Agency,3210,Data Engineering and Operations,100,342,Telecommunications Development Account (Sch. 20),POSSG,Civilian Regular Authority Positions,6,,0
+32,Information Technology Agency,32LVL5,Information Technology Agency,3211,Business Applications and Web Services,100,100,General Fund,POSSG,Civilian Regular Authority Positions,26,30,30
+32,Information Technology Agency,32LVL5,Information Technology Agency,3211,Business Applications and Web Services,100,342,Telecommunications Development Account (Sch. 20),POSSG,Civilian Regular Authority Positions,6,,0
+32,Information Technology Agency,32LVL5,Information Technology Agency,3250,General Administration and Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,33,33,33
+32,Information Technology Agency,32LVL5,Information Technology Agency,3250,General Administration and Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,1
+32,Information Technology Agency,32LVL5,Information Technology Agency,3250,General Administration and Support,100,342,Telecommunications Development Account (Sch. 20),POSSG,Civilian Regular Authority Positions,1,,0
+33,El Pueblo de Los Angeles,33LVL5,El Pueblo de Los Angeles,3301,History and Museums,100,100,General Fund,POSAN,As Needed Positions,7,7,7
+33,El Pueblo de Los Angeles,33LVL5,El Pueblo de Los Angeles,3301,History and Museums,100,100,General Fund,POSCOMM,Commissioner Positions,9,9,9
+33,El Pueblo de Los Angeles,33LVL5,El Pueblo de Los Angeles,3302,Marketing and Events,100,737,El Pueblo de Los Angeles Historical Monument Fund (Sch. 43),POSSG,Civilian Regular Authority Positions,1,1,1
+33,El Pueblo de Los Angeles,33LVL5,El Pueblo de Los Angeles,3348,Property Management,100,737,El Pueblo de Los Angeles Historical Monument Fund (Sch. 43),POSSG,Civilian Regular Authority Positions,2,2,2
+33,El Pueblo de Los Angeles,33LVL5,El Pueblo de Los Angeles,3350,General Administration and Support,100,737,El Pueblo de Los Angeles Historical Monument Fund (Sch. 43),POSSG,Civilian Regular Authority Positions,7,6,6
+33,El Pueblo de Los Angeles,33LVL5,El Pueblo de Los Angeles,3350,General Administration and Support,100,737,El Pueblo de Los Angeles Historical Monument Fund (Sch. 43),RESSG,Civilian Resolution Authority Positions,,,1
+35,Emergency Management,35LVL5,Emergency Management,3501,Emergency Management,100,100,General Fund,POSAN,As Needed Positions,2,2,2
+35,Emergency Management,35LVL5,Emergency Management,3501,Emergency Management,100,100,General Fund,POSSG,Civilian Regular Authority Positions,22,18,18
+35,Emergency Management,35LVL5,Emergency Management,3501,Emergency Management,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,8,8,11
+35,Emergency Management,35LVL5,Emergency Management,3501,Emergency Management,100,508,Solid Waste Resources Revenue Fund (Sch. 2),POSSG,Civilian Regular Authority Positions,0.5,0.5,0.5
+35,Emergency Management,35LVL5,Emergency Management,3501,Emergency Management,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,0.5,0.5,0.5
+36,Employee Relations Board,36LVL5,Employee Relations Board,3601,Employee Relations,100,100,General Fund,POSCOMM,Commissioner Positions,5,5,5
+36,Employee Relations Board,36LVL5,Employee Relations Board,3601,Employee Relations,100,100,General Fund,POSSG,Civilian Regular Authority Positions,3,3,3
+38,Fire,38LVL5,Fire,3801,Arson Investigation and Counter-Terrorism,100,100,General Fund,POSAN,As Needed Positions,1,1,1
+38,Fire,38LVL5,Fire,3801,Arson Investigation and Counter-Terrorism,100,100,General Fund,POSCOMM,Commissioner Positions,5,5,5
+38,Fire,38LVL5,Fire,3801,Arson Investigation and Counter-Terrorism,100,100,General Fund,POSSG,Civilian Regular Authority Positions,3,3,3
+38,Fire,38LVL5,Fire,3801,Arson Investigation and Counter-Terrorism,100,100,General Fund,POSSW,Sworn Regular Authority Positions,30,30,30
+38,Fire,38LVL5,Fire,3803,Fire Suppression,100,100,General Fund,POSSG,Civilian Regular Authority Positions,18,18,18
+38,Fire,38LVL5,Fire,3803,Fire Suppression,100,100,General Fund,POSSW,Sworn Regular Authority Positions,1796,1796,1797
+38,Fire,38LVL5,Fire,3803,Fire Suppression,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1,1,1
+38,Fire,38LVL5,Fire,3803,Fire Suppression,100,100,General Fund,RESSW,Sworn Resolution Authority Positions,69,69,69
+38,Fire,38LVL5,Fire,3803,Fire Suppression,100,574,Local Public Safety Fund (Sch. 17),POSSW,Sworn Regular Authority Positions,53,53,53
+38,Fire,38LVL5,Fire,3804,Metropolitan Fire Communications,100,100,General Fund,POSSG,Civilian Regular Authority Positions,2,2,2
+38,Fire,38LVL5,Fire,3804,Metropolitan Fire Communications,100,100,General Fund,POSSW,Sworn Regular Authority Positions,111,111,111
+38,Fire,38LVL5,Fire,3805,Hazardous Materials Enforcement,100,100,General Fund,POSSG,Civilian Regular Authority Positions,15,14,14
+38,Fire,38LVL5,Fire,3805,Hazardous Materials Enforcement,100,100,General Fund,POSSW,Sworn Regular Authority Positions,23,23,23
+38,Fire,38LVL5,Fire,3805,Hazardous Materials Enforcement,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,1
+38,Fire,38LVL5,Fire,3805,Hazardous Materials Enforcement,100,100,General Fund,RESSW,Sworn Resolution Authority Positions,,,4
+38,Fire,38LVL5,Fire,3806,Fire Prevention,100,100,General Fund,POSSG,Civilian Regular Authority Positions,37,37,37
+38,Fire,38LVL5,Fire,3806,Fire Prevention,100,100,General Fund,POSSW,Sworn Regular Authority Positions,139,145,146
+38,Fire,38LVL5,Fire,3806,Fire Prevention,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,3,1,1
+38,Fire,38LVL5,Fire,3806,Fire Prevention,100,100,General Fund,RESSW,Sworn Resolution Authority Positions,6,,4
+38,Fire,38LVL5,Fire,3808,Emergency Medical Service,100,100,General Fund,POSAN,As Needed Positions,,1,0
+38,Fire,38LVL5,Fire,3808,Emergency Medical Service,100,100,General Fund,POSSG,Civilian Regular Authority Positions,5,4,4
+38,Fire,38LVL5,Fire,3808,Emergency Medical Service,100,100,General Fund,POSSW,Sworn Regular Authority Positions,1146,1146,1146
+38,Fire,38LVL5,Fire,3808,Emergency Medical Service,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,7,7,7
+38,Fire,38LVL5,Fire,3808,Emergency Medical Service,100,100,General Fund,RESSW,Sworn Resolution Authority Positions,6,6,6
+38,Fire,38LVL5,Fire,3847,Training,100,100,General Fund,POSSG,Civilian Regular Authority Positions,22,21,21
+38,Fire,38LVL5,Fire,3847,Training,100,100,General Fund,POSSW,Sworn Regular Authority Positions,62,62,62
+38,Fire,38LVL5,Fire,3847,Training,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1,1,1
+38,Fire,38LVL5,Fire,3847,Training,100,100,General Fund,RESSW,Sworn Resolution Authority Positions,3,3,3
+38,Fire,38LVL5,Fire,3848,"Procurement, Maintenance and Repair",100,100,General Fund,POSSG,Civilian Regular Authority Positions,113,101,101
+38,Fire,38LVL5,Fire,3848,"Procurement, Maintenance and Repair",100,100,General Fund,POSSW,Sworn Regular Authority Positions,12,12,12
+38,Fire,38LVL5,Fire,3848,"Procurement, Maintenance and Repair",100,100,General Fund,RESSW,Sworn Resolution Authority Positions,1,1,1
+38,Fire,38LVL5,Fire,3849,Technology Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,74,65,65
+38,Fire,38LVL5,Fire,3849,Technology Support,100,100,General Fund,POSSW,Sworn Regular Authority Positions,3,3,3
+38,Fire,38LVL5,Fire,3849,Technology Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1,,
+38,Fire,38LVL5,Fire,3850,General Administration and Support,100,100,General Fund,POSAN,As Needed Positions,5,5,5
+38,Fire,38LVL5,Fire,3850,General Administration and Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,126,115,115
+38,Fire,38LVL5,Fire,3850,General Administration and Support,100,100,General Fund,POSSW,Sworn Regular Authority Positions,41,41,41
+38,Fire,38LVL5,Fire,3850,General Administration and Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,3,3,3
+39,Finance,39LVL5,Finance,3901,Revenue Management,100,100,General Fund,POSAN,As Needed Positions,8,8,8
+39,Finance,39LVL5,Finance,3901,Revenue Management,100,100,General Fund,POSSG,Civilian Regular Authority Positions,51.61,45.61,45.61
+39,Finance,39LVL5,Finance,3901,Revenue Management,100,347,Street Lighting Maintenance Assessment Fund (Sch. 19),POSSG,Civilian Regular Authority Positions,0.39,0.39,0.39
+39,Finance,39LVL5,Finance,3902,Treasury Services,100,100,General Fund,POSSG,Civilian Regular Authority Positions,11.9,10.9,10.9
+39,Finance,39LVL5,Finance,3902,Treasury Services,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,3,3,3
+39,Finance,39LVL5,Finance,3902,Treasury Services,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,1.1,1.1,1.1
+39,Finance,39LVL5,Finance,3905,LATAX System Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,19.75,20.75,20.75
+39,Finance,39LVL5,Finance,3905,LATAX System Support,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,0.25,0.25,0.25
+39,Finance,39LVL5,Finance,3906,Customer Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,60,56,56
+39,Finance,39LVL5,Finance,3906,Customer Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,7,7,7.0002
+39,Finance,39LVL5,Finance,3906,Customer Support,100,60E,Cannabis Regulation Special Revenue Fund (Sch. 33),RESSG,Civilian Resolution Authority Positions,2,2,1.9998
+39,Finance,39LVL5,Finance,3908,Investment,100,100,General Fund,POSSG,Civilian Regular Authority Positions,4.25,4.25,4.25
+39,Finance,39LVL5,Finance,3908,Investment,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,0.75,0.75,0.75
+39,Finance,39LVL5,Finance,3909,Tax and Permit,100,100,General Fund,POSSG,Civilian Regular Authority Positions,176,169,169
+39,Finance,39LVL5,Finance,3909,Tax and Permit,100,60E,Cannabis Regulation Special Revenue Fund (Sch. 33),RESSG,Civilian Resolution Authority Positions,4,4,4
+39,Finance,39LVL5,Finance,3950,General Administration and Support,100,100,General Fund,POSAN,As Needed Positions,7,7,7
+39,Finance,39LVL5,Finance,3950,General Administration and Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,26.41,26.41,26.41
+39,Finance,39LVL5,Finance,3950,General Administration and Support,100,55R,Code Compliance Fund (Sch. 53),POSSG,Civilian Regular Authority Positions,1,1,1
+39,Finance,39LVL5,Finance,3950,General Administration and Support,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,0.04,0.04,0.04
+39,Finance,39LVL5,Finance,3950,General Administration and Support,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,0.55,0.55,0.55
+40,General Services,40LVL5,General Services,4001,Custodial Services,100,100,General Fund,POSAN,As Needed Positions,83,83,83
+40,General Services,40LVL5,General Services,4001,Custodial Services,100,100,General Fund,POSHH,Hiring Hall Positions,35,35,35
+40,General Services,40LVL5,General Services,4001,Custodial Services,100,100,General Fund,POSPR,Printing Positions,38,35,35
+40,General Services,40LVL5,General Services,4001,Custodial Services,100,100,General Fund,POSPRASND,As-Needed Printing Positions,17,17,17
+40,General Services,40LVL5,General Services,4001,Custodial Services,100,100,General Fund,POSSG,Civilian Regular Authority Positions,309,279,289
+40,General Services,40LVL5,General Services,4001,Custodial Services,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,10,10,13
+40,General Services,40LVL5,General Services,4001,Custodial Services,100,737,El Pueblo de Los Angeles Historical Monument Fund (Sch. 43),POSSG,Civilian Regular Authority Positions,12,11,11
+40,General Services,40LVL5,General Services,4001,Custodial Services,100,737,El Pueblo de Los Angeles Historical Monument Fund (Sch. 43),RESSG,Civilian Resolution Authority Positions,,,1
+40,General Services,40LVL5,General Services,4002,Building Maintenance,100,100,General Fund,POSHH,Hiring Hall Positions,2,2,2
+40,General Services,40LVL5,General Services,4002,Building Maintenance,100,100,General Fund,POSSG,Civilian Regular Authority Positions,176,151,152
+40,General Services,40LVL5,General Services,4002,Building Maintenance,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1,1,6
+40,General Services,40LVL5,General Services,4002,Building Maintenance,100,737,El Pueblo de Los Angeles Historical Monument Fund (Sch. 43),POSSG,Civilian Regular Authority Positions,2,2,2
+40,General Services,40LVL5,General Services,4003,Construction Forces,100,100,General Fund,POSAN,As Needed Positions,3,3,3
+40,General Services,40LVL5,General Services,4003,Construction Forces,100,100,General Fund,POSSG,Civilian Regular Authority Positions,1,,0
+40,General Services,40LVL5,General Services,4004,Real Estate Services,100,100,General Fund,POSSG,Civilian Regular Authority Positions,25,21,21
+40,General Services,40LVL5,General Services,4004,Real Estate Services,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,6
+40,General Services,40LVL5,General Services,4005,Parking Services,100,100,General Fund,POSAN,As Needed Positions,1,1,1
+40,General Services,40LVL5,General Services,4005,Parking Services,100,100,General Fund,POSSG,Civilian Regular Authority Positions,20,15,16
+40,General Services,40LVL5,General Services,4005,Parking Services,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,12,11,10
+40,General Services,40LVL5,General Services,4005,Parking Services,100,737,El Pueblo de Los Angeles Historical Monument Fund (Sch. 43),POSSG,Civilian Regular Authority Positions,12,12,12
+40,General Services,40LVL5,General Services,4007,Emergency Management and Special Services,100,100,General Fund,POSSG,Civilian Regular Authority Positions,6,6,6
+40,General Services,40LVL5,General Services,4008,Fleet Services,100,100,General Fund,POSSG,Civilian Regular Authority Positions,199.27,183.27,183.27
+40,General Services,40LVL5,General Services,4008,Fleet Services,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,2
+40,General Services,40LVL5,General Services,4008,Fleet Services,100,206,Special Gas Tax Improvement Fund (Sch. 5),POSSG,Civilian Regular Authority Positions,2.2,2.2,2.2
+40,General Services,40LVL5,General Services,4008,Fleet Services,100,347,Street Lighting Maintenance Assessment Fund (Sch. 19),POSSG,Civilian Regular Authority Positions,3.73,3.73,3.73
+40,General Services,40LVL5,General Services,4008,Fleet Services,100,41A,Street Damage Restoration Fee Fund (Sch. 47),POSSG,Civilian Regular Authority Positions,20,19,19
+40,General Services,40LVL5,General Services,4008,Fleet Services,100,508,Solid Waste Resources Revenue Fund (Sch. 2),POSSG,Civilian Regular Authority Positions,204.5,192.5,192.5
+40,General Services,40LVL5,General Services,4008,Fleet Services,100,508,Solid Waste Resources Revenue Fund (Sch. 2),RESSG,Civilian Resolution Authority Positions,,,3
+40,General Services,40LVL5,General Services,4008,Fleet Services,100,50D,Multi-Family Bulky Item Fee Fund (Sch. 50),POSSG,Civilian Regular Authority Positions,3,3,3
+40,General Services,40LVL5,General Services,4008,Fleet Services,100,511,Stormwater Pollution Abatement Fund (Sch. 7),POSSG,Civilian Regular Authority Positions,3,3,3
+40,General Services,40LVL5,General Services,4008,Fleet Services,100,51Q,Measure R Local Return Fund (Sch. 49),POSSG,Civilian Regular Authority Positions,1.8,1.8,1.8
+40,General Services,40LVL5,General Services,4008,Fleet Services,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,16.25,16.25,16.25
+40,General Services,40LVL5,General Services,4008,Fleet Services,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,1.25,0.25,0.25
+40,General Services,40LVL5,General Services,4009,Fuel and Environmental Compliance,100,100,General Fund,POSSG,Civilian Regular Authority Positions,16,14,14
+40,General Services,40LVL5,General Services,4010,Standards and Testing Services,100,100,General Fund,POSSG,Civilian Regular Authority Positions,15,12.72,12.716
+40,General Services,40LVL5,General Services,4010,Standards and Testing Services,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,3,3,3
+40,General Services,40LVL5,General Services,4010,Standards and Testing Services,100,206,Special Gas Tax Improvement Fund (Sch. 5),POSSG,Civilian Regular Authority Positions,22.1,21.02,21.024
+40,General Services,40LVL5,General Services,4010,Standards and Testing Services,100,41A,Street Damage Restoration Fee Fund (Sch. 47),POSSG,Civilian Regular Authority Positions,3,3,3
+40,General Services,40LVL5,General Services,4010,Standards and Testing Services,100,41A,Street Damage Restoration Fee Fund (Sch. 47),RESSG,Civilian Resolution Authority Positions,1,1,1
+40,General Services,40LVL5,General Services,4010,Standards and Testing Services,100,51Q,Measure R Local Return Fund (Sch. 49),POSSG,Civilian Regular Authority Positions,15.9,15.21,15.212
+40,General Services,40LVL5,General Services,4010,Standards and Testing Services,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),POSSG,Civilian Regular Authority Positions,7,6.76,6.764
+40,General Services,40LVL5,General Services,4010,Standards and Testing Services,100,57F,Sidewalk Repair Fund (Sch. 51),POSSG,Civilian Regular Authority Positions,1,1,1
+40,General Services,40LVL5,General Services,4010,Standards and Testing Services,100,59C,Measure M Local Return Fund (Sch. 52),RESSG,Civilian Resolution Authority Positions,1,,
+40,General Services,40LVL5,General Services,4010,Standards and Testing Services,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,3.55,2.92,2.922
+40,General Services,40LVL5,General Services,4010,Standards and Testing Services,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,14.45,11.36,11.362
+40,General Services,40LVL5,General Services,4011,Supply Management,100,100,General Fund,POSSG,Civilian Regular Authority Positions,158.83,144.83,144.83
+40,General Services,40LVL5,General Services,4011,Supply Management,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,4
+40,General Services,40LVL5,General Services,4011,Supply Management,100,206,Special Gas Tax Improvement Fund (Sch. 5),POSSG,Civilian Regular Authority Positions,1.1,1.1,1.1
+40,General Services,40LVL5,General Services,4011,Supply Management,100,347,Street Lighting Maintenance Assessment Fund (Sch. 19),POSSG,Civilian Regular Authority Positions,7,7,7
+40,General Services,40LVL5,General Services,4011,Supply Management,100,508,Solid Waste Resources Revenue Fund (Sch. 2),POSSG,Civilian Regular Authority Positions,26,24,24
+40,General Services,40LVL5,General Services,4011,Supply Management,100,51Q,Measure R Local Return Fund (Sch. 49),POSSG,Civilian Regular Authority Positions,2.47,2.47,2.47
+40,General Services,40LVL5,General Services,4011,Supply Management,100,59C,Measure M Local Return Fund (Sch. 52),POSSG,Civilian Regular Authority Positions,1.43,1.43,1.43
+40,General Services,40LVL5,General Services,4011,Supply Management,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,35.17,30.17,30.17
+40,General Services,40LVL5,General Services,4011,Supply Management,100,760,Sewer Operations & Maintenance Fund (Sch. 14),RESSG,Civilian Resolution Authority Positions,,,2
+40,General Services,40LVL5,General Services,4012,Mail Services,100,100,General Fund,POSSG,Civilian Regular Authority Positions,17.5,17.5,17.5
+40,General Services,40LVL5,General Services,4012,Mail Services,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,2.5,0.5,0.5
+40,General Services,40LVL5,General Services,4014,Integrated Asset Services,100,100,General Fund,POSSG,Civilian Regular Authority Positions,3,3,3
+40,General Services,40LVL5,General Services,4050,General Administration and Support,100,100,General Fund,POSPR,Printing Positions,3,3,3
+40,General Services,40LVL5,General Services,4050,General Administration and Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,52.5,51.5,51.5
+40,General Services,40LVL5,General Services,4050,General Administration and Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,0
+40,General Services,40LVL5,General Services,4050,General Administration and Support,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,0.5,0.5,0.5
+43,Housing,43LVL5,Housing,4301,Development and Finance,100,100,General Fund,POSAN,As Needed Positions,5,5,5
+43,Housing,43LVL5,Housing,4301,Development and Finance,100,100,General Fund,POSCOMM,Commissioner Positions,14,14,14
+43,Housing,43LVL5,Housing,4301,Development and Finance,100,100,General Fund,POSSG,Civilian Regular Authority Positions,2.34,2.17,2.1688
+43,Housing,43LVL5,Housing,4301,Development and Finance,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,14.21,11.21,11.2052
+43,Housing,43LVL5,Housing,4301,Development and Finance,100,240,Housing Production Revolving Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,2.05,1.62,1.6235
+43,Housing,43LVL5,Housing,4301,Development and Finance,100,240,Housing Production Revolving Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,0.04,0.04,0.0359
+43,Housing,43LVL5,Housing,4301,Development and Finance,100,424,Community Development Trust Fund (Sch. 8),POSSG,Civilian Regular Authority Positions,8.33,8.09,8.0903
+43,Housing,43LVL5,Housing,4301,Development and Finance,100,424,Community Development Trust Fund (Sch. 8),RESSG,Civilian Resolution Authority Positions,2.35,2.14,2.1378
+43,Housing,43LVL5,Housing,4301,Development and Finance,100,44G,Affordable Housing Trust Fund (Sch. 6),POSSG,Civilian Regular Authority Positions,1.09,1.07,1.0721
+43,Housing,43LVL5,Housing,4301,Development and Finance,100,44G,Affordable Housing Trust Fund (Sch. 6),RESSG,Civilian Resolution Authority Positions,0.07,0.06,0.0615
+43,Housing,43LVL5,Housing,4301,Development and Finance,100,55J,Low and Moderate Income Housing Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,1.64,0.77,0.7679
+43,Housing,43LVL5,Housing,4301,Development and Finance,100,55J,Low and Moderate Income Housing Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,0.04,0.05,0.0455
+43,Housing,43LVL5,Housing,4301,Development and Finance,100,561,HOME Investment Partnership Program Fund (Sch. 9),POSSG,Civilian Regular Authority Positions,20.21,17.26,17.2554
+43,Housing,43LVL5,Housing,4301,Development and Finance,100,561,HOME Investment Partnership Program Fund (Sch. 9),RESSG,Civilian Resolution Authority Positions,1.86,2.28,2.2814
+43,Housing,43LVL5,Housing,4301,Development and Finance,100,59T,Housing Impact Trust Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,,0.85,0.85
+43,Housing,43LVL5,Housing,4301,Development and Finance,100,59T,Housing Impact Trust Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,0.01,0.01,0.0064
+43,Housing,43LVL5,Housing,4301,Development and Finance,100,815,Municipal Housing Finance Fund (Sch. 48),POSSG,Civilian Regular Authority Positions,14.34,13.17,13.172
+43,Housing,43LVL5,Housing,4301,Development and Finance,100,815,Municipal Housing Finance Fund (Sch. 48),RESSG,Civilian Resolution Authority Positions,12.42,12.23,12.2263
+43,Housing,43LVL5,Housing,4302,Asset Management,100,100,General Fund,POSSG,Civilian Regular Authority Positions,10.92,10.36,10.3623
+43,Housing,43LVL5,Housing,4302,Asset Management,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1,1,1
+43,Housing,43LVL5,Housing,4302,Asset Management,100,424,Community Development Trust Fund (Sch. 8),POSSG,Civilian Regular Authority Positions,0.97,0.97,0.97
+43,Housing,43LVL5,Housing,4302,Asset Management,100,424,Community Development Trust Fund (Sch. 8),RESSG,Civilian Resolution Authority Positions,1.55,0.77,0.7732
+43,Housing,43LVL5,Housing,4302,Asset Management,100,44G,Affordable Housing Trust Fund (Sch. 6),POSSG,Civilian Regular Authority Positions,1.72,1.65,1.6536
+43,Housing,43LVL5,Housing,4302,Asset Management,100,44G,Affordable Housing Trust Fund (Sch. 6),RESSG,Civilian Resolution Authority Positions,0.53,0.27,0.2656
+43,Housing,43LVL5,Housing,4302,Asset Management,100,55J,Low and Moderate Income Housing Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,9.2,8.89,8.8876
+43,Housing,43LVL5,Housing,4302,Asset Management,100,55J,Low and Moderate Income Housing Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,3.5,2.28,2.2774
+43,Housing,43LVL5,Housing,4302,Asset Management,100,561,HOME Investment Partnership Program Fund (Sch. 9),POSSG,Civilian Regular Authority Positions,2.55,2.55,2.55
+43,Housing,43LVL5,Housing,4302,Asset Management,100,561,HOME Investment Partnership Program Fund (Sch. 9),RESSG,Civilian Resolution Authority Positions,2.91,2.48,2.4824
+43,Housing,43LVL5,Housing,4302,Asset Management,100,815,Municipal Housing Finance Fund (Sch. 48),POSSG,Civilian Regular Authority Positions,1.64,1.58,1.5765
+43,Housing,43LVL5,Housing,4302,Asset Management,100,815,Municipal Housing Finance Fund (Sch. 48),RESSG,Civilian Resolution Authority Positions,0.51,1.2,1.2014
+43,Housing,43LVL5,Housing,4304,Consolidated Planning,100,424,Community Development Trust Fund (Sch. 8),POSSG,Civilian Regular Authority Positions,22,,0
+43,Housing,43LVL5,Housing,4304,Consolidated Planning,100,424,Community Development Trust Fund (Sch. 8),RESSG,Civilian Resolution Authority Positions,2,,
+43,Housing,43LVL5,Housing,4305,Rent Stabilization,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1,,
+43,Housing,43LVL5,Housing,4305,Rent Stabilization,100,41M,Systematic Code Enforcement Fee Fund (Sch. 42),POSSG,Civilian Regular Authority Positions,18.98,18.78,18.78
+43,Housing,43LVL5,Housing,4305,Rent Stabilization,100,440,Rent Stabilization Trust Fund (Sch. 23),POSSG,Civilian Regular Authority Positions,71.02,71.22,71.22
+43,Housing,43LVL5,Housing,4305,Rent Stabilization,100,440,Rent Stabilization Trust Fund (Sch. 23),RESSG,Civilian Resolution Authority Positions,2,,
+43,Housing,43LVL5,Housing,4306,Multi-family Residential Code Enforcement,100,100,General Fund,POSAN,As Needed Positions,1,1,1
+43,Housing,43LVL5,Housing,4306,Multi-family Residential Code Enforcement,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,2,,
+43,Housing,43LVL5,Housing,4306,Multi-family Residential Code Enforcement,100,41M,Systematic Code Enforcement Fee Fund (Sch. 42),POSSG,Civilian Regular Authority Positions,192.7,174.7,174.7
+43,Housing,43LVL5,Housing,4306,Multi-family Residential Code Enforcement,100,41M,Systematic Code Enforcement Fee Fund (Sch. 42),RESSG,Civilian Resolution Authority Positions,2,3,3
+43,Housing,43LVL5,Housing,4306,Multi-family Residential Code Enforcement,100,561,HOME Investment Partnership Program Fund (Sch. 9),POSSG,Civilian Regular Authority Positions,1.3,1.3,1.3
+43,Housing,43LVL5,Housing,4307,Code and Rent Compliance,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,3,,
+43,Housing,43LVL5,Housing,4307,Code and Rent Compliance,100,41M,Systematic Code Enforcement Fee Fund (Sch. 42),POSSG,Civilian Regular Authority Positions,47.54,42.93,42.93
+43,Housing,43LVL5,Housing,4307,Code and Rent Compliance,100,41M,Systematic Code Enforcement Fee Fund (Sch. 42),RESSG,Civilian Resolution Authority Positions,,1.5,1.5
+43,Housing,43LVL5,Housing,4307,Code and Rent Compliance,100,440,Rent Stabilization Trust Fund (Sch. 23),POSSG,Civilian Regular Authority Positions,10.41,10.02,10.02
+43,Housing,43LVL5,Housing,4307,Code and Rent Compliance,100,440,Rent Stabilization Trust Fund (Sch. 23),RESSG,Civilian Resolution Authority Positions,,1.5,1.5
+43,Housing,43LVL5,Housing,4307,Code and Rent Compliance,100,56V,Foreclosure Registry Program Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,3.05,3.05,3.05
+43,Housing,43LVL5,Housing,4307,Code and Rent Compliance,100,56V,Foreclosure Registry Program Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,5,3,3
+43,Housing,43LVL5,Housing,4310,Commissions and Community Engagement,100,100,General Fund,POSSG,Civilian Regular Authority Positions,1,,0
+43,Housing,43LVL5,Housing,4310,Commissions and Community Engagement,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,3.6,,
+43,Housing,43LVL5,Housing,4310,Commissions and Community Engagement,100,424,Community Development Trust Fund (Sch. 8),RESSG,Civilian Resolution Authority Positions,0.3,,
+43,Housing,43LVL5,Housing,4310,Commissions and Community Engagement,100,428,Community Service Block Grant Trust Fund (Sch. 13),RESSG,Civilian Resolution Authority Positions,0.1,,
+43,Housing,43LVL5,Housing,4311,Program Operations,100,100,General Fund,POSAN,As Needed Positions,3,3,3
+43,Housing,43LVL5,Housing,4311,Program Operations,100,100,General Fund,POSCOMM,Commissioner Positions,33,,0
+43,Housing,43LVL5,Housing,4311,Program Operations,100,100,General Fund,POSSG,Civilian Regular Authority Positions,1.7,0.8,0.8
+43,Housing,43LVL5,Housing,4311,Program Operations,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,4.65,2,3
+43,Housing,43LVL5,Housing,4311,Program Operations,100,424,Community Development Trust Fund (Sch. 8),POSSG,Civilian Regular Authority Positions,5.35,1.7,1.7
+43,Housing,43LVL5,Housing,4311,Program Operations,100,424,Community Development Trust Fund (Sch. 8),RESSG,Civilian Resolution Authority Positions,9,4.05,4.05
+43,Housing,43LVL5,Housing,4311,Program Operations,100,428,Community Service Block Grant Trust Fund (Sch. 13),POSSG,Civilian Regular Authority Positions,2.45,,0
+43,Housing,43LVL5,Housing,4311,Program Operations,100,428,Community Service Block Grant Trust Fund (Sch. 13),RESSG,Civilian Resolution Authority Positions,0.6,,0
+43,Housing,43LVL5,Housing,4311,Program Operations,100,45C,Traffic Safety Education Program Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,3,,
+43,Housing,43LVL5,Housing,4311,Program Operations,100,517,Federal Emergency Shelter Grant Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,0.75,0.9,0.9
+43,Housing,43LVL5,Housing,4311,Program Operations,100,569,Housing Opportunities for Persons with AIDS Fund (Sch. 41),POSSG,Civilian Regular Authority Positions,0.5,0.5,0.5
+43,Housing,43LVL5,Housing,4311,Program Operations,100,569,Housing Opportunities for Persons with AIDS Fund (Sch. 41),RESSG,Civilian Resolution Authority Positions,1,2.05,2.05
+43,Housing,43LVL5,Housing,4312,Housing Strategies and Services,100,424,Community Development Trust Fund (Sch. 8),POSSG,Civilian Regular Authority Positions,7.47,7.47,7.47
+43,Housing,43LVL5,Housing,4312,Housing Strategies and Services,100,424,Community Development Trust Fund (Sch. 8),RESSG,Civilian Resolution Authority Positions,6.6,4.52,4.52
+43,Housing,43LVL5,Housing,4312,Housing Strategies and Services,100,44G,Affordable Housing Trust Fund (Sch. 6),POSSG,Civilian Regular Authority Positions,1.03,1.03,1.03
+43,Housing,43LVL5,Housing,4312,Housing Strategies and Services,100,44G,Affordable Housing Trust Fund (Sch. 6),RESSG,Civilian Resolution Authority Positions,1,0.95,0.95
+43,Housing,43LVL5,Housing,4312,Housing Strategies and Services,100,55J,Low and Moderate Income Housing Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,2.61,2.61,2.61
+43,Housing,43LVL5,Housing,4312,Housing Strategies and Services,100,55J,Low and Moderate Income Housing Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,6,5.7,5.7
+43,Housing,43LVL5,Housing,4312,Housing Strategies and Services,100,561,HOME Investment Partnership Program Fund (Sch. 9),RESSG,Civilian Resolution Authority Positions,,0.35,0.35
+43,Housing,43LVL5,Housing,4312,Housing Strategies and Services,100,56V,Foreclosure Registry Program Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,1.26,1.26,1.26
+43,Housing,43LVL5,Housing,4312,Housing Strategies and Services,100,56V,Foreclosure Registry Program Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,0.2,0.2,0.2
+43,Housing,43LVL5,Housing,4312,Housing Strategies and Services,100,63C,Lead Grant 12 Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,,5.08,5.08
+43,Housing,43LVL5,Housing,4312,Housing Strategies and Services,100,815,Municipal Housing Finance Fund (Sch. 48),POSSG,Civilian Regular Authority Positions,1.63,1.63,1.63
+43,Housing,43LVL5,Housing,4312,Housing Strategies and Services,100,815,Municipal Housing Finance Fund (Sch. 48),RESSG,Civilian Resolution Authority Positions,0.2,0.2,0.2
+43,Housing,43LVL5,Housing,4313,Accessible Housing Program,100,10D,Accessible Housing Fund (Sch. 38),POSSG,Civilian Regular Authority Positions,7,7,7
+43,Housing,43LVL5,Housing,4313,Accessible Housing Program,100,10D,Accessible Housing Fund (Sch. 38),RESSG,Civilian Resolution Authority Positions,73,73,73
+43,Housing,43LVL5,Housing,4349,Technology Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,0.45,0.45,0.45
+43,Housing,43LVL5,Housing,4349,Technology Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,0.31,0.31,0.307
+43,Housing,43LVL5,Housing,4349,Technology Support,100,10D,Accessible Housing Fund (Sch. 38),POSSG,Civilian Regular Authority Positions,0.51,0.51,0.51
+43,Housing,43LVL5,Housing,4349,Technology Support,100,10D,Accessible Housing Fund (Sch. 38),RESSG,Civilian Resolution Authority Positions,0.3,0.54,0.543
+43,Housing,43LVL5,Housing,4349,Technology Support,100,240,Housing Production Revolving Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.04,0.04,0.04
+43,Housing,43LVL5,Housing,4349,Technology Support,100,240,Housing Production Revolving Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,0.03,0.03,0.028
+43,Housing,43LVL5,Housing,4349,Technology Support,100,41M,Systematic Code Enforcement Fee Fund (Sch. 42),POSSG,Civilian Regular Authority Positions,7.66,7.01,7.01
+43,Housing,43LVL5,Housing,4349,Technology Support,100,41M,Systematic Code Enforcement Fee Fund (Sch. 42),RESSG,Civilian Resolution Authority Positions,7.23,7.15,7.1515
+43,Housing,43LVL5,Housing,4349,Technology Support,100,424,Community Development Trust Fund (Sch. 8),POSSG,Civilian Regular Authority Positions,1.23,1.23,1.23
+43,Housing,43LVL5,Housing,4349,Technology Support,100,424,Community Development Trust Fund (Sch. 8),RESSG,Civilian Resolution Authority Positions,0.66,0.56,0.5565
+43,Housing,43LVL5,Housing,4349,Technology Support,100,428,Community Service Block Grant Trust Fund (Sch. 13),POSSG,Civilian Regular Authority Positions,0.12,0.12,0.12
+43,Housing,43LVL5,Housing,4349,Technology Support,100,428,Community Service Block Grant Trust Fund (Sch. 13),RESSG,Civilian Resolution Authority Positions,0.06,0.07,0.0665
+43,Housing,43LVL5,Housing,4349,Technology Support,100,440,Rent Stabilization Trust Fund (Sch. 23),POSSG,Civilian Regular Authority Positions,3.22,2.87,2.87
+43,Housing,43LVL5,Housing,4349,Technology Support,100,440,Rent Stabilization Trust Fund (Sch. 23),RESSG,Civilian Resolution Authority Positions,5.38,5.44,5.437
+43,Housing,43LVL5,Housing,4349,Technology Support,100,44G,Affordable Housing Trust Fund (Sch. 6),POSSG,Civilian Regular Authority Positions,0.09,0.09,0.09
+43,Housing,43LVL5,Housing,4349,Technology Support,100,44G,Affordable Housing Trust Fund (Sch. 6),RESSG,Civilian Resolution Authority Positions,0.06,0.04,0.042
+43,Housing,43LVL5,Housing,4349,Technology Support,100,517,Federal Emergency Shelter Grant Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.01,0.01,0.01
+43,Housing,43LVL5,Housing,4349,Technology Support,100,517,Federal Emergency Shelter Grant Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,0.01,0.01,0.005
+43,Housing,43LVL5,Housing,4349,Technology Support,100,55J,Low and Moderate Income Housing Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.41,0.41,0.41
+43,Housing,43LVL5,Housing,4349,Technology Support,100,55J,Low and Moderate Income Housing Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,0.22,0.19,0.1875
+43,Housing,43LVL5,Housing,4349,Technology Support,100,561,HOME Investment Partnership Program Fund (Sch. 9),POSSG,Civilian Regular Authority Positions,0.6,0.6,0.6
+43,Housing,43LVL5,Housing,4349,Technology Support,100,561,HOME Investment Partnership Program Fund (Sch. 9),RESSG,Civilian Resolution Authority Positions,0.31,0.28,0.2815
+43,Housing,43LVL5,Housing,4349,Technology Support,100,569,Housing Opportunities for Persons with AIDS Fund (Sch. 41),POSSG,Civilian Regular Authority Positions,0.03,0.03,0.03
+43,Housing,43LVL5,Housing,4349,Technology Support,100,569,Housing Opportunities for Persons with AIDS Fund (Sch. 41),RESSG,Civilian Resolution Authority Positions,0.01,0.02,0.018
+43,Housing,43LVL5,Housing,4349,Technology Support,100,56V,Foreclosure Registry Program Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.15,0.15,0.15
+43,Housing,43LVL5,Housing,4349,Technology Support,100,56V,Foreclosure Registry Program Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,1.12,1.11,1.105
+43,Housing,43LVL5,Housing,4349,Technology Support,100,59T,Housing Impact Trust Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,0.01,0.01,0.014
+43,Housing,43LVL5,Housing,4349,Technology Support,100,815,Municipal Housing Finance Fund (Sch. 48),POSSG,Civilian Regular Authority Positions,0.48,0.48,0.48
+43,Housing,43LVL5,Housing,4349,Technology Support,100,815,Municipal Housing Finance Fund (Sch. 48),RESSG,Civilian Resolution Authority Positions,0.29,0.26,0.2575
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,100,General Fund,POSAN,As Needed Positions,1,1,1
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,3.13,2.6,2.6023
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,3.11,2.7,3.6979
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,10D,Accessible Housing Fund (Sch. 38),POSSG,Civilian Regular Authority Positions,2.64,2.38,2.3763
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,10D,Accessible Housing Fund (Sch. 38),RESSG,Civilian Resolution Authority Positions,0.52,1,1.0038
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,240,Housing Production Revolving Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,1.25,1.22,1.2228
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,240,Housing Production Revolving Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,0.23,0.22,0.2245
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,41M,Systematic Code Enforcement Fee Fund (Sch. 42),POSSG,Civilian Regular Authority Positions,34.42,30.73,30.7293
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,41M,Systematic Code Enforcement Fee Fund (Sch. 42),RESSG,Civilian Resolution Authority Positions,6.39,5.9,5.8983
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,424,Community Development Trust Fund (Sch. 8),POSSG,Civilian Regular Authority Positions,20.79,14.92,14.9237
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,424,Community Development Trust Fund (Sch. 8),RESSG,Civilian Resolution Authority Positions,4.75,4.44,4.4367
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,428,Community Service Block Grant Trust Fund (Sch. 13),POSSG,Civilian Regular Authority Positions,4.74,1.88,1.8758
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,428,Community Service Block Grant Trust Fund (Sch. 13),RESSG,Civilian Resolution Authority Positions,0.35,0.14,0.1377
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,440,Rent Stabilization Trust Fund (Sch. 23),POSSG,Civilian Regular Authority Positions,10.83,9.65,9.652
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,440,Rent Stabilization Trust Fund (Sch. 23),RESSG,Civilian Resolution Authority Positions,2.01,1.97,1.9721
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,44G,Affordable Housing Trust Fund (Sch. 6),POSSG,Civilian Regular Authority Positions,0.81,0.73,0.7319
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,44G,Affordable Housing Trust Fund (Sch. 6),RESSG,Civilian Resolution Authority Positions,1.54,1.51,1.5147
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,517,Federal Emergency Shelter Grant Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.04,0.04,0.0358
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,517,Federal Emergency Shelter Grant Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,0.01,0.01,0.0097
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,55J,Low and Moderate Income Housing Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,5.61,5.23,5.2329
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,55J,Low and Moderate Income Housing Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,3.26,3.23,3.2339
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,561,HOME Investment Partnership Program Fund (Sch. 9),POSSG,Civilian Regular Authority Positions,6.59,6.02,6.0161
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,561,HOME Investment Partnership Program Fund (Sch. 9),RESSG,Civilian Resolution Authority Positions,1.47,1.49,1.4908
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,569,Housing Opportunities for Persons with AIDS Fund (Sch. 41),POSSG,Civilian Regular Authority Positions,0.2,0.19,0.1942
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,569,Housing Opportunities for Persons with AIDS Fund (Sch. 41),RESSG,Civilian Resolution Authority Positions,0.07,0.08,0.0838
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,56V,Foreclosure Registry Program Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,2.09,2,1.9986
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,56V,Foreclosure Registry Program Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,0.18,0.17,0.1672
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,59T,Housing Impact Trust Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,1.52,1.53,1.5302
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,815,Municipal Housing Finance Fund (Sch. 48),POSSG,Civilian Regular Authority Positions,5.86,5.41,5.4083
+43,Housing,43LVL5,Housing,4350,General Administration and Support,100,815,Municipal Housing Finance Fund (Sch. 48),RESSG,Civilian Resolution Authority Positions,1.59,1.6,1.5987
+46,Mayor,46LVL5,Mayor,4601,Office of the Mayor,100,100,General Fund,POSAN,As Needed Positions,12,12,12
+46,Mayor,46LVL5,Mayor,4601,Office of the Mayor,100,100,General Fund,POSSG,Civilian Regular Authority Positions,89.5,89.5,89.5
+46,Mayor,46LVL5,Mayor,4601,Office of the Mayor,100,508,Solid Waste Resources Revenue Fund (Sch. 2),POSSG,Civilian Regular Authority Positions,0.5,0.5,0.5
+46,Mayor,46LVL5,Mayor,4601,Office of the Mayor,100,511,Stormwater Pollution Abatement Fund (Sch. 7),POSSG,Civilian Regular Authority Positions,0.5,0.5,0.5
+46,Mayor,46LVL5,Mayor,4601,Office of the Mayor,100,528,Mobile Source Air Pollution Reduction Fund (Sch. 10),POSSG,Civilian Regular Authority Positions,0.5,0.5,0.5
+46,Mayor,46LVL5,Mayor,4601,Office of the Mayor,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),POSSG,Civilian Regular Authority Positions,1.8,1.8,1.8
+46,Mayor,46LVL5,Mayor,4601,Office of the Mayor,100,57W,Workforce Innovation and Opportunity Act Fund (Sch. 22),POSSG,Civilian Regular Authority Positions,0.7,0.7,0.7
+46,Mayor,46LVL5,Mayor,4601,Office of the Mayor,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,0.5,0.5,0.5
+47,Neighborhood Empowerment,47LVL5,Neighborhood Empowerment,4701,Neighborhood Council System Development,100,44B,Department of Neighborhood Empowerment Fund (Sch. 18),POSSG,Civilian Regular Authority Positions,10,9,9
+47,Neighborhood Empowerment,47LVL5,Neighborhood Empowerment,4701,Neighborhood Council System Development,100,44B,Department of Neighborhood Empowerment Fund (Sch. 18),RESSG,Civilian Resolution Authority Positions,1,,
+47,Neighborhood Empowerment,47LVL5,Neighborhood Empowerment,4702,Neighborhood Council Funding Program,100,100,General Fund,POSAN,As Needed Positions,3,3,3
+47,Neighborhood Empowerment,47LVL5,Neighborhood Empowerment,4703,Planning and Policy,100,100,General Fund,POSCOMM,Commissioner Positions,7,7,7
+47,Neighborhood Empowerment,47LVL5,Neighborhood Empowerment,4703,Planning and Policy,100,44B,Department of Neighborhood Empowerment Fund (Sch. 18),POSSG,Civilian Regular Authority Positions,5,5,5
+47,Neighborhood Empowerment,47LVL5,Neighborhood Empowerment,4704,Neighborhood Council Administrative Support,100,100,General Fund,POSAN,As Needed Positions,7,7,7
+47,Neighborhood Empowerment,47LVL5,Neighborhood Empowerment,4704,Neighborhood Council Administrative Support,100,44B,Department of Neighborhood Empowerment Fund (Sch. 18),POSSG,Civilian Regular Authority Positions,6,6,6
+47,Neighborhood Empowerment,47LVL5,Neighborhood Empowerment,4705,Office of Community Engagement and Innovation,100,44B,Department of Neighborhood Empowerment Fund (Sch. 18),RESSG,Civilian Resolution Authority Positions,2,2,2
+47,Neighborhood Empowerment,47LVL5,Neighborhood Empowerment,4750,General Administration and Support,100,100,General Fund,POSAN,As Needed Positions,3,3,3
+47,Neighborhood Empowerment,47LVL5,Neighborhood Empowerment,4750,General Administration and Support,100,44B,Department of Neighborhood Empowerment Fund (Sch. 18),POSSG,Civilian Regular Authority Positions,10,10,10
+47,Neighborhood Empowerment,47LVL5,Neighborhood Empowerment,4750,General Administration and Support,100,44B,Department of Neighborhood Empowerment Fund (Sch. 18),RESSG,Civilian Resolution Authority Positions,1,1,1
+48,Convention and Tourism Development,48LVL5,Convention and Tourism Development,4803,Convention and Tourism Development,100,100,General Fund,POSAN,As Needed Positions,7,7,7
+48,Convention and Tourism Development,48LVL5,Convention and Tourism Development,4803,Convention and Tourism Development,100,100,General Fund,POSCOMM,Commissioner Positions,5,5,5
+48,Convention and Tourism Development,48LVL5,Convention and Tourism Development,4803,Convention and Tourism Development,100,429,Los Angeles Convention & Visitors Bureau Trust Fund (Sch. 1),POSSG,Civilian Regular Authority Positions,1.88,2.08,2.08
+48,Convention and Tourism Development,48LVL5,Convention and Tourism Development,4803,Convention and Tourism Development,100,725,Convention Center Revenue Fund (Sch. 16),POSSG,Civilian Regular Authority Positions,11.12,9.92,9.92
+65,Disability,65LVL5,Disability,6501,ADA Compliance,100,100,General Fund,POSCOMM,Commissioner Positions,9,9,9
+65,Disability,65LVL5,Disability,6501,ADA Compliance,100,100,General Fund,POSSG,Civilian Regular Authority Positions,7.5,8.25,10.25
+65,Disability,65LVL5,Disability,6501,ADA Compliance,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,2,,
+65,Disability,65LVL5,Disability,6501,ADA Compliance,100,57F,Sidewalk Repair Fund (Sch. 51),POSSG,Civilian Regular Authority Positions,0.5,0.75,0.75
+65,Disability,65LVL5,Disability,6503,Community Affairs and Outreach,100,100,General Fund,POSAN,As Needed Positions,1,1,1
+65,Disability,65LVL5,Disability,6503,Community Affairs and Outreach,100,100,General Fund,POSSG,Civilian Regular Authority Positions,5,4,4
+65,Disability,65LVL5,Disability,6503,Community Affairs and Outreach,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1,1,2
+65,Disability,65LVL5,Disability,6504,AIDS Coordinator's Office,100,100,General Fund,POSSG,Civilian Regular Authority Positions,5,5,5
+65,Disability,65LVL5,Disability,6550,General Administration and Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,7,7,7
+65,Disability,65LVL5,Disability,6550,General Administration and Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1,1,1
+66,Personnel,66LVL5,Personnel,6601,Public Safety Employment,100,100,General Fund,POSAN,As Needed Positions,29,29,29
+66,Personnel,66LVL5,Personnel,6601,Public Safety Employment,100,100,General Fund,POSCOMM,Commissioner Positions,5,5,5
+66,Personnel,66LVL5,Personnel,6601,Public Safety Employment,100,100,General Fund,POSSG,Civilian Regular Authority Positions,102,87,87
+66,Personnel,66LVL5,Personnel,6601,Public Safety Employment,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,5
+66,Personnel,66LVL5,Personnel,6602,Employee Selection,100,100,General Fund,POSSG,Civilian Regular Authority Positions,67,54,54
+66,Personnel,66LVL5,Personnel,6602,Employee Selection,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,22,22,37
+66,Personnel,66LVL5,Personnel,6602,Employee Selection,100,48R,Building and Safety Building Permit Fund (Sch. 40),POSSG,Civilian Regular Authority Positions,2,2,2
+66,Personnel,66LVL5,Personnel,6602,Employee Selection,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,2,2,2
+66,Personnel,66LVL5,Personnel,6603,Workers' Compensation and Safety,100,100,General Fund,POSSG,Civilian Regular Authority Positions,98,83,83
+66,Personnel,66LVL5,Personnel,6603,Workers' Compensation and Safety,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,2,2,2
+66,Personnel,66LVL5,Personnel,6604,Employee Benefits,100,100,General Fund,POSSG,Civilian Regular Authority Positions,22.65,16.65,16.65
+66,Personnel,66LVL5,Personnel,6604,Employee Benefits,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1,1,1
+66,Personnel,66LVL5,Personnel,6604,Employee Benefits,100,528,Mobile Source Air Pollution Reduction Fund (Sch. 10),POSSG,Civilian Regular Authority Positions,6.35,6.35,6.35
+66,Personnel,66LVL5,Personnel,6604,Employee Benefits,100,896,Deferred Compensation Plan Trust Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,,4,4
+66,Personnel,66LVL5,Personnel,6604,Employee Benefits,100,896,Deferred Compensation Plan Trust Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,,1,1
+66,Personnel,66LVL5,Personnel,6605,Occupational Health,100,100,General Fund,POSSG,Civilian Regular Authority Positions,28,26,26
+66,Personnel,66LVL5,Personnel,6605,Occupational Health,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,3,3,3
+66,Personnel,66LVL5,Personnel,6605,Occupational Health,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,1,1,1
+66,Personnel,66LVL5,Personnel,6606,Custody Medical Care,100,100,General Fund,POSAN,As Needed Positions,1,1,1
+66,Personnel,66LVL5,Personnel,6606,Custody Medical Care,100,100,General Fund,POSSG,Civilian Regular Authority Positions,38,38,38
+66,Personnel,66LVL5,Personnel,6607,Office of Workplace Equity,100,100,General Fund,POSSG,Civilian Regular Authority Positions,22,22,22
+66,Personnel,66LVL5,Personnel,6607,Office of Workplace Equity,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1,4,7
+66,Personnel,66LVL5,Personnel,6608,Employee Training and Development,100,100,General Fund,POSSG,Civilian Regular Authority Positions,4,4,4
+66,Personnel,66LVL5,Personnel,6608,Employee Training and Development,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1,1,1
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,100,General Fund,POSSG,Civilian Regular Authority Positions,58.15,50.15,50.15
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,17,18,18
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,347,Street Lighting Maintenance Assessment Fund (Sch. 19),POSSG,Civilian Regular Authority Positions,1.37,1.37,1.37
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,347,Street Lighting Maintenance Assessment Fund (Sch. 19),RESSG,Civilian Resolution Authority Positions,1,,
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,385,Proposition A Local Transit Assistance Fund (Sch. 26),RESSG,Civilian Resolution Authority Positions,1,1,1
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,41A,Street Damage Restoration Fee Fund (Sch. 47),RESSG,Civilian Resolution Authority Positions,2.5,2.5,2.5
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,41M,Systematic Code Enforcement Fee Fund (Sch. 42),POSSG,Civilian Regular Authority Positions,3.79,0.97,0.97
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,41M,Systematic Code Enforcement Fee Fund (Sch. 42),RESSG,Civilian Resolution Authority Positions,4.2,0.97,0.97
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,424,Community Development Trust Fund (Sch. 8),POSSG,Civilian Regular Authority Positions,0.53,0.97,0.97
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,424,Community Development Trust Fund (Sch. 8),RESSG,Civilian Resolution Authority Positions,0.7,0.97,0.97
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,440,Rent Stabilization Trust Fund (Sch. 23),POSSG,Civilian Regular Authority Positions,1.5,1.05,1.045
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,440,Rent Stabilization Trust Fund (Sch. 23),RESSG,Civilian Resolution Authority Positions,1.1,1.05,1.045
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,480,Arts and Cultural Facilities & Services Fund (Sch. 24),RESSG,Civilian Resolution Authority Positions,1,1,1
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,48R,Building and Safety Building Permit Fund (Sch. 40),POSSG,Civilian Regular Authority Positions,10.59,9.59,9.59
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,508,Solid Waste Resources Revenue Fund (Sch. 2),POSSG,Civilian Regular Authority Positions,6.71,7.48,7.48
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,508,Solid Waste Resources Revenue Fund (Sch. 2),RESSG,Civilian Resolution Authority Positions,1.41,,
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,511,Stormwater Pollution Abatement Fund (Sch. 7),POSSG,Civilian Regular Authority Positions,0.32,0.43,0.43
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,511,Stormwater Pollution Abatement Fund (Sch. 7),RESSG,Civilian Resolution Authority Positions,0.15,,
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,51Q,Measure R Local Return Fund (Sch. 49),RESSG,Civilian Resolution Authority Positions,1,1,1
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),RESSG,Civilian Resolution Authority Positions,3.5,3.5,3.5
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,561,HOME Investment Partnership Program Fund (Sch. 9),POSSG,Civilian Regular Authority Positions,0.18,0.97,0.97
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,561,HOME Investment Partnership Program Fund (Sch. 9),RESSG,Civilian Resolution Authority Positions,,0.97,0.97
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,57W,Workforce Innovation and Opportunity Act Fund (Sch. 22),POSSG,Civilian Regular Authority Positions,3.97,3.97,3.97
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,59C,Measure M Local Return Fund (Sch. 52),RESSG,Civilian Resolution Authority Positions,1,1,1
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,60E,Cannabis Regulation Special Revenue Fund (Sch. 33),RESSG,Civilian Resolution Authority Positions,2,4,4
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,13.14,12.26,12.26
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,760,Sewer Operations & Maintenance Fund (Sch. 14),RESSG,Civilian Resolution Authority Positions,1.44,,
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,4.75,4.75,4.75
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,815,Municipal Housing Finance Fund (Sch. 48),POSSG,Civilian Regular Authority Positions,,1.05,1.045
+66,Personnel,66LVL5,Personnel,6609,Client Services,100,815,Municipal Housing Finance Fund (Sch. 48),RESSG,Civilian Resolution Authority Positions,,1.05,1.045
+66,Personnel,66LVL5,Personnel,6649,Technology Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,11,11,11
+66,Personnel,66LVL5,Personnel,6650,General Administration and Support,100,100,General Fund,POSAN,As Needed Positions,1,1,1
+66,Personnel,66LVL5,Personnel,6650,General Administration and Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,16,14,14
+68,City Planning,68LVL5,City Planning,6801,Citywide Planning,100,100,General Fund,POSAN,As Needed Positions,5,5,5
+68,City Planning,68LVL5,City Planning,6801,Citywide Planning,100,100,General Fund,POSCOMM,Commissioner Positions,49,49,49
+68,City Planning,68LVL5,City Planning,6801,Citywide Planning,100,100,General Fund,POSSG,Civilian Regular Authority Positions,11,11,11
+68,City Planning,68LVL5,City Planning,6801,Citywide Planning,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,9,9,10
+68,City Planning,68LVL5,City Planning,6801,Citywide Planning,100,52D,Planning Case Processing Fund (Sch. 35),RESSG,Civilian Resolution Authority Positions,1,1,1
+68,City Planning,68LVL5,City Planning,6801,Citywide Planning,100,52F,Planning Long-Range Planning Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,10,10,10
+68,City Planning,68LVL5,City Planning,6801,Citywide Planning,100,52F,Planning Long-Range Planning Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,6,6,6
+68,City Planning,68LVL5,City Planning,6802,Community Planning,100,100,General Fund,POSSG,Civilian Regular Authority Positions,12.8,12.8,12.8
+68,City Planning,68LVL5,City Planning,6802,Community Planning,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,0
+68,City Planning,68LVL5,City Planning,6802,Community Planning,100,52D,Planning Case Processing Fund (Sch. 35),POSSG,Civilian Regular Authority Positions,0.3,0.3,0.3
+68,City Planning,68LVL5,City Planning,6802,Community Planning,100,52F,Planning Long-Range Planning Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,21.9,20.9,20.9
+68,City Planning,68LVL5,City Planning,6802,Community Planning,100,52F,Planning Long-Range Planning Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,20,19,19
+68,City Planning,68LVL5,City Planning,6802,Community Planning,100,588,City Planning System Development Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,2,2,2
+68,City Planning,68LVL5,City Planning,6803,Historic Resources,100,100,General Fund,POSSG,Civilian Regular Authority Positions,15.8,15.8,15.8
+68,City Planning,68LVL5,City Planning,6803,Historic Resources,100,52D,Planning Case Processing Fund (Sch. 35),POSSG,Civilian Regular Authority Positions,1.2,1.2,1.2
+68,City Planning,68LVL5,City Planning,6804,Development Services,100,100,General Fund,POSAN,As Needed Positions,9,9,9
+68,City Planning,68LVL5,City Planning,6804,Development Services,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,4,2,10
+68,City Planning,68LVL5,City Planning,6804,Development Services,100,48R,Building and Safety Building Permit Fund (Sch. 40),POSSG,Civilian Regular Authority Positions,14,14,14
+68,City Planning,68LVL5,City Planning,6804,Development Services,100,52D,Planning Case Processing Fund (Sch. 35),POSSG,Civilian Regular Authority Positions,61,57,57
+68,City Planning,68LVL5,City Planning,6804,Development Services,100,52D,Planning Case Processing Fund (Sch. 35),RESSG,Civilian Resolution Authority Positions,9,5,5
+68,City Planning,68LVL5,City Planning,6804,Development Services,100,62N,Short-term Rental Enforcement Trust Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,7,10,10
+68,City Planning,68LVL5,City Planning,6805,Neighborhood Initiatives and Transit Oriented Planning,100,100,General Fund,POSSG,Civilian Regular Authority Positions,9.5,9,9
+68,City Planning,68LVL5,City Planning,6805,Neighborhood Initiatives and Transit Oriented Planning,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,16,15,24
+68,City Planning,68LVL5,City Planning,6805,Neighborhood Initiatives and Transit Oriented Planning,100,52F,Planning Long-Range Planning Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,2.5,2,2
+68,City Planning,68LVL5,City Planning,6806,Geographic Project Planning,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,9
+68,City Planning,68LVL5,City Planning,6806,Geographic Project Planning,100,52D,Planning Case Processing Fund (Sch. 35),POSSG,Civilian Regular Authority Positions,91,85,85
+68,City Planning,68LVL5,City Planning,6806,Geographic Project Planning,100,59H,Warner Center Mobility Trust Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,1,1,1
+68,City Planning,68LVL5,City Planning,6807,Major Projects and Project Plan Support,100,52D,Planning Case Processing Fund (Sch. 35),POSSG,Civilian Regular Authority Positions,53,52,52
+68,City Planning,68LVL5,City Planning,6807,Major Projects and Project Plan Support,100,52D,Planning Case Processing Fund (Sch. 35),RESSG,Civilian Resolution Authority Positions,4,1,1
+68,City Planning,68LVL5,City Planning,6849,Technology Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,7.2,7.1,7.1
+68,City Planning,68LVL5,City Planning,6849,Technology Support,100,52D,Planning Case Processing Fund (Sch. 35),POSSG,Civilian Regular Authority Positions,12.8,10.4,10.4
+68,City Planning,68LVL5,City Planning,6849,Technology Support,100,52F,Planning Long-Range Planning Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,4.8,4.5,4.5
+68,City Planning,68LVL5,City Planning,6849,Technology Support,100,588,City Planning System Development Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,35.2,34,34
+68,City Planning,68LVL5,City Planning,6849,Technology Support,100,588,City Planning System Development Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,1,,
+68,City Planning,68LVL5,City Planning,6850,General Administration and Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,14.4,14.9,14.9
+68,City Planning,68LVL5,City Planning,6850,General Administration and Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1.55,1.25,1.25
+68,City Planning,68LVL5,City Planning,6850,General Administration and Support,100,52D,Planning Case Processing Fund (Sch. 35),POSSG,Civilian Regular Authority Positions,23.4,23.4,23.4
+68,City Planning,68LVL5,City Planning,6850,General Administration and Support,100,52D,Planning Case Processing Fund (Sch. 35),RESSG,Civilian Resolution Authority Positions,0.7,0.3,0.3
+68,City Planning,68LVL5,City Planning,6850,General Administration and Support,100,52F,Planning Long-Range Planning Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,8.2,9.7,9.7
+68,City Planning,68LVL5,City Planning,6850,General Administration and Support,100,52F,Planning Long-Range Planning Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,0.55,0.25,0.25
+68,City Planning,68LVL5,City Planning,6850,General Administration and Support,100,588,City Planning System Development Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,0.2,0.2,0.2
+68,City Planning,68LVL5,City Planning,6850,General Administration and Support,100,59H,Warner Center Mobility Trust Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,1,1,1
+70,Police,70LVL5,Police,7001,Field Forces,100,100,General Fund,POSAN,As Needed Positions,7,7,7
+70,Police,70LVL5,Police,7001,Field Forces,100,100,General Fund,POSCOMM,Commissioner Positions,12,12,12
+70,Police,70LVL5,Police,7001,Field Forces,100,100,General Fund,POSSG,Civilian Regular Authority Positions,385,336,336
+70,Police,70LVL5,Police,7001,Field Forces,100,100,General Fund,POSSW,Sworn Regular Authority Positions,6431,6431,6431
+70,Police,70LVL5,Police,7001,Field Forces,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,18
+70,Police,70LVL5,Police,7001,Field Forces,100,574,Local Public Safety Fund (Sch. 17),POSSW,Sworn Regular Authority Positions,400,400,400
+70,Police,70LVL5,Police,7003,Specialized Investigation,100,100,General Fund,POSAN,As Needed Positions,3,3,3
+70,Police,70LVL5,Police,7003,Specialized Investigation,100,100,General Fund,POSSG,Civilian Regular Authority Positions,494,465,465
+70,Police,70LVL5,Police,7003,Specialized Investigation,100,100,General Fund,POSSW,Sworn Regular Authority Positions,1241,1241,1241
+70,Police,70LVL5,Police,7003,Specialized Investigation,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,9
+70,Police,70LVL5,Police,7003,Specialized Investigation,100,100,General Fund,RESSW,Sworn Resolution Authority Positions,20,20,20
+70,Police,70LVL5,Police,7004,Custody of Persons and Property,100,100,General Fund,POSSG,Civilian Regular Authority Positions,559,545,545
+70,Police,70LVL5,Police,7004,Custody of Persons and Property,100,100,General Fund,POSSW,Sworn Regular Authority Positions,121,121,121
+70,Police,70LVL5,Police,7004,Custody of Persons and Property,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,13
+70,Police,70LVL5,Police,7005,Traffic Control,100,100,General Fund,POSSG,Civilian Regular Authority Positions,20,16,16
+70,Police,70LVL5,Police,7005,Traffic Control,100,100,General Fund,POSSW,Sworn Regular Authority Positions,679,679,679
+70,Police,70LVL5,Police,7005,Traffic Control,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,1
+70,Police,70LVL5,Police,7006,Specialized Enforcement and Protection,100,100,General Fund,POSSG,Civilian Regular Authority Positions,155,132,132
+70,Police,70LVL5,Police,7006,Specialized Enforcement and Protection,100,100,General Fund,POSSW,Sworn Regular Authority Positions,550,550,550
+70,Police,70LVL5,Police,7006,Specialized Enforcement and Protection,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,26,26,56
+70,Police,70LVL5,Police,7006,Specialized Enforcement and Protection,100,100,General Fund,RESSW,Sworn Resolution Authority Positions,104,104,104
+70,Police,70LVL5,Police,7006,Specialized Enforcement and Protection,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,22,21,21
+70,Police,70LVL5,Police,7006,Specialized Enforcement and Protection,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSW,Sworn Regular Authority Positions,1,1,1
+70,Police,70LVL5,Police,7047,Personnel Training and Support,100,100,General Fund,POSAN,As Needed Positions,2,2,2
+70,Police,70LVL5,Police,7047,Personnel Training and Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,286,264,264
+70,Police,70LVL5,Police,7047,Personnel Training and Support,100,100,General Fund,POSSW,Sworn Regular Authority Positions,504,504,504
+70,Police,70LVL5,Police,7048,Departmental Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,1099,1023,1023
+70,Police,70LVL5,Police,7048,Departmental Support,100,100,General Fund,POSSW,Sworn Regular Authority Positions,42,42,42
+70,Police,70LVL5,Police,7048,Departmental Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,33
+70,Police,70LVL5,Police,7049,Technology Support,100,100,General Fund,POSAN,As Needed Positions,1,1,1
+70,Police,70LVL5,Police,7049,Technology Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,187,163,163
+70,Police,70LVL5,Police,7049,Technology Support,100,100,General Fund,POSSW,Sworn Regular Authority Positions,36,36,36
+70,Police,70LVL5,Police,7049,Technology Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,1
+70,Police,70LVL5,Police,7050,General Administration and Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,106,96,96
+70,Police,70LVL5,Police,7050,General Administration and Support,100,100,General Fund,POSSW,Sworn Regular Authority Positions,144,147,147
+70,Police,70LVL5,Police,7050,General Administration and Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,0
+70,Police,70LVL5,Police,7050,General Administration and Support,100,100,General Fund,RESSW,Sworn Resolution Authority Positions,25,,
+70,Police,70LVL5,Police,7051,Internal Integrity and Standards Enforcement,100,100,General Fund,POSSG,Civilian Regular Authority Positions,138,126,126
+70,Police,70LVL5,Police,7051,Internal Integrity and Standards Enforcement,100,100,General Fund,POSSW,Sworn Regular Authority Positions,405,405,405
+74,Board of Public Works,74LVL5,Board of Public Works,7401,Office of Community Beautification,100,100,General Fund,POSSG,Civilian Regular Authority Positions,9,8,8
+74,Board of Public Works,74LVL5,Board of Public Works,7401,Office of Community Beautification,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,1,1
+74,Board of Public Works,74LVL5,Board of Public Works,7402,Project Restore,100,100,General Fund,POSSG,Civilian Regular Authority Positions,1,1,1
+74,Board of Public Works,74LVL5,Board of Public Works,7403,Public Works Accounting,100,100,General Fund,POSSG,Civilian Regular Authority Positions,22.5,18.7,18.122
+74,Board of Public Works,74LVL5,Board of Public Works,7403,Public Works Accounting,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,3,3,6
+74,Board of Public Works,74LVL5,Board of Public Works,7403,Public Works Accounting,100,206,Special Gas Tax Improvement Fund (Sch. 5),POSSG,Civilian Regular Authority Positions,4,4,4
+74,Board of Public Works,74LVL5,Board of Public Works,7403,Public Works Accounting,100,347,Street Lighting Maintenance Assessment Fund (Sch. 19),POSSG,Civilian Regular Authority Positions,1.43,0.43,0.4
+74,Board of Public Works,74LVL5,Board of Public Works,7403,Public Works Accounting,100,46D,Citywide Recycling Trust Fund (Sch. 32),POSSG,Civilian Regular Authority Positions,1,1,1
+74,Board of Public Works,74LVL5,Board of Public Works,7403,Public Works Accounting,100,508,Solid Waste Resources Revenue Fund (Sch. 2),POSSG,Civilian Regular Authority Positions,3.87,3.87,3.87
+74,Board of Public Works,74LVL5,Board of Public Works,7403,Public Works Accounting,100,511,Stormwater Pollution Abatement Fund (Sch. 7),POSSG,Civilian Regular Authority Positions,1.23,1.23,1.22
+74,Board of Public Works,74LVL5,Board of Public Works,7403,Public Works Accounting,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),POSSG,Civilian Regular Authority Positions,2,2,2
+74,Board of Public Works,74LVL5,Board of Public Works,7403,Public Works Accounting,100,57F,Sidewalk Repair Fund (Sch. 51),RESSG,Civilian Resolution Authority Positions,2,2,2
+74,Board of Public Works,74LVL5,Board of Public Works,7403,Public Works Accounting,100,59V,Road Maintenance and Rehabilitation Program Special (Sch. 5),RESSG,Civilian Resolution Authority Positions,1,1,1
+74,Board of Public Works,74LVL5,Board of Public Works,7403,Public Works Accounting,100,60W,Measure W Local Return Fund (Sch. 55),RESSG,Civilian Resolution Authority Positions,,1,1
+74,Board of Public Works,74LVL5,Board of Public Works,7403,Public Works Accounting,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,13.78,11.86,11.6308
+74,Board of Public Works,74LVL5,Board of Public Works,7403,Public Works Accounting,100,760,Sewer Operations & Maintenance Fund (Sch. 14),RESSG,Civilian Resolution Authority Positions,3,2,2
+74,Board of Public Works,74LVL5,Board of Public Works,7403,Public Works Accounting,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,9.19,7.91,7.7572
+74,Board of Public Works,74LVL5,Board of Public Works,7405,Public Works Board and Board Secretariat,100,100,General Fund,POSAN,As Needed Positions,4,4,4
+74,Board of Public Works,74LVL5,Board of Public Works,7405,Public Works Board and Board Secretariat,100,100,General Fund,POSSG,Civilian Regular Authority Positions,12.22,12.84,13.418
+74,Board of Public Works,74LVL5,Board of Public Works,7405,Public Works Board and Board Secretariat,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1.47,6.47,8.47
+74,Board of Public Works,74LVL5,Board of Public Works,7405,Public Works Board and Board Secretariat,100,347,Street Lighting Maintenance Assessment Fund (Sch. 19),POSSG,Civilian Regular Authority Positions,0.85,0.85,0.88
+74,Board of Public Works,74LVL5,Board of Public Works,7405,Public Works Board and Board Secretariat,100,347,Street Lighting Maintenance Assessment Fund (Sch. 19),RESSG,Civilian Resolution Authority Positions,0.05,0.05,0.05
+74,Board of Public Works,74LVL5,Board of Public Works,7405,Public Works Board and Board Secretariat,100,46D,Citywide Recycling Trust Fund (Sch. 32),POSSG,Civilian Regular Authority Positions,0.1,0.1,0.1
+74,Board of Public Works,74LVL5,Board of Public Works,7405,Public Works Board and Board Secretariat,100,508,Solid Waste Resources Revenue Fund (Sch. 2),POSSG,Civilian Regular Authority Positions,0.1,0.1,0.1
+74,Board of Public Works,74LVL5,Board of Public Works,7405,Public Works Board and Board Secretariat,100,511,Stormwater Pollution Abatement Fund (Sch. 7),POSSG,Civilian Regular Authority Positions,0.05,0.05,0.06
+74,Board of Public Works,74LVL5,Board of Public Works,7405,Public Works Board and Board Secretariat,100,57F,Sidewalk Repair Fund (Sch. 51),RESSG,Civilian Resolution Authority Positions,1,,
+74,Board of Public Works,74LVL5,Board of Public Works,7405,Public Works Board and Board Secretariat,100,60P,Homeless Emergency Aid Program Grant Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,1,,
+74,Board of Public Works,74LVL5,Board of Public Works,7405,Public Works Board and Board Secretariat,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,4.21,4.59,4.8192
+74,Board of Public Works,74LVL5,Board of Public Works,7405,Public Works Board and Board Secretariat,100,760,Sewer Operations & Maintenance Fund (Sch. 14),RESSG,Civilian Resolution Authority Positions,0.48,0.48,0.48
+74,Board of Public Works,74LVL5,Board of Public Works,7405,Public Works Board and Board Secretariat,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,2.47,2.47,2.6228
+74,Board of Public Works,74LVL5,Board of Public Works,7406,Petroleum and Natural Gas Administration and Safety,100,100,General Fund,POSSG,Civilian Regular Authority Positions,5,4,4
+74,Board of Public Works,74LVL5,Board of Public Works,7406,Petroleum and Natural Gas Administration and Safety,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,3
+74,Board of Public Works,74LVL5,Board of Public Works,7449,Public Works Financial Systems,100,100,General Fund,POSSG,Civilian Regular Authority Positions,0.8,0.55,0.55
+74,Board of Public Works,74LVL5,Board of Public Works,7449,Public Works Financial Systems,100,347,Street Lighting Maintenance Assessment Fund (Sch. 19),POSSG,Civilian Regular Authority Positions,0.33,0.25,0.25
+74,Board of Public Works,74LVL5,Board of Public Works,7449,Public Works Financial Systems,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,3.21,2.71,2.71
+74,Board of Public Works,74LVL5,Board of Public Works,7449,Public Works Financial Systems,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,0.66,0.49,0.49
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7601,Construction Inspection,100,100,General Fund,POSHH,Hiring Hall Positions,1,1,1
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7601,Construction Inspection,100,100,General Fund,POSSG,Civilian Regular Authority Positions,129,116,116
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7601,Construction Inspection,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,35,22,22
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7601,Construction Inspection,100,206,Special Gas Tax Improvement Fund (Sch. 5),POSSG,Civilian Regular Authority Positions,4,4,4
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7601,Construction Inspection,100,347,Street Lighting Maintenance Assessment Fund (Sch. 19),POSSG,Civilian Regular Authority Positions,1.5,0.5,0.5
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7601,Construction Inspection,100,385,Proposition A Local Transit Assistance Fund (Sch. 26),POSSG,Civilian Regular Authority Positions,1,1,1
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7601,Construction Inspection,100,511,Stormwater Pollution Abatement Fund (Sch. 7),POSSG,Civilian Regular Authority Positions,3,3,3
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7601,Construction Inspection,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),POSSG,Civilian Regular Authority Positions,8,8,8
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7601,Construction Inspection,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),RESSG,Civilian Resolution Authority Positions,22,22,22
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7601,Construction Inspection,100,57F,Sidewalk Repair Fund (Sch. 51),RESSG,Civilian Resolution Authority Positions,11,8,8
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7601,Construction Inspection,100,59C,Measure M Local Return Fund (Sch. 52),RESSG,Civilian Resolution Authority Positions,17,8,8
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7601,Construction Inspection,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,72.5,66.5,66.5
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7602,Contract Compliance,100,100,General Fund,POSAN,As Needed Positions,,,1
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7602,Contract Compliance,100,100,General Fund,POSSG,Civilian Regular Authority Positions,49.9,47.9,47.9
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7602,Contract Compliance,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,23,22.3,22.3
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7602,Contract Compliance,100,511,Stormwater Pollution Abatement Fund (Sch. 7),POSSG,Civilian Regular Authority Positions,0.2,0.2,0.2
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7602,Contract Compliance,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),POSSG,Civilian Regular Authority Positions,2,2,2
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7602,Contract Compliance,100,57F,Sidewalk Repair Fund (Sch. 51),RESSG,Civilian Resolution Authority Positions,1,1,1
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7602,Contract Compliance,100,59C,Measure M Local Return Fund (Sch. 52),RESSG,Civilian Resolution Authority Positions,1,1,1
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7602,Contract Compliance,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,6.9,6.9,6.9
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7602,Contract Compliance,100,761,Sewer Capital Fund (Sch. 14),RESSG,Civilian Resolution Authority Positions,1,0.7,0.7
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7650,General Administration and Support,100,100,General Fund,POSAN,As Needed Positions,2,2,2
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7650,General Administration and Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,18.8,18.8,18.8
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7650,General Administration and Support,100,59C,Measure M Local Return Fund (Sch. 52),RESSG,Civilian Resolution Authority Positions,1,1,1
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7650,General Administration and Support,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,6.2,6.2,6.2
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7650,General Administration and Support,100,761,Sewer Capital Fund (Sch. 14),RESSG,Civilian Resolution Authority Positions,2,2,2
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7803,Clean Water Infrastructure,100,100,General Fund,POSSG,Civilian Regular Authority Positions,0.53,0.53,0.53
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7803,Clean Water Infrastructure,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,9,4,4
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7803,Clean Water Infrastructure,100,206,Special Gas Tax Improvement Fund (Sch. 5),POSSG,Civilian Regular Authority Positions,0.02,0.02,0.02
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7803,Clean Water Infrastructure,100,511,Stormwater Pollution Abatement Fund (Sch. 7),POSSG,Civilian Regular Authority Positions,26.5,26.5,26.5
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7803,Clean Water Infrastructure,100,60W,Measure W Local Return Fund (Sch. 55),POSSG,Civilian Regular Authority Positions,,9,9
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7803,Clean Water Infrastructure,100,60W,Measure W Local Return Fund (Sch. 55),RESSG,Civilian Resolution Authority Positions,4,,
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7803,Clean Water Infrastructure,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,325.95,291.95,291.95
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7803,Clean Water Infrastructure,100,761,Sewer Capital Fund (Sch. 14),RESSG,Civilian Resolution Authority Positions,1,4,34
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7804,Development Services and Permits,100,100,General Fund,POSSG,Civilian Regular Authority Positions,126.01,127.89,127.89
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7804,Development Services and Permits,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,23,19,20
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7804,Development Services and Permits,100,206,Special Gas Tax Improvement Fund (Sch. 5),POSSG,Civilian Regular Authority Positions,0.84,0.76,0.76
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7804,Development Services and Permits,100,347,Street Lighting Maintenance Assessment Fund (Sch. 19),POSSG,Civilian Regular Authority Positions,1,1,1
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7804,Development Services and Permits,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,21.15,19.35,19.35
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7805,Mobility,100,100,General Fund,POSHH,Hiring Hall Positions,1,1,1
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7805,Mobility,100,100,General Fund,POSSG,Civilian Regular Authority Positions,18.03,18.53,18.78
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7805,Mobility,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,17,18,18
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7805,Mobility,100,206,Special Gas Tax Improvement Fund (Sch. 5),POSSG,Civilian Regular Authority Positions,36.02,34.52,35.27
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7805,Mobility,100,41A,Street Damage Restoration Fee Fund (Sch. 47),POSSG,Civilian Regular Authority Positions,4,4,4
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7805,Mobility,100,41A,Street Damage Restoration Fee Fund (Sch. 47),RESSG,Civilian Resolution Authority Positions,3,1.5,1.5
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7805,Mobility,100,511,Stormwater Pollution Abatement Fund (Sch. 7),POSSG,Civilian Regular Authority Positions,1,1,1
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7805,Mobility,100,51Q,Measure R Local Return Fund (Sch. 49),POSSG,Civilian Regular Authority Positions,1,1,1
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7805,Mobility,100,51Q,Measure R Local Return Fund (Sch. 49),RESSG,Civilian Resolution Authority Positions,2,2,2
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7805,Mobility,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),POSSG,Civilian Regular Authority Positions,9.5,7.5,7.5
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7805,Mobility,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),RESSG,Civilian Resolution Authority Positions,58,57,56
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7805,Mobility,100,59C,Measure M Local Return Fund (Sch. 52),RESSG,Civilian Resolution Authority Positions,6,4.5,4.5
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7805,Mobility,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,0.45,0.45,0.45
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7807,Public Buildings and Open Spaces,100,100,General Fund,POSSG,Civilian Regular Authority Positions,91.75,84.75,84.75
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7807,Public Buildings and Open Spaces,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,25,11,17
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7807,Public Buildings and Open Spaces,100,342,Telecommunications Development Account (Sch. 20),POSSG,Civilian Regular Authority Positions,1,1,1
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7807,Public Buildings and Open Spaces,100,511,Stormwater Pollution Abatement Fund (Sch. 7),RESSG,Civilian Resolution Authority Positions,1.5,1,1
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7807,Public Buildings and Open Spaces,100,528,Mobile Source Air Pollution Reduction Fund (Sch. 10),POSSG,Civilian Regular Authority Positions,1,1,1
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7807,Public Buildings and Open Spaces,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,0.25,0.25,0.25
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7807,Public Buildings and Open Spaces,100,761,Sewer Capital Fund (Sch. 14),RESSG,Civilian Resolution Authority Positions,1.5,1,1
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7812,Sidewalks and Complete Streets,100,57F,Sidewalk Repair Fund (Sch. 51),POSSG,Civilian Regular Authority Positions,12,15,15
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7812,Sidewalks and Complete Streets,100,57F,Sidewalk Repair Fund (Sch. 51),RESSG,Civilian Resolution Authority Positions,4,1,1
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7812,Sidewalks and Complete Streets,100,59C,Measure M Local Return Fund (Sch. 52),RESSG,Civilian Resolution Authority Positions,8,7,7
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7850,General Administration and Support,100,100,General Fund,POSAN,As Needed Positions,9,9,9
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7850,General Administration and Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,38.63,33.86,33.86
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7850,General Administration and Support,100,206,Special Gas Tax Improvement Fund (Sch. 5),POSSG,Civilian Regular Authority Positions,1.42,1.24,1.24
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7850,General Administration and Support,100,761,Sewer Capital Fund (Sch. 14),POSAN,As Needed Positions,2,2,2
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7850,General Administration and Support,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,31.95,27.9,27.9
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8201,Watershed Protection,100,100,General Fund,POSAN,As Needed Positions,9,9,9
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8201,Watershed Protection,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,-1
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8201,Watershed Protection,100,511,Stormwater Pollution Abatement Fund (Sch. 7),POSSG,Civilian Regular Authority Positions,128,128,128
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8201,Watershed Protection,100,511,Stormwater Pollution Abatement Fund (Sch. 7),RESSG,Civilian Resolution Authority Positions,7,7,7
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8201,Watershed Protection,100,60W,Measure W Local Return Fund (Sch. 55),POSSG,Civilian Regular Authority Positions,29,29,29
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8201,Watershed Protection,100,60W,Measure W Local Return Fund (Sch. 55),RESSG,Civilian Resolution Authority Positions,13,14,15
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8201,Watershed Protection,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,17,17,17
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8202,Clean Water,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,0
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8202,Clean Water,100,508,Solid Waste Resources Revenue Fund (Sch. 2),POSSG,Civilian Regular Authority Positions,1,1,1
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8202,Clean Water,100,511,Stormwater Pollution Abatement Fund (Sch. 7),POSSG,Civilian Regular Authority Positions,3,3,3
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8202,Clean Water,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSHH,Hiring Hall Positions,9,9,9
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8202,Clean Water,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,1273,1273,1273
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8202,Clean Water,100,760,Sewer Operations & Maintenance Fund (Sch. 14),RESSG,Civilian Resolution Authority Positions,14,14,14
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8202,Clean Water,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,33,33,33
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8202,Clean Water,100,761,Sewer Capital Fund (Sch. 14),RESSG,Civilian Resolution Authority Positions,,,2
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8203,Solid Resources,100,100,General Fund,POSAN,As Needed Positions,2,2,2
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8203,Solid Resources,100,46D,Citywide Recycling Trust Fund (Sch. 32),POSSG,Civilian Regular Authority Positions,151,152,152
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8203,Solid Resources,100,46D,Citywide Recycling Trust Fund (Sch. 32),RESSG,Civilian Resolution Authority Positions,51,50,50
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8203,Solid Resources,100,47R,Central Recycling Transfer Station Fund (Sch. 45),POSSG,Civilian Regular Authority Positions,14,14,14
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8203,Solid Resources,100,48H,Los Angeles Regional Agency Trust Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,1,1,1
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8203,Solid Resources,100,508,Solid Waste Resources Revenue Fund (Sch. 2),POSHH,Hiring Hall Positions,3,3,3
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8203,Solid Resources,100,508,Solid Waste Resources Revenue Fund (Sch. 2),POSSG,Civilian Regular Authority Positions,1179,1183,1183
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8203,Solid Resources,100,508,Solid Waste Resources Revenue Fund (Sch. 2),RESSG,Civilian Resolution Authority Positions,7,3,3
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8203,Solid Resources,100,50D,Multi-Family Bulky Item Fee Fund (Sch. 50),POSSG,Civilian Regular Authority Positions,37,37,37
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8203,Solid Resources,100,50D,Multi-Family Bulky Item Fee Fund (Sch. 50),RESSG,Civilian Resolution Authority Positions,7,7,7
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8203,Solid Resources,100,567,Household Hazardous Waste Fund (Sch. 39),POSSG,Civilian Regular Authority Positions,8,8,8
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8203,Solid Resources,100,586,Used Oil Collection Trust Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,5,5,5
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8203,Solid Resources,100,586,Used Oil Collection Trust Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,1,1,1
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8203,Solid Resources,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,3,3,3
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8203,Solid Resources,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,1,1,1
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8204,Environmental Quality,100,100,General Fund,POSSG,Civilian Regular Authority Positions,109,109,109
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8204,Environmental Quality,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,164,215,216
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8249,Technology Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,1,1,1
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8249,Technology Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1,,1
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8249,Technology Support,100,46D,Citywide Recycling Trust Fund (Sch. 32),POSSG,Civilian Regular Authority Positions,4,4,4
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8249,Technology Support,100,508,Solid Waste Resources Revenue Fund (Sch. 2),POSSG,Civilian Regular Authority Positions,16.22,16.22,16.22
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8249,Technology Support,100,511,Stormwater Pollution Abatement Fund (Sch. 7),POSSG,Civilian Regular Authority Positions,3.56,3.56,3.56
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8249,Technology Support,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,45.22,45.22,45.22
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8250,General Administration and Support,100,508,Solid Waste Resources Revenue Fund (Sch. 2),POSSG,Civilian Regular Authority Positions,34.84,41.31,41.31
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8250,General Administration and Support,100,508,Solid Waste Resources Revenue Fund (Sch. 2),RESSG,Civilian Resolution Authority Positions,9.82,2.88,2.88
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8250,General Administration and Support,100,511,Stormwater Pollution Abatement Fund (Sch. 7),POSSG,Civilian Regular Authority Positions,4.32,4.38,4.38
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8250,General Administration and Support,100,511,Stormwater Pollution Abatement Fund (Sch. 7),RESSG,Civilian Resolution Authority Positions,0.36,0.24,0.24
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8250,General Administration and Support,100,760,Sewer Operations & Maintenance Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,39.84,43.31,43.31
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8250,General Administration and Support,100,760,Sewer Operations & Maintenance Fund (Sch. 14),RESSG,Civilian Resolution Authority Positions,5.82,1.88,1.88
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8401,Design and Construction,100,100,General Fund,POSAN,As Needed Positions,1,1,1
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8401,Design and Construction,100,206,Special Gas Tax Improvement Fund (Sch. 5),POSSG,Civilian Regular Authority Positions,9,8,8
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8401,Design and Construction,100,206,Special Gas Tax Improvement Fund (Sch. 5),RESSG,Civilian Resolution Authority Positions,3,2,2
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8401,Design and Construction,100,347,Street Lighting Maintenance Assessment Fund (Sch. 19),POSSG,Civilian Regular Authority Positions,65,64,64
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8401,Design and Construction,100,347,Street Lighting Maintenance Assessment Fund (Sch. 19),RESSG,Civilian Resolution Authority Positions,60,53,53
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8401,Design and Construction,100,43U,Street Banners Revenue Trust Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,1,1,1
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8401,Design and Construction,100,51Q,Measure R Local Return Fund (Sch. 49),RESSG,Civilian Resolution Authority Positions,5,4,4
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8401,Design and Construction,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),POSSG,Civilian Regular Authority Positions,3,3,3
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8401,Design and Construction,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),RESSG,Civilian Resolution Authority Positions,27,25,25
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8401,Design and Construction,100,59C,Measure M Local Return Fund (Sch. 52),RESSG,Civilian Resolution Authority Positions,11,5,5
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8401,Design and Construction,100,59V,Road Maintenance and Rehabilitation Program Special (Sch. 5),RESSG,Civilian Resolution Authority Positions,4,,
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8401,Design and Construction,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,2,2,2
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8402,"System Operation, Maintenance, and Repair",100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,16
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8402,"System Operation, Maintenance, and Repair",100,206,Special Gas Tax Improvement Fund (Sch. 5),POSSG,Civilian Regular Authority Positions,4,4,4
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8402,"System Operation, Maintenance, and Repair",100,206,Special Gas Tax Improvement Fund (Sch. 5),RESSG,Civilian Resolution Authority Positions,8,8,8
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8402,"System Operation, Maintenance, and Repair",100,347,Street Lighting Maintenance Assessment Fund (Sch. 19),POSAN,As Needed Positions,6,6,6
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8402,"System Operation, Maintenance, and Repair",100,347,Street Lighting Maintenance Assessment Fund (Sch. 19),POSHH,Hiring Hall Positions,5,5,5
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8402,"System Operation, Maintenance, and Repair",100,347,Street Lighting Maintenance Assessment Fund (Sch. 19),POSSG,Civilian Regular Authority Positions,89,88,88
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8402,"System Operation, Maintenance, and Repair",100,347,Street Lighting Maintenance Assessment Fund (Sch. 19),RESSG,Civilian Resolution Authority Positions,4,4,4
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8403,Street Lighting Assessment,100,347,Street Lighting Maintenance Assessment Fund (Sch. 19),POSSG,Civilian Regular Authority Positions,10,8,8
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8450,General Administration and Support,100,347,Street Lighting Maintenance Assessment Fund (Sch. 19),POSAN,As Needed Positions,2,2,2
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8450,General Administration and Support,100,347,Street Lighting Maintenance Assessment Fund (Sch. 19),POSSG,Civilian Regular Authority Positions,27,27,27
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8450,General Administration and Support,100,347,Street Lighting Maintenance Assessment Fund (Sch. 19),RESSG,Civilian Resolution Authority Positions,2,2,3
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8602,Investigation and Enforcement,100,100,General Fund,POSSG,Civilian Regular Authority Positions,57,49,49
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8602,Investigation and Enforcement,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,5,16,17
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8602,Investigation and Enforcement,100,51Q,Measure R Local Return Fund (Sch. 49),RESSG,Civilian Resolution Authority Positions,1,1,1
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8602,Investigation and Enforcement,100,579,Sidewalk and Park Vending Trust Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,20,7,7
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8603,Street Sweeping,100,100,General Fund,POSSG,Civilian Regular Authority Positions,21.15,18.32,17.85
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8603,Street Sweeping,100,206,Special Gas Tax Improvement Fund (Sch. 5),POSSG,Civilian Regular Authority Positions,50.38,40.5,40.28
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8603,Street Sweeping,100,385,Proposition A Local Transit Assistance Fund (Sch. 26),POSSG,Civilian Regular Authority Positions,0.12,,0
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8603,Street Sweeping,100,511,Stormwater Pollution Abatement Fund (Sch. 7),POSSG,Civilian Regular Authority Positions,37.35,34.18,32.87
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8603,Street Sweeping,100,51Q,Measure R Local Return Fund (Sch. 49),RESSG,Civilian Resolution Authority Positions,1,1,1
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8604,Street Tree and Parkway Maintenance,100,100,General Fund,POSSG,Civilian Regular Authority Positions,17.4,16.4,16.4
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8604,Street Tree and Parkway Maintenance,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,83,84,128
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8604,Street Tree and Parkway Maintenance,100,206,Special Gas Tax Improvement Fund (Sch. 5),POSSG,Civilian Regular Authority Positions,84.6,78.6,78.6
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8604,Street Tree and Parkway Maintenance,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),RESSG,Civilian Resolution Authority Positions,24,23,23
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8604,Street Tree and Parkway Maintenance,100,57F,Sidewalk Repair Fund (Sch. 51),POSSG,Civilian Regular Authority Positions,22,17,17
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8604,Street Tree and Parkway Maintenance,100,59C,Measure M Local Return Fund (Sch. 52),RESSG,Civilian Resolution Authority Positions,4,4,4
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8605,Maintaining Streets,100,100,General Fund,POSSG,Civilian Regular Authority Positions,49.78,46.79,46.79
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8605,Maintaining Streets,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,1
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8605,Maintaining Streets,100,206,Special Gas Tax Improvement Fund (Sch. 5),POSSG,Civilian Regular Authority Positions,119.4,99.4,96.4
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8605,Maintaining Streets,100,385,Proposition A Local Transit Assistance Fund (Sch. 26),POSSG,Civilian Regular Authority Positions,2.04,2.04,2.04
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8605,Maintaining Streets,100,511,Stormwater Pollution Abatement Fund (Sch. 7),POSSG,Civilian Regular Authority Positions,2.53,2.52,2.52
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8605,Maintaining Streets,100,51Q,Measure R Local Return Fund (Sch. 49),POSSG,Civilian Regular Authority Positions,0.25,0.25,0.25
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8605,Maintaining Streets,100,51Q,Measure R Local Return Fund (Sch. 49),RESSG,Civilian Resolution Authority Positions,11,9,9
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8605,Maintaining Streets,100,59C,Measure M Local Return Fund (Sch. 52),RESSG,Civilian Resolution Authority Positions,16,16,16
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8606,Pavement Preservation,100,100,General Fund,POSHH,Hiring Hall Positions,1,1,1
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8606,Pavement Preservation,100,100,General Fund,POSSG,Civilian Regular Authority Positions,126.91,107.01,104.21
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8606,Pavement Preservation,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,13
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8606,Pavement Preservation,100,206,Special Gas Tax Improvement Fund (Sch. 5),POSSG,Civilian Regular Authority Positions,125.74,108.54,106.54
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8606,Pavement Preservation,100,206,Special Gas Tax Improvement Fund (Sch. 5),RESSG,Civilian Resolution Authority Positions,1,,
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8606,Pavement Preservation,100,385,Proposition A Local Transit Assistance Fund (Sch. 26),POSSG,Civilian Regular Authority Positions,3.96,3.96,3.96
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8606,Pavement Preservation,100,41A,Street Damage Restoration Fee Fund (Sch. 47),RESSG,Civilian Resolution Authority Positions,14,14,14
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8606,Pavement Preservation,100,511,Stormwater Pollution Abatement Fund (Sch. 7),POSSG,Civilian Regular Authority Positions,2.19,2.19,2.19
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8606,Pavement Preservation,100,51Q,Measure R Local Return Fund (Sch. 49),POSSG,Civilian Regular Authority Positions,93.2,80.3,79.1
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8606,Pavement Preservation,100,59C,Measure M Local Return Fund (Sch. 52),RESSG,Civilian Resolution Authority Positions,54,51,51
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8607,Street Improvement Construction,100,100,General Fund,POSHH,Hiring Hall Positions,4,4,4
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8607,Street Improvement Construction,100,100,General Fund,POSSG,Civilian Regular Authority Positions,0.9,0.9,0.9
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8607,Street Improvement Construction,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,54,54,105
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8607,Street Improvement Construction,100,206,Special Gas Tax Improvement Fund (Sch. 5),POSSG,Civilian Regular Authority Positions,1.36,1.36,1.36
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8607,Street Improvement Construction,100,385,Proposition A Local Transit Assistance Fund (Sch. 26),POSSG,Civilian Regular Authority Positions,11.35,10.35,9.35
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8607,Street Improvement Construction,100,511,Stormwater Pollution Abatement Fund (Sch. 7),POSSG,Civilian Regular Authority Positions,0.09,0.09,0.09
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8607,Street Improvement Construction,100,51Q,Measure R Local Return Fund (Sch. 49),POSSG,Civilian Regular Authority Positions,25.3,22.3,21.3
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8607,Street Improvement Construction,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),RESSG,Civilian Resolution Authority Positions,75,70,70
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8607,Street Improvement Construction,100,57F,Sidewalk Repair Fund (Sch. 51),POSSG,Civilian Regular Authority Positions,47,43,43
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8607,Street Improvement Construction,100,59C,Measure M Local Return Fund (Sch. 52),RESSG,Civilian Resolution Authority Positions,9,9,9
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8608,Street Improvement Engineering,100,100,General Fund,POSSG,Civilian Regular Authority Positions,3.92,4.79,4.79
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8608,Street Improvement Engineering,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,5,7,26
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8608,Street Improvement Engineering,100,206,Special Gas Tax Improvement Fund (Sch. 5),POSSG,Civilian Regular Authority Positions,15.18,16.92,16.92
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8608,Street Improvement Engineering,100,206,Special Gas Tax Improvement Fund (Sch. 5),RESSG,Civilian Resolution Authority Positions,,1,1
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8608,Street Improvement Engineering,100,385,Proposition A Local Transit Assistance Fund (Sch. 26),POSSG,Civilian Regular Authority Positions,1.92,1.8,1.8
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8608,Street Improvement Engineering,100,41A,Street Damage Restoration Fee Fund (Sch. 47),RESSG,Civilian Resolution Authority Positions,,4,4
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8608,Street Improvement Engineering,100,511,Stormwater Pollution Abatement Fund (Sch. 7),POSSG,Civilian Regular Authority Positions,1.98,1.89,1.89
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8608,Street Improvement Engineering,100,51Q,Measure R Local Return Fund (Sch. 49),POSSG,Civilian Regular Authority Positions,,0.6,0.6
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8608,Street Improvement Engineering,100,51Q,Measure R Local Return Fund (Sch. 49),RESSG,Civilian Resolution Authority Positions,16,,
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8608,Street Improvement Engineering,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),RESSG,Civilian Resolution Authority Positions,36,53,53
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8650,General Administration and Support,100,100,General Fund,POSAN,As Needed Positions,41,41,41
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8650,General Administration and Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,67.41,64.41,64.41
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8650,General Administration and Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1,1,2
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8650,General Administration and Support,100,206,Special Gas Tax Improvement Fund (Sch. 5),POSSG,Civilian Regular Authority Positions,8.16,8.16,8.16
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8650,General Administration and Support,100,385,Proposition A Local Transit Assistance Fund (Sch. 26),POSSG,Civilian Regular Authority Positions,0.36,0.36,0.36
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8650,General Administration and Support,100,41A,Street Damage Restoration Fee Fund (Sch. 47),RESSG,Civilian Resolution Authority Positions,4,4,4
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8650,General Administration and Support,100,511,Stormwater Pollution Abatement Fund (Sch. 7),POSSG,Civilian Regular Authority Positions,0.27,0.27,0.27
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8650,General Administration and Support,100,51Q,Measure R Local Return Fund (Sch. 49),POSSG,Civilian Regular Authority Positions,1.8,1.8,1.8
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8650,General Administration and Support,100,57F,Sidewalk Repair Fund (Sch. 51),POSSG,Civilian Regular Authority Positions,2,2,2
+87,Zoo,87LVL5,Zoo,8701,Animal General Care,100,100,General Fund,POSAN,As Needed Positions,26,26,26
+87,Zoo,87LVL5,Zoo,8701,Animal General Care,100,100,General Fund,POSCOMM,Commissioner Positions,5,5,5
+87,Zoo,87LVL5,Zoo,8701,Animal General Care,100,100,General Fund,POSHH,Hiring Hall Positions,8,8,8
+87,Zoo,87LVL5,Zoo,8701,Animal General Care,100,40E,Zoo Enterprise Trust Fund (Sch. 44),POSSG,Civilian Regular Authority Positions,109,102,102
+87,Zoo,87LVL5,Zoo,8701,Animal General Care,100,40E,Zoo Enterprise Trust Fund (Sch. 44),RESSG,Civilian Resolution Authority Positions,1,1,8
+87,Zoo,87LVL5,Zoo,8702,Animal Health Care,100,40E,Zoo Enterprise Trust Fund (Sch. 44),POSSG,Civilian Regular Authority Positions,18,18,18
+87,Zoo,87LVL5,Zoo,8703,Guest Services,100,100,General Fund,POSAN,As Needed Positions,1,1,1
+87,Zoo,87LVL5,Zoo,8703,Guest Services,100,40E,Zoo Enterprise Trust Fund (Sch. 44),POSSG,Civilian Regular Authority Positions,14,14,14
+87,Zoo,87LVL5,Zoo,8704,Grounds Maintenance,100,40E,Zoo Enterprise Trust Fund (Sch. 44),POSSG,Civilian Regular Authority Positions,28,25,25
+87,Zoo,87LVL5,Zoo,8704,Grounds Maintenance,100,40E,Zoo Enterprise Trust Fund (Sch. 44),RESSG,Civilian Resolution Authority Positions,,,3
+87,Zoo,87LVL5,Zoo,8705,Custodial Services,100,40E,Zoo Enterprise Trust Fund (Sch. 44),POSSG,Civilian Regular Authority Positions,16,15,15
+87,Zoo,87LVL5,Zoo,8705,Custodial Services,100,40E,Zoo Enterprise Trust Fund (Sch. 44),RESSG,Civilian Resolution Authority Positions,,,1
+87,Zoo,87LVL5,Zoo,8706,Public Relations and Marketing,100,40E,Zoo Enterprise Trust Fund (Sch. 44),POSSG,Civilian Regular Authority Positions,5,4,4
+87,Zoo,87LVL5,Zoo,8706,Public Relations and Marketing,100,40E,Zoo Enterprise Trust Fund (Sch. 44),RESSG,Civilian Resolution Authority Positions,,,1
+87,Zoo,87LVL5,Zoo,8707,Learning and Engagement,100,40E,Zoo Enterprise Trust Fund (Sch. 44),POSSG,Civilian Regular Authority Positions,15,14,14
+87,Zoo,87LVL5,Zoo,8707,Learning and Engagement,100,40E,Zoo Enterprise Trust Fund (Sch. 44),RESSG,Civilian Resolution Authority Positions,,,1
+87,Zoo,87LVL5,Zoo,8708,"Planning, Development and Construction",100,100,General Fund,POSAN,As Needed Positions,1,1,1
+87,Zoo,87LVL5,Zoo,8708,"Planning, Development and Construction",100,100,General Fund,POSHH,Hiring Hall Positions,2,2,2
+87,Zoo,87LVL5,Zoo,8708,"Planning, Development and Construction",100,40E,Zoo Enterprise Trust Fund (Sch. 44),POSSG,Civilian Regular Authority Positions,30,26,26
+87,Zoo,87LVL5,Zoo,8708,"Planning, Development and Construction",100,40E,Zoo Enterprise Trust Fund (Sch. 44),RESSG,Civilian Resolution Authority Positions,,,4
+87,Zoo,87LVL5,Zoo,8709,Conservation,100,40E,Zoo Enterprise Trust Fund (Sch. 44),RESSG,Civilian Resolution Authority Positions,1,1,1
+87,Zoo,87LVL5,Zoo,8749,Technology Support,100,40E,Zoo Enterprise Trust Fund (Sch. 44),POSSG,Civilian Regular Authority Positions,4,4,4
+87,Zoo,87LVL5,Zoo,8750,General Administration and Support,100,40E,Zoo Enterprise Trust Fund (Sch. 44),POSAN,As Needed Positions,4,4,4
+87,Zoo,87LVL5,Zoo,8750,General Administration and Support,100,40E,Zoo Enterprise Trust Fund (Sch. 44),POSSG,Civilian Regular Authority Positions,24,24,24
+87,Zoo,87LVL5,Zoo,8750,General Administration and Support,100,40E,Zoo Enterprise Trust Fund (Sch. 44),RESSG,Civilian Resolution Authority Positions,2,1,2
+94,Transportation,94LVL5,Transportation,9401,Sustainable Transportation,100,100,General Fund,POSAN,As Needed Positions,6,6,6
+94,Transportation,94LVL5,Transportation,9401,Sustainable Transportation,100,100,General Fund,POSCOMM,Commissioner Positions,12,12,12
+94,Transportation,94LVL5,Transportation,9401,Sustainable Transportation,100,100,General Fund,POSSG,Civilian Regular Authority Positions,22.25,21.25,21.25
+94,Transportation,94LVL5,Transportation,9401,Sustainable Transportation,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,1
+94,Transportation,94LVL5,Transportation,9401,Sustainable Transportation,100,385,Proposition A Local Transit Assistance Fund (Sch. 26),POSSG,Civilian Regular Authority Positions,0.25,0.25,0.25
+94,Transportation,94LVL5,Transportation,9401,Sustainable Transportation,100,49C,Permit Parking Program Revenue Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,9,8,8
+94,Transportation,94LVL5,Transportation,9401,Sustainable Transportation,100,528,Mobile Source Air Pollution Reduction Fund (Sch. 10),POSSG,Civilian Regular Authority Positions,3.5,3.5,3.5
+94,Transportation,94LVL5,Transportation,9401,Sustainable Transportation,100,528,Mobile Source Air Pollution Reduction Fund (Sch. 10),RESSG,Civilian Resolution Authority Positions,2,2,2
+94,Transportation,94LVL5,Transportation,9401,Sustainable Transportation,100,59C,Measure M Local Return Fund (Sch. 52),POSSG,Civilian Regular Authority Positions,2,2,2
+94,Transportation,94LVL5,Transportation,9401,Sustainable Transportation,100,59C,Measure M Local Return Fund (Sch. 52),RESSG,Civilian Resolution Authority Positions,5,5,5
+94,Transportation,94LVL5,Transportation,9402,Transportation Planning and Land Use,100,100,General Fund,POSSG,Civilian Regular Authority Positions,6,6,6
+94,Transportation,94LVL5,Transportation,9402,Transportation Planning and Land Use,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,2,5
+94,Transportation,94LVL5,Transportation,9402,Transportation Planning and Land Use,100,447,Coastal Transportation Corridor Trust Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,3.5,3.5,3.5
+94,Transportation,94LVL5,Transportation,9402,Transportation Planning and Land Use,100,447,Coastal Transportation Corridor Trust Fund (Sch. 29),RESSG,Civilian Resolution Authority Positions,1,1,1
+94,Transportation,94LVL5,Transportation,9402,Transportation Planning and Land Use,100,523,Ventura/Cahuenga Corridor Plan Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,2,1,1
+94,Transportation,94LVL5,Transportation,9402,Transportation Planning and Land Use,100,528,Mobile Source Air Pollution Reduction Fund (Sch. 10),POSSG,Civilian Regular Authority Positions,5,5,5
+94,Transportation,94LVL5,Transportation,9402,Transportation Planning and Land Use,100,52F,Planning Long-Range Planning Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,3,3,3
+94,Transportation,94LVL5,Transportation,9402,Transportation Planning and Land Use,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),POSSG,Civilian Regular Authority Positions,9,8,8
+94,Transportation,94LVL5,Transportation,9402,Transportation Planning and Land Use,100,573,Warner Center Transportation Trust Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,2,2,2
+94,Transportation,94LVL5,Transportation,9402,Transportation Planning and Land Use,100,57P,DOT Expedited Fee Trust Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,3,3,3
+94,Transportation,94LVL5,Transportation,9402,Transportation Planning and Land Use,100,59C,Measure M Local Return Fund (Sch. 52),RESSG,Civilian Resolution Authority Positions,1,,1
+94,Transportation,94LVL5,Transportation,9402,Transportation Planning and Land Use,100,681,West LA Transportation Improvement & Mitigation (Sch. 29),POSSG,Civilian Regular Authority Positions,1.5,1.5,1.5
+94,Transportation,94LVL5,Transportation,9403,Transportation Infrastructure and Project Delivery,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,4,4,4
+94,Transportation,94LVL5,Transportation,9403,Transportation Infrastructure and Project Delivery,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),POSSG,Civilian Regular Authority Positions,10,9,9
+94,Transportation,94LVL5,Transportation,9403,Transportation Infrastructure and Project Delivery,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),RESSG,Civilian Resolution Authority Positions,23,22,24
+94,Transportation,94LVL5,Transportation,9403,Transportation Infrastructure and Project Delivery,100,59C,Measure M Local Return Fund (Sch. 52),POSSG,Civilian Regular Authority Positions,6,6,6
+94,Transportation,94LVL5,Transportation,9403,Transportation Infrastructure and Project Delivery,100,681,West LA Transportation Improvement & Mitigation (Sch. 29),POSSG,Civilian Regular Authority Positions,1,1,1
+94,Transportation,94LVL5,Transportation,9404,"Parking Facilities, Meters, and Operations",100,100,General Fund,POSSG,Civilian Regular Authority Positions,63.5,53.5,53.5
+94,Transportation,94LVL5,Transportation,9404,"Parking Facilities, Meters, and Operations",100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1,,1
+94,Transportation,94LVL5,Transportation,9404,"Parking Facilities, Meters, and Operations",100,49C,Permit Parking Program Revenue Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,13.5,13.5,13.5
+94,Transportation,94LVL5,Transportation,9404,"Parking Facilities, Meters, and Operations",100,528,Mobile Source Air Pollution Reduction Fund (Sch. 10),RESSG,Civilian Resolution Authority Positions,,1,1
+94,Transportation,94LVL5,Transportation,9405,Parking Enforcement Services,100,100,General Fund,POSAN,As Needed Positions,1,1,1
+94,Transportation,94LVL5,Transportation,9405,Parking Enforcement Services,100,100,General Fund,POSSG,Civilian Regular Authority Positions,746.5,742.5,742.5
+94,Transportation,94LVL5,Transportation,9405,Parking Enforcement Services,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,22,22,22
+94,Transportation,94LVL5,Transportation,9405,Parking Enforcement Services,100,49C,Permit Parking Program Revenue Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,9.5,9.5,9.5
+94,Transportation,94LVL5,Transportation,9405,Parking Enforcement Services,100,59C,Measure M Local Return Fund (Sch. 52),RESSG,Civilian Resolution Authority Positions,7,7,7
+94,Transportation,94LVL5,Transportation,9406,Parking Citation Processing Services,100,100,General Fund,POSSG,Civilian Regular Authority Positions,55,50,50
+94,Transportation,94LVL5,Transportation,9406,Parking Citation Processing Services,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,2,2,2
+94,Transportation,94LVL5,Transportation,9407,Streets and Sign Management,100,100,General Fund,POSAN,As Needed Positions,1,1,1
+94,Transportation,94LVL5,Transportation,9407,Streets and Sign Management,100,100,General Fund,POSSG,Civilian Regular Authority Positions,30,26,26
+94,Transportation,94LVL5,Transportation,9407,Streets and Sign Management,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,6,6,15
+94,Transportation,94LVL5,Transportation,9407,Streets and Sign Management,100,206,Special Gas Tax Improvement Fund (Sch. 5),POSSG,Civilian Regular Authority Positions,27.5,26.5,26.5
+94,Transportation,94LVL5,Transportation,9407,Streets and Sign Management,100,41A,Street Damage Restoration Fee Fund (Sch. 47),RESSG,Civilian Resolution Authority Positions,8,6,6
+94,Transportation,94LVL5,Transportation,9407,Streets and Sign Management,100,49C,Permit Parking Program Revenue Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,6,6,6
+94,Transportation,94LVL5,Transportation,9407,Streets and Sign Management,100,51Q,Measure R Local Return Fund (Sch. 49),POSSG,Civilian Regular Authority Positions,1,1,1
+94,Transportation,94LVL5,Transportation,9407,Streets and Sign Management,100,51Q,Measure R Local Return Fund (Sch. 49),RESSG,Civilian Resolution Authority Positions,4,4,4
+94,Transportation,94LVL5,Transportation,9407,Streets and Sign Management,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),POSSG,Civilian Regular Authority Positions,69.5,64.5,64.5
+94,Transportation,94LVL5,Transportation,9407,Streets and Sign Management,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),RESSG,Civilian Resolution Authority Positions,14,13,13
+94,Transportation,94LVL5,Transportation,9407,Streets and Sign Management,100,59C,Measure M Local Return Fund (Sch. 52),RESSG,Civilian Resolution Authority Positions,19,12,12
+94,Transportation,94LVL5,Transportation,9408,District Offices,100,100,General Fund,POSAN,As Needed Positions,1,1,1
+94,Transportation,94LVL5,Transportation,9408,District Offices,100,100,General Fund,POSSG,Civilian Regular Authority Positions,14.5,13,13
+94,Transportation,94LVL5,Transportation,9408,District Offices,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,1
+94,Transportation,94LVL5,Transportation,9408,District Offices,100,51Q,Measure R Local Return Fund (Sch. 49),POSSG,Civilian Regular Authority Positions,9,9,9
+94,Transportation,94LVL5,Transportation,9408,District Offices,100,51Q,Measure R Local Return Fund (Sch. 49),RESSG,Civilian Resolution Authority Positions,3,3,3
+94,Transportation,94LVL5,Transportation,9408,District Offices,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),POSSG,Civilian Regular Authority Positions,17.5,16,16
+94,Transportation,94LVL5,Transportation,9408,District Offices,100,59C,Measure M Local Return Fund (Sch. 52),POSSG,Civilian Regular Authority Positions,1,1,1
+94,Transportation,94LVL5,Transportation,9408,District Offices,100,59C,Measure M Local Return Fund (Sch. 52),RESSG,Civilian Resolution Authority Positions,1,1,4
+94,Transportation,94LVL5,Transportation,9409,Traffic Signals and Systems,100,100,General Fund,POSAN,As Needed Positions,2,2,2
+94,Transportation,94LVL5,Transportation,9409,Traffic Signals and Systems,100,100,General Fund,POSHH,Hiring Hall Positions,1,1,1
+94,Transportation,94LVL5,Transportation,9409,Traffic Signals and Systems,100,100,General Fund,POSSG,Civilian Regular Authority Positions,29,24,22
+94,Transportation,94LVL5,Transportation,9409,Traffic Signals and Systems,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,8,11,23
+94,Transportation,94LVL5,Transportation,9409,Traffic Signals and Systems,100,385,Proposition A Local Transit Assistance Fund (Sch. 26),POSSG,Civilian Regular Authority Positions,2,2,2
+94,Transportation,94LVL5,Transportation,9409,Traffic Signals and Systems,100,385,Proposition A Local Transit Assistance Fund (Sch. 26),RESSG,Civilian Resolution Authority Positions,2,2,2
+94,Transportation,94LVL5,Transportation,9409,Traffic Signals and Systems,100,528,Mobile Source Air Pollution Reduction Fund (Sch. 10),POSSG,Civilian Regular Authority Positions,3,3,3
+94,Transportation,94LVL5,Transportation,9409,Traffic Signals and Systems,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),POSSG,Civilian Regular Authority Positions,106,94,94
+94,Transportation,94LVL5,Transportation,9409,Traffic Signals and Systems,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),RESSG,Civilian Resolution Authority Positions,72,70,72
+94,Transportation,94LVL5,Transportation,9409,Traffic Signals and Systems,100,57F,Sidewalk Repair Fund (Sch. 51),POSSG,Civilian Regular Authority Positions,2,2,2
+94,Transportation,94LVL5,Transportation,9409,Traffic Signals and Systems,100,59C,Measure M Local Return Fund (Sch. 52),RESSG,Civilian Resolution Authority Positions,28,27,27
+94,Transportation,94LVL5,Transportation,9409,Traffic Signals and Systems,100,59V,Road Maintenance and Rehabilitation Program Special (Sch. 5),RESSG,Civilian Resolution Authority Positions,5,,
+94,Transportation,94LVL5,Transportation,9412,Public Transit Services,100,385,Proposition A Local Transit Assistance Fund (Sch. 26),POSSG,Civilian Regular Authority Positions,42,37,37
+94,Transportation,94LVL5,Transportation,9412,Public Transit Services,100,385,Proposition A Local Transit Assistance Fund (Sch. 26),RESSG,Civilian Resolution Authority Positions,7,5,12
+94,Transportation,94LVL5,Transportation,9413,Major Project Coordination,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,1,1,2
+94,Transportation,94LVL5,Transportation,9413,Major Project Coordination,100,528,Mobile Source Air Pollution Reduction Fund (Sch. 10),POSSG,Civilian Regular Authority Positions,1,1,1
+94,Transportation,94LVL5,Transportation,9413,Major Project Coordination,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),POSSG,Civilian Regular Authority Positions,11,11,11
+94,Transportation,94LVL5,Transportation,9413,Major Project Coordination,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),RESSG,Civilian Resolution Authority Positions,17,16,17
+94,Transportation,94LVL5,Transportation,9413,Major Project Coordination,100,59C,Measure M Local Return Fund (Sch. 52),RESSG,Civilian Resolution Authority Positions,10,16,16
+94,Transportation,94LVL5,Transportation,9413,Major Project Coordination,100,761,Sewer Capital Fund (Sch. 14),POSSG,Civilian Regular Authority Positions,1,1,1
+94,Transportation,94LVL5,Transportation,9414,Emergency Management and Special Events,100,100,General Fund,POSSG,Civilian Regular Authority Positions,9,8,8
+94,Transportation,94LVL5,Transportation,9414,Emergency Management and Special Events,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,2
+94,Transportation,94LVL5,Transportation,9416,Active Transportation,100,100,General Fund,POSSG,Civilian Regular Authority Positions,4,4,4
+94,Transportation,94LVL5,Transportation,9416,Active Transportation,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,3
+94,Transportation,94LVL5,Transportation,9416,Active Transportation,100,206,Special Gas Tax Improvement Fund (Sch. 5),POSSG,Civilian Regular Authority Positions,1,1,1
+94,Transportation,94LVL5,Transportation,9416,Active Transportation,100,51Q,Measure R Local Return Fund (Sch. 49),POSSG,Civilian Regular Authority Positions,18,18,18
+94,Transportation,94LVL5,Transportation,9416,Active Transportation,100,51Q,Measure R Local Return Fund (Sch. 49),RESSG,Civilian Resolution Authority Positions,5,5,5
+94,Transportation,94LVL5,Transportation,9416,Active Transportation,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),POSSG,Civilian Regular Authority Positions,17,17,17
+94,Transportation,94LVL5,Transportation,9416,Active Transportation,100,59C,Measure M Local Return Fund (Sch. 52),POSSG,Civilian Regular Authority Positions,7,7,7
+94,Transportation,94LVL5,Transportation,9416,Active Transportation,100,59C,Measure M Local Return Fund (Sch. 52),RESSG,Civilian Resolution Authority Positions,1,1,1
+94,Transportation,94LVL5,Transportation,9417,Crossing Guard Services,100,100,General Fund,POSSG,Civilian Regular Authority Positions,5,2,2
+94,Transportation,94LVL5,Transportation,9417,Crossing Guard Services,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,,,4
+94,Transportation,94LVL5,Transportation,9449,Technology Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,10,10,10
+94,Transportation,94LVL5,Transportation,9449,Technology Support,100,51Q,Measure R Local Return Fund (Sch. 49),POSSG,Civilian Regular Authority Positions,3,2,2
+94,Transportation,94LVL5,Transportation,9449,Technology Support,100,51Q,Measure R Local Return Fund (Sch. 49),RESSG,Civilian Resolution Authority Positions,,,1
+94,Transportation,94LVL5,Transportation,9449,Technology Support,100,528,Mobile Source Air Pollution Reduction Fund (Sch. 10),POSSG,Civilian Regular Authority Positions,2,2,2
+94,Transportation,94LVL5,Transportation,9449,Technology Support,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),POSSG,Civilian Regular Authority Positions,7,6,6
+94,Transportation,94LVL5,Transportation,9450,General Administration and Support,100,100,General Fund,POSAN,As Needed Positions,4,4,4
+94,Transportation,94LVL5,Transportation,9450,General Administration and Support,100,100,General Fund,POSSG,Civilian Regular Authority Positions,39.75,38.75,38.75
+94,Transportation,94LVL5,Transportation,9450,General Administration and Support,100,100,General Fund,RESSG,Civilian Resolution Authority Positions,2,2,2
+94,Transportation,94LVL5,Transportation,9450,General Administration and Support,100,385,Proposition A Local Transit Assistance Fund (Sch. 26),POSSG,Civilian Regular Authority Positions,2.5,2.5,2.5
+94,Transportation,94LVL5,Transportation,9450,General Administration and Support,100,385,Proposition A Local Transit Assistance Fund (Sch. 26),RESSG,Civilian Resolution Authority Positions,1,1,1
+94,Transportation,94LVL5,Transportation,9450,General Administration and Support,100,447,Coastal Transportation Corridor Trust Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.25,0.25,0.25
+94,Transportation,94LVL5,Transportation,9450,General Administration and Support,100,51Q,Measure R Local Return Fund (Sch. 49),POSSG,Civilian Regular Authority Positions,4,4,4
+94,Transportation,94LVL5,Transportation,9450,General Administration and Support,100,51Q,Measure R Local Return Fund (Sch. 49),RESSG,Civilian Resolution Authority Positions,1,1,1
+94,Transportation,94LVL5,Transportation,9450,General Administration and Support,100,523,Ventura/Cahuenga Corridor Plan Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.25,0.25,0.25
+94,Transportation,94LVL5,Transportation,9450,General Administration and Support,100,528,Mobile Source Air Pollution Reduction Fund (Sch. 10),POSSG,Civilian Regular Authority Positions,0.75,0.75,0.75
+94,Transportation,94LVL5,Transportation,9450,General Administration and Support,100,540,Proposition C Anti-Gridlock Transit Fund (Sch. 27),POSSG,Civilian Regular Authority Positions,13,12,12
+94,Transportation,94LVL5,Transportation,9450,General Administration and Support,100,573,Warner Center Transportation Trust Fund (Sch. 29),POSSG,Civilian Regular Authority Positions,0.25,0.25,0.25
+94,Transportation,94LVL5,Transportation,9450,General Administration and Support,100,59C,Measure M Local Return Fund (Sch. 52),POSSG,Civilian Regular Authority Positions,2,2,2
+94,Transportation,94LVL5,Transportation,9450,General Administration and Support,100,59C,Measure M Local Return Fund (Sch. 52),RESSG,Civilian Resolution Authority Positions,2,2,2
+94,Transportation,94LVL5,Transportation,9450,General Administration and Support,100,681,West LA Transportation Improvement & Mitigation (Sch. 29),POSSG,Civilian Regular Authority Positions,0.25,0.25,0.25
+44,Library,44LVL5,Library,4401,Branch Library Services,300,300,Library Other Revenue,POSAN,As Needed Positions,40,40,40
+44,Library,44LVL5,Library,4401,Branch Library Services,300,300,Library Other Revenue,POSCOMM,Commissioner Positions,5,5,5
+44,Library,44LVL5,Library,4401,Branch Library Services,300,300,Library Other Revenue,POSSG,Civilian Regular Authority Positions,653,653,653
+44,Library,44LVL5,Library,4402,Central Library Services,300,300,Library Other Revenue,POSSG,Civilian Regular Authority Positions,186,187,187
+44,Library,44LVL5,Library,4403,Engagement and Learning Services,300,300,Library Other Revenue,POSSG,Civilian Regular Authority Positions,62,62,62
+44,Library,44LVL5,Library,4404,Library Experience Office,300,300,Library Other Revenue,POSSG,Civilian Regular Authority Positions,,11,11
+44,Library,44LVL5,Library,4449,Technology Support,300,300,Library Other Revenue,POSSG,Civilian Regular Authority Positions,96,96,96
+44,Library,44LVL5,Library,4450,General Administration and Support,300,300,Library Other Revenue,POSSG,Civilian Regular Authority Positions,110,108,108
+88,Recreation and Parks,88LVL5,Recreation and Parks,8801,Museums and Educational,302,302,Recreation and Parks Other Revenue,POSAN,As Needed Positions,41,41,41
+88,Recreation and Parks,88LVL5,Recreation and Parks,8801,Museums and Educational,302,302,Recreation and Parks Other Revenue,POSCOMM,Commissioner Positions,5,5,5
+88,Recreation and Parks,88LVL5,Recreation and Parks,8801,Museums and Educational,302,302,Recreation and Parks Other Revenue,POSHH,Hiring Hall Positions,30,30,30
+88,Recreation and Parks,88LVL5,Recreation and Parks,8801,Museums and Educational,302,302,Recreation and Parks Other Revenue,POSSG,Civilian Regular Authority Positions,44,36,36
+88,Recreation and Parks,88LVL5,Recreation and Parks,8801,Museums and Educational,302,302,Recreation and Parks Other Revenue,RESSG,Civilian Resolution Authority Positions,,,8
+88,Recreation and Parks,88LVL5,Recreation and Parks,8802,Griffith Observatory,302,302,Recreation and Parks Other Revenue,POSAN,As Needed Positions,3,3,3
+88,Recreation and Parks,88LVL5,Recreation and Parks,8802,Griffith Observatory,302,302,Recreation and Parks Other Revenue,POSSG,Civilian Regular Authority Positions,23,16,16
+88,Recreation and Parks,88LVL5,Recreation and Parks,8802,Griffith Observatory,302,302,Recreation and Parks Other Revenue,RESSG,Civilian Resolution Authority Positions,,,7
+88,Recreation and Parks,88LVL5,Recreation and Parks,8807,Aquatics,302,302,Recreation and Parks Other Revenue,POSSG,Civilian Regular Authority Positions,57,54,54
+88,Recreation and Parks,88LVL5,Recreation and Parks,8807,Aquatics,302,302,Recreation and Parks Other Revenue,RESSG,Civilian Resolution Authority Positions,,,8
+88,Recreation and Parks,88LVL5,Recreation and Parks,8809,Building and Facilities Maintenance,302,302,Recreation and Parks Other Revenue,POSHH,Hiring Hall Positions,9,9,9
+88,Recreation and Parks,88LVL5,Recreation and Parks,8809,Building and Facilities Maintenance,302,302,Recreation and Parks Other Revenue,POSSG,Civilian Regular Authority Positions,160,144,144
+88,Recreation and Parks,88LVL5,Recreation and Parks,8809,Building and Facilities Maintenance,302,302,Recreation and Parks Other Revenue,RESSG,Civilian Resolution Authority Positions,,,34
+88,Recreation and Parks,88LVL5,Recreation and Parks,8810,Land Maintenance,302,302,Recreation and Parks Other Revenue,POSSG,Civilian Regular Authority Positions,639,570,570
+88,Recreation and Parks,88LVL5,Recreation and Parks,8810,Land Maintenance,302,302,Recreation and Parks Other Revenue,RESSG,Civilian Resolution Authority Positions,,,106
+88,Recreation and Parks,88LVL5,Recreation and Parks,8811,Capital Projects and Planning,302,302,Recreation and Parks Other Revenue,POSSG,Civilian Regular Authority Positions,26,22,22
+88,Recreation and Parks,88LVL5,Recreation and Parks,8811,Capital Projects and Planning,302,302,Recreation and Parks Other Revenue,RESSG,Civilian Resolution Authority Positions,,,4
+88,Recreation and Parks,88LVL5,Recreation and Parks,8812,Expo Center,302,302,Recreation and Parks Other Revenue,POSSG,Civilian Regular Authority Positions,31,22,22
+88,Recreation and Parks,88LVL5,Recreation and Parks,8812,Expo Center,302,302,Recreation and Parks Other Revenue,RESSG,Civilian Resolution Authority Positions,,,9
+88,Recreation and Parks,88LVL5,Recreation and Parks,8813,"Partnerships, Grants, and Sponsorships",302,302,Recreation and Parks Other Revenue,POSSG,Civilian Regular Authority Positions,10,9,9
+88,Recreation and Parks,88LVL5,Recreation and Parks,8813,"Partnerships, Grants, and Sponsorships",302,302,Recreation and Parks Other Revenue,RESSG,Civilian Resolution Authority Positions,,,1
+88,Recreation and Parks,88LVL5,Recreation and Parks,8820,Recreational Programming,302,302,Recreation and Parks Other Revenue,POSSG,Civilian Regular Authority Positions,356,341,341
+88,Recreation and Parks,88LVL5,Recreation and Parks,8820,Recreational Programming,302,302,Recreation and Parks Other Revenue,RESSG,Civilian Resolution Authority Positions,,,15
+88,Recreation and Parks,88LVL5,Recreation and Parks,8821,Venice Beach,302,302,Recreation and Parks Other Revenue,POSSG,Civilian Regular Authority Positions,17,16,16
+88,Recreation and Parks,88LVL5,Recreation and Parks,8821,Venice Beach,302,302,Recreation and Parks Other Revenue,RESSG,Civilian Resolution Authority Positions,,,1
+88,Recreation and Parks,88LVL5,Recreation and Parks,8823,Public Safety,302,302,Recreation and Parks Other Revenue,POSSG,Civilian Regular Authority Positions,55,55,55
+88,Recreation and Parks,88LVL5,Recreation and Parks,8823,Public Safety,302,302,Recreation and Parks Other Revenue,RESSG,Civilian Resolution Authority Positions,,,1
+88,Recreation and Parks,88LVL5,Recreation and Parks,8824,City Services,302,302,Recreation and Parks Other Revenue,POSSG,Civilian Regular Authority Positions,10,10,10
+88,Recreation and Parks,88LVL5,Recreation and Parks,8824,City Services,302,302,Recreation and Parks Other Revenue,RESSG,Civilian Resolution Authority Positions,,,2
+88,Recreation and Parks,88LVL5,Recreation and Parks,8849,Information Technology,302,302,Recreation and Parks Other Revenue,POSSG,Civilian Regular Authority Positions,19,18,18
+88,Recreation and Parks,88LVL5,Recreation and Parks,8849,Information Technology,302,302,Recreation and Parks Other Revenue,RESSG,Civilian Resolution Authority Positions,,,1
+88,Recreation and Parks,88LVL5,Recreation and Parks,8850,General Administration and Support,302,302,Recreation and Parks Other Revenue,POSAN,As Needed Positions,1,1,1
+88,Recreation and Parks,88LVL5,Recreation and Parks,8850,General Administration and Support,302,302,Recreation and Parks Other Revenue,POSSG,Civilian Regular Authority Positions,91,85,85
+88,Recreation and Parks,88LVL5,Recreation and Parks,8850,General Administration and Support,302,302,Recreation and Parks Other Revenue,RESSG,Civilian Resolution Authority Positions,,,6
