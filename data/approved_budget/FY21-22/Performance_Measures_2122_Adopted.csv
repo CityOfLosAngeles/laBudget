@@ -1,0 +1,189 @@
+﻿Dept Code,Department Name,Org Level 5 Code,Org Level 5 Name,Prog Code,Program Name,PM Code,Performance Measure Name,Unit/Value,2017-18 Actuals,2018-19 Actuals,2019-20 Actuals,2020-21 Adopted Budget,2020-21 Estimates,2021-22 Adopted
+02,Aging,02LVL5,Aging,0201,Senior Services,02MEALS,Number of Home Delivered and Congregate Meals Provided,,1388026,1331659,1583005,1341733,1583005,1341733
+02,Aging,02LVL5,Aging,0202,Family Caregiver Services,02CONTACTS,Number of Contacts Regarding Caregiver Needs,,,4365,149727,4129,149727,4129
+02,Aging,02LVL5,Aging,0202,Family Caregiver Services,02FAMILYCLIENTS,Number of Clients in the Family Caregiver Program,,,184,282,108,282,108
+02,Aging,02LVL5,Aging,0203,Older Workers Program,02OLDERWORKER,Number of Participants in the Older Workers Program,,106,90,48,90,90,90
+06,Animal Services,06LVL5,Animal Services,0601,Animal Control and Law Enforcement,06LICENSE,Number of Animal Licenses Issued,,120667,124472,106515,137230,116884,120000
+06,Animal Services,06LVL5,Animal Services,0602,Shelter Operations and Animal Care,06LIVESAVE,Animal Live/Save Rate ,percentage,88,90,91,90,90,91
+06,Animal Services,06LVL5,Animal Services,0607,Animal Medical Services,06MEDICALLYTREATED,Number of Animals Medically Treated In-House,,47307,48868,41752,64758,60000,60000
+06,Animal Services,06LVL5,Animal Services,0609,Community Engagement and Partnerships,06VOLUNTEER,Number of Volunteer Hours,,74283,102160,83226,137637,16680,59512
+08,Building and Safety,08LVL5,Building and Safety,0811,Structural Plan Checking,08PLANCHECK,Percent of Plan Check Jobs Completed in 15 Days,,81,77,76,85,75,80
+08,Building and Safety,08LVL5,Building and Safety,0812,Green Buildings and Electrical and Mechanical Engineering,08MECHPLANCK,Percent of Mechanical Plan Check Jobs Completed in 15 Days,,91,90,87,91,90,90
+08,Building and Safety,08LVL5,Building and Safety,0813,Grading Reports and Inspection,08GRADEREPORT20,Percent of New Grading Reports Completed in 20 Days,,100,100,97,100,99,100
+08,Building and Safety,08LVL5,Building and Safety,0814,Residential Inspection,08RESINSPECT,Percent of Residential Inspections Completed in 24 Hours,,80,78,98,98,98,98
+08,Building and Safety,08LVL5,Building and Safety,0815,Commercial Inspection and Licensing,08COMMINSPECT,Commercial Building Inspections Completed in 24 Hours,percentage,99,97,98,97,98,98
+08,Building and Safety,08LVL5,Building and Safety,0816,Development Services Case Management,08CASEMGMT,Percent of Case Management Projects Contacted in 5 Days,,100,100,100,100,100,100
+08,Building and Safety,08LVL5,Building and Safety,0817,Residential and Commercial Code Enforcement,08COMPLAINT,Percent of Code Enforcement Complaints Closed in 60 Days,,65,65,67,65,60,65
+08,Building and Safety,08LVL5,Building and Safety,0818,Conservation of Existing Structures and Mechanical Devices,08RESPROPERTY,Percent of Residential Property Reports Completed in 15 Days,,100,100,100,100,100,100
+10,City Administrative Officer,10LVL5,City Administrative Officer,1001,Budget Formulation and Control,10RF%GF,Reserve Fund as a Percent of the Adopted General Fund Budget,,6.08,5.59,6.2,3.64,3.93,9.49
+10,City Administrative Officer,10LVL5,City Administrative Officer,1002,Management Services,10IFAPPS,Percent of Submitted Innovation Fund Applications Reviewed,,100,100,100,100,100,100
+10,City Administrative Officer,10LVL5,City Administrative Officer,1003,Employee Relations Compensation and Benefits,10PAYGRADE,Average Length of Time to Review Pay Grade Advancements,in days,45,35,45,30,30,25
+10,City Administrative Officer,10LVL5,City Administrative Officer,1004,Risk Management,10INSDOCSSUBMIT,Percent of Contractors Self-Submitting Ins Docs - KwikComply,,95,96,96,96,96,96
+10,City Administrative Officer,10LVL5,City Administrative Officer,1006,Debt Management,10DEBTPERCENT,Approved Debt as a Percent of Special Taxes and GF Revenues,,6,5.91,6.01,5.39,5.39,5.04
+10,City Administrative Officer,10LVL5,City Administrative Officer,1007,Asset Management and Capital Projects,10GF%CIP,Percent of GF Budget Appropriated for Capital Improvements,,1.23,1.62,1.1,0.53,0.53,2.07
+10,City Administrative Officer,10LVL5,City Administrative Officer,1008,Proprietary Analysis,10CONREVTIME,Average Length of Time to Complete Contract Review,Days,35,38,43,40,45,45
+13,Cannabis Regulation,13LVL5,Cannabis Regulation,1301,Regulations and Licensing,13CANNABISLICENSES,Number of Cannabis Businesses Licensed,,169,311,425,825,825,1000
+14,City Clerk,14LVL5,City Clerk,1401,Council and Public Services,14CITYRECORDS,Number of City Records Viewed,,2488197,3186743,2122804,2500000,2384251,2500000
+14,City Clerk,14LVL5,City Clerk,1402,Administration of City Elections,14VOTEROUTREACH,Number of Outreach Events Held to Increase Voter Awareness,,,700,,700,350,
+14,City Clerk,14LVL5,City Clerk,1405,Records Management,14ARCHIVAL,Number of Archival Documents and Records Digitized on Demand,in millions,620,540,575,600,600,600
+14,City Clerk,14LVL5,City Clerk,1406,Special Assessments,14ANNUALPLAN,Number of Annual Planning Reports Submitted by March 1,,25,26,25,25,25,25
+14,City Clerk,14LVL5,City Clerk,1407,Mayor and City Council Administrative Support,14ACCOUNTING,Number of Accounting Documents Processed,,19451,17125,16540,17500,18125,17500
+17,Ethics Commission,17LVL5,City Ethics Commission,1701,Governmental Ethics,17DISCLOSURE,Percent of Lobbying Disclosure Statements Filed on Time,,99,99,99,99,99,99
+21,Community Investment for Families,21LVL5,Community Investment for Families,2101,Community Investment,21DVVICTIM,Number of Domestic Violence Victims Served,,,,,,,1600
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2202,Adult Workforce Development,22ADULTJOBS,Number of WIOA-Funded Adults Placed in Jobs,,12973,13751,10223,12000,8150,8150
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2205,Economic Development,22NEWJOBS,Number of New Jobs Created Through Business Source Centers,,1069,1162,892,1200,1100,800
+22,Economic and Workforce Development,22LVL5,Economic and Workforce Development,2207,Youth Workforce Development,22HIRELA,Number of HireLA's Youth Placed in Employment,,16834,17648,20060,20000,20000,20000
+26,Controller,26LVL5,Controller,2601,Accounting and Disbursement of City Funds,26DISBURSEMENTS,Paymaster Disbursements,,364220,346734,317845,350000,320000,320000
+26,Controller,26LVL5,Controller,2602,Financial Reporting of City and Grant Funds,26FINREPORTS,Percent of Financial Reports Submitted On Time,,100,100,100,100,100,100
+26,Controller,26LVL5,Controller,2603,Audits of City Departments and Programs,26AUDITREPORTS,Number of Audit Reports,,22,14,10,12,10,10
+26,Controller,26LVL5,Controller,2604,Support of the City's Financial Systems,26FMSDOCUMENTS,Number of FMS Documents Processed Annually,,1170571,1116671,1203571,1000000,1100000,1100000
+26,Controller,26LVL5,Controller,2605,Citywide Payroll Administration,26PAYSUPP,Percent of PaySR Problem Tickets Resolved,,93,95,94,80,94,94
+30,Cultural Affairs,30LVL5,Cultural Affairs,3001,Community Arts,30ARTFACILITIES,Number of Individuals Served by Arts Facilities and Centers,,546073,455982,474115,500000,300000,300000
+30,Cultural Affairs,30LVL5,Cultural Affairs,3002,Marketing and Development,30LEVERAGED,Donations Received as a Percent of DCA Operating Budget,,6,3.6,3,3,3.5,5
+30,Cultural Affairs,30LVL5,Cultural Affairs,3003,Public Art,30ARTPROJECTS,Number of Public Art Projects Completed During the Year,,9,,183,4,5,5
+30,Cultural Affairs,30LVL5,Cultural Affairs,3004,Grants Program,30RESIDENTS,Number of Los Angeles Residents and Visitors Served,in millions,2.6,2.57,2.81,2.6,2.7,2.5
+32,Information Technology Agency,32LVL5,Information Technology Agency,3201,Public Safety Applications,32PSSYSTEMS,Percent of System Availability for Public Safety Systems,,99.93,99.95,99.92,99.2,99.92,99.92
+32,Information Technology Agency,32LVL5,Information Technology Agency,3202,Public Safety Communications,32PSRADIO,Percent of System Availability for LAFD & LAPD Radio Systems,,100,100,100,100,100,100
+32,Information Technology Agency,32LVL5,Information Technology Agency,3203,Customer Engagement,32311CALLS,Percent of 3-1-1 Calls Answered,,78,89,89,90,91,91
+32,Information Technology Agency,32LVL5,Information Technology Agency,3206,Client Services and Support,32EMAIL,Percent of Email System Availability,,99,99,99.9,99.9,100,100
+32,Information Technology Agency,32LVL5,Information Technology Agency,3207,Enterprise Applications,32LATAX,Percent of LATAX System Availability in Tax Renewal Season,,99.8,100,100,99.9,99.9,99.9
+32,Information Technology Agency,32LVL5,Information Technology Agency,3208,Enterprise and Cloud Infrastructure,32DATACENTER,Percent of Data Center Servers Virtualized,,92,97,95,97,95,95
+32,Information Technology Agency,32LVL5,Information Technology Agency,3209,Voice and Video Engineering and Operations,32VOICE,"Percent of Voice, Call Center, & Video Systems Availability",Percentage,99.9,100,100,99.9,99.9,99.9
+32,Information Technology Agency,32LVL5,Information Technology Agency,3210,Data Engineering and Operations,32NETWORK,Percent of Network Availability,,100,99.8,99.8,99.9,99.9,99.9
+32,Information Technology Agency,32LVL5,Information Technology Agency,3211,Business Applications and Web Services,32WEBSITE,Percent of LACity.org Website Availability,,100,100,100,99.9,99.9,99.9
+33,El Pueblo de Los Angeles,33LVL5,El Pueblo de Los Angeles,3301,History and Museums,33ELPMUSVIS,Number of Individual Visitors,,497321,443648,283557,480000,8868,480000
+33,El Pueblo de Los Angeles,33LVL5,El Pueblo de Los Angeles,3302,Marketing and Events,33ELPATTEND,"Number of Cultural, Traditional, and Informational Attendees",,243643,177302,156148,226000,113000,226000
+33,El Pueblo de Los Angeles,33LVL5,El Pueblo de Los Angeles,3348,Property Management,33PERCENTWO,Percent of Work Orders Completed,,68,74,85,78,80,80
+35,Emergency Management,35LVL5,Emergency Management,3501,Emergency Management,35COMMUNITYPLAN,Number of Neighborhood/Community Plans Prepared,,52,123,141,300,40,20
+35,Emergency Management,35LVL5,Emergency Management,3501,Emergency Management,35NOTIFYLA,Number of New Subscribers Registered for NotifyLA,,187009,65080,185834,35000,35000,35000
+36,Employee Relations Board,36LVL5,Employee Relations Board,3601,Employee Relations,36UERP,Number of UERP Related Filings,,162,106,164,150,150,150
+38,Fire,38LVL5,Fire,3801,Arson Investigation and Counter-Terrorism,38INVESTIGATION,Percentage Convictions in Arson Cases,,,,,85,85,85
+38,Fire,38LVL5,Fire,3803,Fire Suppression,38FIRETRAVEL,Average Travel Time to Fire Incident,in minutes,4,4.49,4.5,4,4,4
+38,Fire,38LVL5,Fire,3803,Fire Suppression,38FIRETURNOUT,Average Time to Leave Station after Notified - Fire Incident,in minutes,1,0.9,0.85,1,1,1
+38,Fire,38LVL5,Fire,3804,Metropolitan Fire Communications,38DISPATCH,Call Processing Time,in minutes,1,1.08,1.05,1,1,1
+38,Fire,38LVL5,Fire,3805,Hazardous Materials Enforcement,38REVENUE,Hazardous Materials Enforcement Revenue Collected,in millions,6.7,7,7.3,7,6.8,8
+38,Fire,38LVL5,Fire,3806,Fire Prevention,38INSPECTION,Percent of Construction Inspections Completed in 72 hours,,87,87,91,92,90,92
+38,Fire,38LVL5,Fire,3808,Emergency Medical Service,38EMSTRAVEL,Average Travel Time to EMS Incident,in minutes,4,4.47,4.6,4,4,4
+38,Fire,38LVL5,Fire,3808,Emergency Medical Service,38EMSTURNOUT,Average Time to Leave Station after Notified - EMS Incident,in minutes,1,0.9,0.85,1,1,1
+38,Fire,38LVL5,Fire,3847,Training,38TRAINING,Recruit Class Retention Rate,percentage,85,87,76,85,80,80
+38,Fire,38LVL5,Fire,3848,"Procurement, Maintenance and Repair",38FLEET,Fleet Availability Rate,percentage,81.8,78,75.44,82.5,75,80
+39,Finance,39LVL5,Finance,3901,Revenue Management,39COLLECTION,Percent of Delinquent Accounts Collected,,11,23,23,15,15,13
+39,Finance,39LVL5,Finance,3902,Treasury Services,39TREASURYNEW,Percent of Treasury Requests Responded to in One Day,,98,97,99,97,98,96
+39,Finance,39LVL5,Finance,3905,LATAX System Support,39LATAXWEB,Percent of Customer Transactions Conducted on Website,,62,,48,,67,72
+39,Finance,39LVL5,Finance,3906,Customer Support,39CALLSANSWERED,Average Speed of Calls Answered (minutes),,597,280,964,450,700,700
+39,Finance,39LVL5,Finance,3908,Investment,39INVESTVAR,Variance Between Investment Return and Industry Benchmarks,,0.19,-0.22,,0.1,0.1,0.1
+39,Finance,39LVL5,Finance,3909,Tax and Permit,39LIABILITY,Percent of Audits with Liability Adjustments,,70,74,73,74,74,74
+40,General Services,40LVL5,General Services,4001,Custodial Services,40CLEAN,Percent of Municipal Facilities Cleaned Daily ,,100,100,100,100,100,98
+40,General Services,40LVL5,General Services,4002,Building Maintenance,40MAINTENANCE,Percent of Maintenance Work Requests Completed,,72,69,78,,72,72
+40,General Services,40LVL5,General Services,4003,Construction Forces,40CONSTESTIMATE,Construction Projects Completed within Original Estimate,,98,98,91,90,90,90
+40,General Services,40LVL5,General Services,4004,Real Estate Services,40LEASEPROJ,Number of Lease Projects Assigned,,,,277,100,104,104
+40,General Services,40LVL5,General Services,4005,Parking Services,40PARKINGREV,Revenue from Department-Operated Parking Facilities,in millions of dollars,12,12.2,9,12.5,6.7,8.4
+40,General Services,40LVL5,General Services,4007,Emergency Management and Special Services,40DRILLS1,Number of Required Biannual Emergency Drills Completed,at Six City Highrise Buildings,18,18,11,18,18,18
+40,General Services,40LVL5,General Services,4008,Fleet Services,40BOSVEHICLES,Vehicle Availability Rate for Bureau of Sanitation,,88,85,87,85,80,70
+40,General Services,40LVL5,General Services,4009,Fuel and Environmental Compliance,40FUELSITE,Percent of City-Owned Fuel Sites Inspected Monthly,,100,100,100,100,100,100
+40,General Services,40LVL5,General Services,4010,Standards and Testing Services,40MATTEST,Number of Materials Tests for Pavement Preservation Program,,149354,149860,139195,148000,140000,140000
+40,General Services,40LVL5,General Services,4011,Supply Management,40POS,"Number of Days to Process Purchase Orders under $100,000 ",,44,38,32,40,60,60
+40,General Services,40LVL5,General Services,4012,Mail Services,40POSTAGE,Postage Savings Derived from the Mail Automation Program,in millions of dollars,1,1,1.4,1,1,1
+40,General Services,40LVL5,General Services,4014,Integrated Asset Services,40INTEGRATEDASSTMGMT,Integrated Asset Management Implementation Tasks Completed,,,100,100,100,90,80
+43,Housing,43LVL5,Housing,4301,Development and Finance,43AFFORDABLE,Affordable Housing Units Completed,,690,631,354,770,422,600
+43,Housing,43LVL5,Housing,4302,Asset Management,43MONITOR,Number of Affordable Housing Units Monitored for Compliance,,41812,41812,45875,43000,47702,49073
+43,Housing,43LVL5,Housing,4305,Rent Stabilization,43TENANT,Percent of Tenant Rent Complaints Resolved Within 120 Days,,79,88,87,80,85,85
+43,Housing,43LVL5,Housing,4306,Multi-family Residential Code Enforcement,43SCEPUNIT,Systematic Code Enforcement Program (SCEP) Units Inspected,,178646,145537,86579,185000,17955,161340
+43,Housing,43LVL5,Housing,4307,Code and Rent Compliance,43RENTAL,Rental Units Restored to Safe Living Conditions,,11202,11783,12912,10000,6000,10000
+43,Housing,43LVL5,Housing,4311,Program Operations,43DVVICTIM,Number of Domestic Violence Victims Served,,1222,1688,2363,1600,1600,
+43,Housing,43LVL5,Housing,4312,Housing Strategies and Services,43HOMEOWNER,Total New Homes Purchased or Households Assisted,,111,141,93,211,101,146
+43,Housing,43LVL5,Housing,4313,Accessible Housing Program,43ACCESSIBLE,Units Certified as Accessible,,,,,,,592
+44,Library,44LVL5,Library,4401,Branch Library Services,44BRANCH,Number of People Attending Branch Library Programs,,369425,360591,246325,365000,250000,246000
+44,Library,44LVL5,Library,4402,Central Library Services,44CENTRAL,Number of People Attending Central Library Programs,,30430,35000,22124,40000,20000,22000
+47,Neighborhood Empowerment,47LVL5,Neighborhood Empowerment,4701,Neighborhood Council System Development,47SUPPORT,Percentage of Staffed Neighborhood Council Meetings,,90,90,90,98,92,82
+47,Neighborhood Empowerment,47LVL5,Neighborhood Empowerment,4703,Planning and Policy,47CIS,Number of Community Impact Statements Submitted by NCs,,505,614,647,600,700,700
+47,Neighborhood Empowerment,47LVL5,Neighborhood Empowerment,4704,Neighborhood Council Administrative Support,47ELCAN,Number of Candidates for Neighborhood Council Elections,occur every two years,,1804,,2300,2165,
+47,Neighborhood Empowerment,47LVL5,Neighborhood Empowerment,4704,Neighborhood Council Administrative Support,47ELVOT,Number of Voters for Neighborhood Council Elections,occur every two years,,22795,,28800,22000,
+47,Neighborhood Empowerment,47LVL5,Neighborhood Empowerment,4705,Office of Community Engagement and Innovation,47CIVICUNIVERSITY,Number of Civic University Sessions directed to NC Board,,,,1,4,,1
+48,Convention and Tourism Development,48LVL5,Convention and Tourism Development,4803,Convention and Tourism Development,48LEISUREJOBS,Number of Leisure and Hospitality Jobs in Los Angeles County,,535150,538533,489851,569500,378573,419248
+65,Disability,65LVL5,Disability,6501,ADA Compliance,65SLICART,Percentage of SLI and CART Requests Filled,,94,80,94,95,95,95
+65,Disability,65LVL5,Disability,6503,Community Affairs and Outreach,65OUTREACH,Percentage of Resource Center Inquiries Filled,,85,43,90,94,87,90
+65,Disability,65LVL5,Disability,6504,AIDS Coordinator's Office,65SYRINGE,Number of Syringes Removed,in millions,1,2,3,2,2.5,2.5
+66,Personnel,66LVL5,Personnel,6601,Public Safety Employment,66POLICEHIRE,Number of Police Officers Hired Pursuant to LAPD Hiring Plan,,531,488,514,600,79,744
+66,Personnel,66LVL5,Personnel,6602,Employee Selection,66EXAM,Percent of Exams Completed in 150 Days,,73,56,96,90,70,90
+66,Personnel,66LVL5,Personnel,6603,Workers' Compensation and Safety,66WCCOST,Amount of Monthly Workers' Compensation Costs Avoided,,1818273,1593986,1232244,1200000,1200000,1200000
+66,Personnel,66LVL5,Personnel,6604,Employee Benefits,66VANPOOL,Percent Increase in Vanpool Participants,,,-4,-62,5,-28,5
+66,Personnel,66LVL5,Personnel,6605,Occupational Health,66CLINIC,Wait Time at Clinic for Exam,,65,70,66,72,66,72
+66,Personnel,66LVL5,Personnel,6606,Custody Medical Care,66ARRESTEE,Time to Medically Clear Arrestees in City Jails,in minutes,10,10,9.5,10,10,10
+66,Personnel,66LVL5,Personnel,6607,Office of Workplace Equity,66EEOCOMPLAIN,Percent of Complainants Contacted Within 10 Days,,96,97,100,90,100,90
+66,Personnel,66LVL5,Personnel,6608,Employee Training and Development,66ONLINE,Number of Non-Mandated Courses Completed Online,,16191,9188,45815,7000,9000,7000
+66,Personnel,66LVL5,Personnel,6609,Client Services,66HIRELENGTH,Number of Days from Start of Hiring Process to Job Offer,,53,45,52,60,52,60
+68,City Planning,68LVL5,City Planning,6801,Citywide Planning,68ELEMENT,Number of State Mandated Elements Less Than Eight Years Old,,3,3,3,3,3,4
+68,City Planning,68LVL5,City Planning,6802,Community Planning,68COMMUNITYPLANS,Number of Community Plans Less Than Ten Years Old,,6,6,6,10,9,20
+68,City Planning,68LVL5,City Planning,6803,Historic Resources,68CERTIFICATE,Percent of Certificate Cases Completed within 75 Days,,12,79,71,80,68,70
+68,City Planning,68LVL5,City Planning,6804,Development Services,68CUSTOMER,Annual Number of Customers Served,,102706,102234,77142,105000,103508,85000
+68,City Planning,68LVL5,City Planning,6805,Neighborhood Initiatives and Transit Oriented Planning,68TRANSIT,Percent of Phase 2 Transit Neighborhood Plans Completed,,60,70,80,100,90,100
+68,City Planning,68LVL5,City Planning,6806,Geographic Project Planning,68CASES,Annual Number of Cases Completed,,2898,3113,3005,3500,2700,2400
+68,City Planning,68LVL5,City Planning,6807,Major Projects and Project Plan Support,68EIRS,Entitlement Cases Requiring an Environmental Impact Report,,35,19,30,30,16,19
+70,Police,70LVL5,Police,7001,Field Forces,70CRIME,Total Number of Crime Incidents,,130583,125370,120579,129000,120000,125731
+70,Police,70LVL5,Police,7003,Specialized Investigation,70GANG,Number of Gang-Related Homicides,,166,148,141,170,210,159
+70,Police,70LVL5,Police,7004,Custody of Persons and Property,70BOOKING,Average Processing Time for Non-Medical Bookings,in minutes,11,13,12,14,12,12
+70,Police,70LVL5,Police,7005,Traffic Control,70HITRUN,Number of Traffic Hit and Run Collisions,,30000,28065,24436,29500,24000,24000
+70,Police,70LVL5,Police,7006,Specialized Enforcement and Protection,70ARRESTS,Metropolitan Division Felony and Misdemeanor Arrests,,11240,8007,1057,8450,1268,2300
+70,Police,70LVL5,Police,7047,Personnel Training and Support,70WORKERCOMP,Number of Workers' Compensation Claims,,3537,3520,3741,3528,4602,4172
+70,Police,70LVL5,Police,7051,Internal Integrity and Standards Enforcement,70INTERNAL,Internal Affairs Investigations Closed within Five Months,percentage,82,92,83,93,51,75
+74,Board of Public Works,74LVL5,Board of Public Works,7401,Office of Community Beautification,74GRAFFITI,Percent of Graffiti Removal Requests Completed in 48 Hours,,83,72,77,80,74,75
+74,Board of Public Works,74LVL5,Board of Public Works,7401,Office of Community Beautification,74GRAFFITI-24HRS,Percent of Graffiti Removal Requests Completed in 24 Hours,,73,62,68,70,83,85
+74,Board of Public Works,74LVL5,Board of Public Works,7403,Public Works Accounting,74PAYMENTS,Percentage of All Payments Processed within 30 Days,,87,90,82,90,79,78
+74,Board of Public Works,74LVL5,Board of Public Works,7405,Public Works Board and Board Secretariat,74JOURNALS,Percent of Board Meeting Journals Posted within 24 Hours,,95,100,81,100,95,95
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7601,Construction Inspection,76RETENTION,Number of Days for Final Retention Requests to be Processed,,4,2,2,3,1,3
+76,Bureau of Contract Administration,76LVL5,Bureau of Contract Administration,7602,Contract Compliance,76LOCALHIRE,Percent of Hours Worked by Local Hires at PLA Projects,,37,36,35,30,30,30
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7803,Clean Water Infrastructure,78WATER,Number of Completed Clean Water Capital Projects,,87,60,50,45,43,35
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7804,Development Services and Permits,78APERMIT,Percent of A Permits Issued within 60 Minutes,,99,99,99,90,90,90
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7805,Mobility,78MOBILITY,Number of Completed Mobility Capital Projects,,22,30,23,25,23,22
+78,Bureau of Engineering,78LVL5,Bureau of Engineering,7807,Public Buildings and Open Spaces,78BUILDING,Number of Completed Building & Open Spaces Capital Projects,,28,25,35,30,35,23
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8201,Watershed Protection,82CATCHBASIN,Number of Catch Basins Cleaned ,,95561,90279,64222,90000,75000,90000
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8202,Clean Water,82SEWER,Sewer Miles Cleaned,,6870,6787,6393,6750,6500,6750
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8203,Solid Resources,82BULKYITEM,Citywide Bulky Item Pick-up Rate,percentage,98.8,99,98,99,95,95
+82,Bureau of Sanitation,82LVL5,Bureau of Sanitation,8204,Environmental Quality,82CLOSEOUT,Average Number of Days to Close Out a Service Request,,9,10,8,9,9,8
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8401,Design and Construction,84LEDPERCENT,Percentage of Streetlights Converted to LED,,84,87,90,99,92,92
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8402,"System Operation, Maintenance, and Repair",84OUTAGE,Single Streetlight Outage Response Time,in working days,5,7,18.2,10,14,14
+84,Bureau of Street Lighting,84LVL5,Bureau of Street Lighting,8403,Street Lighting Assessment,84SLMAF,Street Lighting Maintenance Assessment Fund Revenue,in millions,45.4,45.5,45.9,49,46.9,48.1
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8602,Investigation and Enforcement,86INSPECTION,Average Number of Days to Inspect Obstruction Requests,,2.7,3,3,3,3,3
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8603,Street Sweeping,86SWEEPING,Percent of Posted Street Sweeping Routes Completed ,,98,96,96,95,95,90
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8604,Street Tree and Parkway Maintenance,86TREELIMB,Average Working Days to Complete Tree Emergencies,,1,1,1,3,3,3
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8605,Maintaining Streets,86POTHOLE,Average Number of Working Days to Repair Potholes,,2.3,2.9,3,3,3,3
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8606,Pavement Preservation,86GOODREPAIR,Percent of Street Network in Good Repair,,55,60,62,62,61,61
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8607,Street Improvement Construction,86NEWSIDEWALK,Square Feet of New Sidewalk Constructed,,329410,311399,211327,300000,233000,233000
+86,Bureau of Street Services,86LVL5,Bureau of Street Services,8608,Street Improvement Engineering,86METRO,Percent of Metro Plan Design Reviews Completed in 20 Days,,100,100,100,100,100,100
+87,Zoo,87LVL5,Zoo,8701,Animal General Care,87EXHIBIT,Percent of Animal Exhibits in Operation,,93,93,93,90,90,75
+87,Zoo,87LVL5,Zoo,8702,Animal Health Care,87HEALTH,Number of Animal Preventative Health Exams Conducted,,219,281,172,275,270,100
+87,Zoo,87LVL5,Zoo,8703,Guest Services,87ONLINE,Percent of Ticket Sale Transactions Conducted Online,,18,17,13,15,90,90
+87,Zoo,87LVL5,Zoo,8704,Grounds Maintenance,87BRUSHORDER,Percent of Brush Clearance Work Orders Completed,,,,100,12,100,100
+87,Zoo,87LVL5,Zoo,8705,Custodial Services,87CLEAN,"Percent of ""Excellent"" Rating For Facility Cleanliness",,81,83,86,84,84,80
+87,Zoo,87LVL5,Zoo,8706,Public Relations and Marketing,87FILM,Number of Media Coverage Stories About the Zoo,,8,7,8,10,30,30
+87,Zoo,87LVL5,Zoo,8707,Learning and Engagement,87ENGAGE,"Percent of ""Excellent"" Rating for Visitor Engagement",,77,82,84,75,70,70
+87,Zoo,87LVL5,Zoo,8708,"Planning, Development and Construction",87CONSTRUCTION,Number of Construction Work Orders Completed,,234,988,500,500,500,200
+87,Zoo,87LVL5,Zoo,8709,Conservation,87CONSERVATION,Number of Employees Completing Conservation Strategic Plan,,,,,25,200,200
+88,Recreation and Parks,88LVL5,Recreation and Parks,8801,Museums and Educational,88MUSEUM,Number of Annual Museum Visitors,Excluding Griffith Observatory,539552,494773,367502,539484,324410,520000
+88,Recreation and Parks,88LVL5,Recreation and Parks,8802,Griffith Observatory,88GRIFFITH,Number of Griffith Observatory Visitors,,1628315,1532916,1080718,1600000,,533000
+88,Recreation and Parks,88LVL5,Recreation and Parks,8807,Aquatics,88AQUATIC,Total Recreational Swim Attendance,,1371223,1394209,1080718,1514700,17000,52000
+88,Recreation and Parks,88LVL5,Recreation and Parks,8809,Building and Facilities Maintenance,88JOBORDER,Maintenance Job Orders Completed,,29871,37185,36480,44000,39000,44000
+88,Recreation and Parks,88LVL5,Recreation and Parks,8810,Land Maintenance,88PARKSMAINTAINED,Number of Parks Maintained,,460,462,465,474,470,475
+88,Recreation and Parks,88LVL5,Recreation and Parks,8811,Capital Projects and Planning,88WALKABLEPARK,Additional Residents Served by Park within Walking Distance,,55000,45000,10592,16618,2300,14500
+88,Recreation and Parks,88LVL5,Recreation and Parks,8812,Expo Center,88EXPO,Number of EXPO Center Visitors,,709056,744509,628184,902344,50500,651000
+88,Recreation and Parks,88LVL5,Recreation and Parks,8813,"Partnerships, Grants, and Sponsorships",88PARTICIPANTS,Number of Participants from Collaborations,,633274,716710,717323,727159,243000,525000
+88,Recreation and Parks,88LVL5,Recreation and Parks,8820,Recreational Programming,88SPORTS,Number of Youth and Adult Sports Program Registrations,,553171,294360,132367,550000,50000,250000
+88,Recreation and Parks,88LVL5,Recreation and Parks,8821,Venice Beach,88VENICE,Number of Annual Visitors,,10500000,10750000,10750000,10750000,10500000,10500000
+88,Recreation and Parks,88LVL5,Recreation and Parks,8823,Public Safety,88SAFE,Percent of Visitors Feeling 'Safe' or 'Very Safe',,80,80,80,80,85,88
+88,Recreation and Parks,88LVL5,Recreation and Parks,8824,City Services,88SNLPARTICIPANTS,Number of Summer Night Lights Participants,,701086,695430,719027,729027,36000,650000
+94,Transportation,94LVL5,Transportation,9401,Sustainable Transportation,94BIKETRIPS,Number of Bike Trips Per Year,,229000,300000,296318,300000,182000,360000
+94,Transportation,94LVL5,Transportation,9402,Transportation Planning and Land Use,94STUDIES,Percent of Traffic Studies Processed within 90 Business Days,,95,97,96,95,92,90
+94,Transportation,94LVL5,Transportation,9403,Transportation Infrastructure and Project Delivery,94VALUE,Total Value of Active Projects,,150981253,92341125,195153313,160000000,221603110,221603110
+94,Transportation,94LVL5,Transportation,9404,"Parking Facilities, Meters, and Operations",94METERS,Percent of Time Parking Meters are Functioning Properly,,99.7,99.7,99.5,99.7,99.5,99.3
+94,Transportation,94LVL5,Transportation,9406,Parking Citation Processing Services,94INITIALREVIEW,Initial Parking Citation Review Rate within 240-Days,percentage,100,99.8,100,100,100,100
+94,Transportation,94LVL5,Transportation,9407,Streets and Sign Management,94SIGN,Number of Sign Maintenance & Installation Projects Completed,,11190,33500,16086,33500,16000,16000
+94,Transportation,94LVL5,Transportation,9408,District Offices,94SERVICE,Number of Service Requests Closed,,17265,19835,20433,20000,10057,10000
+94,Transportation,94LVL5,Transportation,9409,Traffic Signals and Systems,94SIGNAL,Percent of Signal Calls Responded to Within One Hour,,65,92,85,85,85,85
+94,Transportation,94LVL5,Transportation,9412,Public Transit Services,94TRANSIT,Percent of LADOT Transit On-Time Arrivals ,,85,88,87,88,88,88
+94,Transportation,94LVL5,Transportation,9413,Major Project Coordination,94METRO,Percent of Metro Plans Reviewed within 20 Business Days,,99,98,96,95,95,95
+94,Transportation,94LVL5,Transportation,9414,Emergency Management and Special Events,94EVENTS,Number of Special Events Requiring Traffic Engineering,,6447,425,350,6500,300,400
+94,Transportation,94LVL5,Transportation,9416,Active Transportation,94BIKELANE,Number of Miles of Bike Lanes and Paths in the City ,,899,942,1198,900,1223,1242
+94,Transportation,94LVL5,Transportation,9417,Crossing Guard Services,94GUARDS,Number of Guards Assigned,,419,372,391,423,372,372
+,,,,,,,,,,,220614487.8,187851257.7,241988407.1,245166495
+,,,,,,,,,,,,,,
