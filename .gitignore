@@ -5,3 +5,6 @@
 scripts/login.csv
 scripts/password.txt
 scripts/username.txt
+*/credentials.lahub_user
+*/credentials.lahub_pass
+*/credentials.lahub_auth
