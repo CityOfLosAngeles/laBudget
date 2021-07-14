@@ -13,17 +13,18 @@
 
 import datetime
 import pandas as pd
-from pandas.core.dtypes.missing import isna
 from sodapy import Socrata
 
 # set up Socrata client
-# with open('apptoken.txt') as a:
-#     apptoken = a.readline()
-# with open('username.txt') as u:
-#     username = u.readline()
-# with open('password.txt') as p:
-#     password = p.readline()
 client = Socrata('data.lacity.org', None)
+
+# uncomment if you are going to log in / push to the data portal
+# with open('credentials.lahub_auth') as a:
+#     apptoken = a.readline()
+# with open('credentials.lahub_user') as u:
+#     username = u.readline().strip()
+# with open('credentials.lahub_pass') as p:
+#     password = p.readline()
 # client = Socrata('data.lacity.org', apptoken, username=username, password=password)
 
 # csv sheet filenames
@@ -67,40 +68,36 @@ timestamp = datetime.datetime.now()
 
 # Read the previous dataset from Socrata and save a local copy
 gfrev_existing = pd.DataFrame.from_records(client.get(identifiers.get('gfrev'), limit=99999999999999))
-# gfrev_existing.to_csv(f'old_gfrev_{timestamp}.csv', index=False)
-print(gfrev_existing.shape, gfrev_existing.columns)
+gfrev_existing.to_csv(f'old_gfrev_{timestamp}.csv', index=False)
 
 # Read the new file
-gfrev_current = pd.read_csv(csv_filenames['gfrev'])
+gfrev_current = pd.read_csv(csv_filenames.get('gfrev'))
 
 # Rename to match original
 gfrev_current.rename(columns={
-    'Dept Code' : 'dept_code',
-    'Dept Name' : 'department_name',
-    'Prog Code' : 'program_code',
-    'Prog Name' : 'program_name',
-    'Fund Code' : 'fund_code',
-    'Fund Name' : 'fund_name',
-    'Account Code' : 'account_code',
-    'Account Name' : 'account_name',
-    '2020-21 Adopted Budget' : 'revenue'
-    }, inplace=True)
+    'Dept Code': 'dept_code',
+    'Dept Name': 'department_name',
+    'Prog Code': 'program_code',
+    'Prog Name': 'program_name',
+    'Fund Code': 'fund_code',
+    'Fund Name': 'fund_name',
+    'Account Code': 'account_code',
+    'Account Name': 'account_name',
+    '2021-22 Adopted': 'revenue'
+}, inplace=True)
 
 # add a fiscal year column
 gfrev_current['fiscal_year'] = '2021_22_adopted'
 
 # filter out rows with no revenue
-print(gfrev_current.shape, gfrev_current.columns)
-gfrev_current = gfrev_current.dropna(how='all', subset=['revenue'])
+gfrev_current.dropna(how='all', subset=['revenue'], inplace=True)
 
 # select only the relevant columns
 gfrev_current = gfrev_current[gfrev_existing.columns]
-print(gfrev_current.shape, gfrev_current.columns)
 
 # Make new dataset
 gfrev_new = pd.concat([gfrev_existing, gfrev_current], axis=0)
-gfrev_new.to_csv('gfrev_new.csv', index=False)
-print(gfrev_new.shape, gfrev_new.columns)
+gfrev_new.to_csv('new_gfrev.csv', index=False)
 
 # upload the data to Socrata
 # client.replace('', gfrev_new)
@@ -111,15 +108,12 @@ print(gfrev_new.shape, gfrev_new.columns)
 ###################
 
 # Read the previous dataset from Socrata and save a local copy
-positions_existing = pd.DataFrame.from_records(
-    client.get(identifiers.get('positions'), limit=99999999999999))
-# positions_existing.to_csv(f'old_positions_{timestamp}.csv', index=False)
-print(positions_existing.shape, positions_existing.columns)
+positions_existing = pd.DataFrame.from_records(client.get(identifiers.get('positions'), limit=99999999999999))
+positions_existing.to_csv(f'old_positions_{timestamp}.csv', index=False)
 
 
 # Read the new file
-positions_current = pd.read_csv(csv_filenames['positions'])
-print(positions_current.shape, positions_current.columns)
+positions_current = pd.read_csv(csv_filenames.get('positions'))
 
 # Rename to match original
 positions_current.rename(columns={
@@ -128,11 +122,11 @@ positions_current.rename(columns={
     'Prog Code': 'program_code',
     'Prog Name': 'program_name',
     'Fund Code': 'fund_code',
-    'Source Fund Code' : 'source_fund_code',
+    'Source Fund Code': 'source_fund_code',
     'Source Fund Name': 'source_fund_name',
     'Account Code': 'account_code',
     'Account Name': 'account_name',
-    '2020-21 Adopted Budget': 'positions'
+    '2021-22 Adopted': 'positions'
 }, inplace=True)
 
 # add a budget column
@@ -141,12 +135,10 @@ positions_current['budget'] = '2021-2022 Adopted Budget'
 
 # select only the relevant columns
 positions_current = positions_current[positions_existing.columns]
-print(positions_current.shape, positions_current.columns)
 
 # Make new dataset
 positions_new = pd.concat([positions_existing, positions_current], axis=0)
-positions_new.to_csv('positions_new.csv', index=False)
-print(positions_new.shape, positions_new.columns)
+positions_new.to_csv('new_positions.csv', index=False)
 
 
 # upload the data to Socrata
@@ -158,15 +150,12 @@ print(positions_new.shape, positions_new.columns)
 ###################
 
 # Read the previous dataset from Socrata and save a local copy
-inc_existing = pd.DataFrame.from_records(
-    client.get(identifiers.get('inc'), limit=99999999999999))
-# inc_existing.to_csv(f'old_incremental_{timestamp}.csv', index=False)
-print(inc_existing.shape, inc_existing.columns)
+inc_existing = pd.DataFrame.from_records(client.get(identifiers.get('inc'), limit=99999999999999))
+inc_existing.to_csv(f'old_incremental_{timestamp}.csv', index=False)
 
 
 # Read the new file
-inc_current = pd.read_csv(csv_filenames['inc'])
-# print(inc_current.shape, inc_current.columns)
+inc_current = pd.read_csv(csv_filenames.get('inc'))
 
 # Rename to match original
 inc_current.rename(columns={
@@ -180,13 +169,11 @@ inc_current.rename(columns={
     'Source Fund Name': 'source_fund_name',
     'Budget Request Description': 'budget_request_description',
     'Budget Request Category': 'budget_request_category',
-    '2020-21 Adopted Budget': 'positions',
     'Budget Object Code': 'account_code',
     'Audit Budget Object Name': 'account_name',
     'One Time/ On-going': 'one_time_ongoing',
     '2021-22 (Adopted) Incremental change from 2020-21 Adopted Budget': 'incremental_change'
 }, inplace=True)
-print(inc_current.shape, inc_current.columns)
 
 
 # add a fiscal year column
@@ -194,13 +181,10 @@ inc_current['budget'] = '2021-22 Adopted Budget Incremental Change from 2020-21 
 
 # select only the relevant columns
 inc_current = inc_current[inc_existing.columns]
-print(inc_current.shape, inc_current.columns)
-
 
 # Make new dataset
 inc_new = pd.concat([inc_existing, inc_current], axis=0)
-inc_new.to_csv('incremental_changes_new.csv', index=False)
-print(inc_new.shape, inc_new.columns)
+inc_new.to_csv('new_incremental_changes.csv', index=False)
 
 
 # upload the data to Socrata
@@ -212,14 +196,12 @@ print(inc_new.shape, inc_new.columns)
 ####################
 
 # Read the previous dataset from Socrata and save a local copy
-pm_existing = pd.DataFrame.from_records(
-    client.get(identifiers.get('pm'), limit=99999999999999))
-# pm_existing.to_csv(f'old_performance_{timestamp}.csv', index=False)
-print(pm_existing.shape, pm_existing.columns)
+pm_existing = pd.DataFrame.from_records(client.get(identifiers.get('pm'), limit=99999999999999))
+pm_existing.to_csv(f'old_performance_{timestamp}.csv', index=False)
 
 
 # Read the new file
-pm_current = pd.read_csv(csv_filenames['pm'])
+pm_current = pd.read_csv(csv_filenames.get('pm'))
 
 # Rename to match original
 pm_current.rename(columns={
@@ -234,7 +216,6 @@ pm_current.rename(columns={
     'Unit/Value': 'unit',
     '2021-22 Adopted': 'performance_measure_amount'
 }, inplace=True)
-print(pm_current.shape, pm_current.columns)
 
 
 # add a fiscal year column
@@ -242,13 +223,11 @@ pm_current['budget'] = '2021-22 Adopted'
 
 # select only the relevant columns
 pm_current = pm_current[pm_existing.columns]
-print(pm_current.shape, pm_current.columns)
 
 
 # Make new dataset
 pm_new = pd.concat([pm_existing, pm_current], axis=0)
-pm_new.to_csv('performance_measures_new.csv', index=False)
-print(pm_new.shape, pm_new.columns)
+pm_new.to_csv('new_performance_measures.csv', index=False)
 
 
 # upload the data to Socrata

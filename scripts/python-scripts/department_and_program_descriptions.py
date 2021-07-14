@@ -12,7 +12,6 @@
 # pip install sodapy
 
 import datetime
-import enum
 import pandas as pd
 import numpy as np
 from sodapy import Socrata
@@ -33,13 +32,15 @@ filenames = {
 }
 
 # set up Socrata client
-# with open('apptoken.txt') as a:
-#     apptoken = a.readline()
-# with open('username.txt') as u:
-#     username = u.readline()
-# with open('password.txt') as p:
-#     password = p.readline()
 client = Socrata('data.lacity.org', None)
+
+# uncomment if you are going to log in / push to the data portal
+# with open('credentials.lahub_auth') as a:
+#     apptoken = a.readline()
+# with open('credentials.lahub_user') as u:
+#     username = u.readline().strip()
+# with open('credentials.lahub_pass') as p:
+#     password = p.readline()
 # client = Socrata('data.lacity.org', apptoken, username=username, password=password)
 
 timestamp = datetime.datetime.now()
@@ -49,9 +50,7 @@ timestamp = datetime.datetime.now()
 ####################
 
 # Read the previous dataset from Socrata and save a local copy
-old_descriptions = pd.DataFrame.from_records(
-    client.get(socrata_identifier, limit=99999999999999))
-
+old_descriptions = pd.DataFrame.from_records(client.get(socrata_identifier, limit=99999999999999))
 old_descriptions.to_csv(f'old_descriptions_{timestamp}.csv', index=False)
 
 ####################
@@ -59,16 +58,14 @@ old_descriptions.to_csv(f'old_descriptions_{timestamp}.csv', index=False)
 ####################
 
 # read in the new programs
-new_programs = pd.read_csv(filenames['programs'])
-print(old_descriptions.columns)
-print(new_programs.columns)
+new_programs = pd.read_csv(filenames.get('programs'))
 
 # rename the columns to match the Socrata dataset
 new_programs.columns = ['program_number', 'entity_name', 'description']
-# print(new_programs.columns)
 
 # drop the row if the whole row is empty
 new_programs.dropna(how='all', inplace=True)
+
 
 # add an entity type column
 new_programs['entity_type'] = 'Program'
@@ -95,9 +92,7 @@ for i, old_desc in enumerate(new_programs.description):
         begin_priority_name = old_desc.find(':') + 1
 
         priority = old_desc[begin_priority_name:end_priority_name].strip()
-        # print(priority)
         new_desc = old_desc[end_priority_name:].strip()
-        # print(new_desc)
     # else if not given
     else:
         priority = 'NA'
@@ -118,30 +113,26 @@ for i, old_priority in enumerate(program_priority):
     program_priority[i] = new_priority
 
 # create a data frame of the program priorities and write to csv
-# print (new_programs.columns)
 program_priority_df = pd.DataFrame({
     'program_number' : new_programs.program_number.astype('Int64'),
     'program_name' : new_programs.entity_name,
     'program_priority' : program_priority,
 })
-# print(program_priority_df)
 program_priority_df.to_csv('program_priorities.csv', index=False)
 
 # remove the program number from the new_programs data frame - no longer needed
-# print(new_programs.head())
-print()
 new_programs.drop(columns=['program_number'], inplace=True)
-# print(new_programs.head())
 
 ####################
 ## Read in the new department data 
 ####################
 
 # read in the new department descriptions (don't want the first column)
-new_departments = pd.read_csv(filenames['departments']).iloc[:, 1:]
+new_departments = pd.read_csv(filenames.get('departments')).iloc[:, 1:]
 
 # drop the row if the whole row is empty
 new_departments.dropna(how='all', inplace=True)
+
 
 # add an entity type column
 new_departments['entity_type'] = 'Department'
@@ -151,11 +142,9 @@ new_departments.columns = new_programs.columns
 
 # combine the two files
 new_descriptions = pd.concat([new_departments, new_programs], axis=0)
-# print(new_descriptions)
 
 # rearrange the columns
 new_descriptions = new_descriptions[old_descriptions.columns]
-# print(new_descriptions)
 
 
 ####################
