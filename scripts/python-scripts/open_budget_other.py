@@ -13,18 +13,16 @@
 
 import datetime
 import pandas as pd
+import credentials
 from sodapy import Socrata
 
 # set up Socrata client
 client = Socrata('data.lacity.org', None)
 
 # uncomment if you are going to log in / push to the data portal
-# with open('credentials.lahub_auth') as a:
-#     apptoken = a.readline()
-# with open('credentials.lahub_user') as u:
-#     username = u.readline().strip()
-# with open('credentials.lahub_pass') as p:
-#     password = p.readline()
+# username = credentials.lahub_user
+# password = credentials.lahub_pass
+# apptoken = credentials.lahub_auth
 # client = Socrata('data.lacity.org', apptoken, username=username, password=password)
 
 # csv sheet filenames
