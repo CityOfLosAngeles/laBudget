@@ -34,6 +34,7 @@ csv_filenames = {
     'inc': '../../data/approved_budget/FY21-22/Budget_Requests_Detail_Sec2_2122_Adopted.csv',
     'pm': '../../data/approved_budget/FY21-22/Performance_Measures_2122_Adopted.csv',
 }
+filepath_prefix = '../../data/approved_budget/FY21-22/'
 
 # # Socrata urls
 # urls = {
@@ -68,7 +69,7 @@ timestamp = datetime.datetime.now()
 
 # Read the previous dataset from Socrata and save a local copy
 gfrev_existing = pd.DataFrame.from_records(client.get(identifiers.get('gfrev'), limit=99999999999999))
-gfrev_existing.to_csv(f'old_gfrev_{timestamp}.csv', index=False)
+gfrev_existing.to_csv(f'{filepath_prefix}old_gfrev_{timestamp}.csv', index=False)
 
 # Read the new file
 gfrev_current = pd.read_csv(csv_filenames.get('gfrev'))
@@ -97,7 +98,7 @@ gfrev_current = gfrev_current[gfrev_existing.columns]
 
 # Make new dataset
 gfrev_new = pd.concat([gfrev_existing, gfrev_current], axis=0)
-gfrev_new.to_csv('new_gfrev.csv', index=False)
+gfrev_new.to_csv(f'{filepath_prefix}new_gfrev.csv', index=False)
 
 # upload the data to Socrata
 # client.replace('', gfrev_new)
@@ -109,7 +110,7 @@ gfrev_new.to_csv('new_gfrev.csv', index=False)
 
 # Read the previous dataset from Socrata and save a local copy
 positions_existing = pd.DataFrame.from_records(client.get(identifiers.get('positions'), limit=99999999999999))
-positions_existing.to_csv(f'old_positions_{timestamp}.csv', index=False)
+positions_existing.to_csv(f'{filepath_prefix}old_positions_{timestamp}.csv', index=False)
 
 
 # Read the new file
@@ -138,7 +139,7 @@ positions_current = positions_current[positions_existing.columns]
 
 # Make new dataset
 positions_new = pd.concat([positions_existing, positions_current], axis=0)
-positions_new.to_csv('new_positions.csv', index=False)
+positions_new.to_csv(f'{filepath_prefix}new_positions.csv', index=False)
 
 
 # upload the data to Socrata
@@ -151,7 +152,7 @@ positions_new.to_csv('new_positions.csv', index=False)
 
 # Read the previous dataset from Socrata and save a local copy
 inc_existing = pd.DataFrame.from_records(client.get(identifiers.get('inc'), limit=99999999999999))
-inc_existing.to_csv(f'old_incremental_{timestamp}.csv', index=False)
+inc_existing.to_csv(f'{filepath_prefix}old_incremental_{timestamp}.csv', index=False)
 
 
 # Read the new file
@@ -184,7 +185,7 @@ inc_current = inc_current[inc_existing.columns]
 
 # Make new dataset
 inc_new = pd.concat([inc_existing, inc_current], axis=0)
-inc_new.to_csv('new_incremental_changes.csv', index=False)
+inc_new.to_csv(f'{filepath_prefix}new_incremental_changes.csv', index=False)
 
 
 # upload the data to Socrata
@@ -197,7 +198,7 @@ inc_new.to_csv('new_incremental_changes.csv', index=False)
 
 # Read the previous dataset from Socrata and save a local copy
 pm_existing = pd.DataFrame.from_records(client.get(identifiers.get('pm'), limit=99999999999999))
-pm_existing.to_csv(f'old_performance_{timestamp}.csv', index=False)
+pm_existing.to_csv(f'{filepath_prefix}old_performance_{timestamp}.csv', index=False)
 
 
 # Read the new file
@@ -227,7 +228,7 @@ pm_current = pm_current[pm_existing.columns]
 
 # Make new dataset
 pm_new = pd.concat([pm_existing, pm_current], axis=0)
-pm_new.to_csv('new_performance_measures.csv', index=False)
+pm_new.to_csv(f'{filepath_prefix}new_performance_measures.csv', index=False)
 
 
 # upload the data to Socrata

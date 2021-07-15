@@ -26,9 +26,10 @@ socrata_identifier = 'cd49-p4un'
 socrata_endpoint = 'https://data.lacity.org/resource/cd49-p4un.json'
 
 # filenames
+filepath_prefix = '../../data/approved_budget/FY21-22/'
 filenames = {
     'departments': '../../data/approved_budget/FY21-22/QRY_Department_Name_Text_2122_Adopted.csv',
-    'programs': '../../data/approved_budget/FY21-22/QRY_Program_Description_Text_2122_Adopted.csv'
+    'programs': '../../data/approved_budget/FY21-22/QRY_Program_Description_Text_2122_Adopted.csv',
 }
 
 # set up Socrata client
@@ -51,7 +52,7 @@ timestamp = datetime.datetime.now()
 
 # Read the previous dataset from Socrata and save a local copy
 old_descriptions = pd.DataFrame.from_records(client.get(socrata_identifier, limit=99999999999999))
-old_descriptions.to_csv(f'old_descriptions_{timestamp}.csv', index=False)
+old_descriptions.to_csv(f'{filepath_prefix}old_descriptions_{timestamp}.csv', index=False)
 
 ####################
 ## Read in new program data
@@ -118,7 +119,7 @@ program_priority_df = pd.DataFrame({
     'program_name' : new_programs.entity_name,
     'program_priority' : program_priority,
 })
-program_priority_df.to_csv('program_priorities.csv', index=False)
+program_priority_df.to_csv(f'{filepath_prefix}new_program_priorities.csv', index=False)
 
 # remove the program number from the new_programs data frame - no longer needed
 new_programs.drop(columns=['program_number'], inplace=True)
@@ -152,7 +153,7 @@ new_descriptions = new_descriptions[old_descriptions.columns]
 ####################
 
 # write to csv
-new_descriptions.to_csv(f'new_descriptions.csv', index=False)
+new_descriptions.to_csv(f'{filepath_prefix}new_descriptions.csv', index=False)
 
 # upload the data to Socrata
 # client.replace('', expenses)
@@ -164,4 +165,4 @@ new_descriptions['entity_type'] = new_descriptions['entity_type'].replace(['Prog
 new_descriptions.columns = ['column', 'entity', 'text']
 
 # write to csv
-new_descriptions.to_csv(f'new_annotations.csv', index=False)
+new_descriptions.to_csv(f'{filepath_prefix}new_annotations.csv', index=False)

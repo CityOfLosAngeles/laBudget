@@ -47,13 +47,14 @@ new_fiscal_year = current_year + 1
 ####################
 ## Read in existing data
 ####################
+filepath_prefix = '../../data/approved_budget/FY21-22/'
 
 # read in the existing data on Socrata
 old_expenses = pd.DataFrame.from_records(client.get(socrata_identifier, limit=99999999999999))
 
 # save a copy as a local backup -- especially before pushing the output back to overwrite the existing data on Socrata
-filepath = f'old_expenses_{timestamp}.csv'
-old_expenses.to_csv(filepath, index=False)
+old_expenses.to_csv(
+    f'{filepath_prefix}old_expenses_{timestamp}.csv', index=False)
 
 # filter out any data from the fiscal year that's being updated (only keep the rows where fiscal_year!=new_fiscal_year)
 old_expenses = old_expenses[old_expenses['fiscal_year']!=new_fiscal_year]
@@ -156,7 +157,7 @@ expenses.sort_values(by=['department_name', 'program_name', 'account_name'], asc
 ####################
 
 # write to csv
-expenses.to_csv('new_expenses.csv')
+expenses.to_csv(f'{filepath_prefix}new_expenses.csv')
 
 # upload the data to Socrata
 # client.replace('', expenses)
