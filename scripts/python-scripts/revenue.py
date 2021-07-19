@@ -46,10 +46,9 @@ old_revenues.to_csv(f'{filepath_prefix}old_revenues_{timestamp}.csv')
 # Filtering out current year
 old_revenues = old_revenues[old_revenues['fiscal_year_2'] != 2022]
 
-# Read in new data
-new_revenues = pd.read_csv(
-    '../../data/data/approved_budget/FY21-22/new_revenues.csv')
-available_balances = pd.read_csv('../../available_balances.csv')
+# Read in new data -- these spreadsheets are from parse_revenues.py
+new_revenues = pd.read_csv('../../data/approved_budget/FY21-22/new_revenues.csv')
+available_balances = pd.read_csv('../../data/approved_budget/FY21-22/available_balances.csv')
 
 ### Cleaning dataframes
 
