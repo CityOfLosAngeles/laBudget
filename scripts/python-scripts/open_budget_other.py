@@ -99,7 +99,7 @@ gfrev_new = pd.concat([gfrev_existing, gfrev_current], axis=0)
 gfrev_new.to_csv(f'{filepath_prefix}new_gfrev.csv', index=False)
 
 # upload the data to Socrata
-# client.replace('', gfrev_new)
+# client.replace(identifiers.get('gfrev'), gfrev_new)
 
 
 ###################
@@ -141,7 +141,7 @@ positions_new.to_csv(f'{filepath_prefix}new_positions.csv', index=False)
 
 
 # upload the data to Socrata
-# client.replace('', positions_new)
+# client.replace(identifiers.get('positions'), positions_new)
 
 
 ###################
@@ -187,7 +187,7 @@ inc_new.to_csv(f'{filepath_prefix}new_incremental_changes.csv', index=False)
 
 
 # upload the data to Socrata
-# client.replace('', inc_new)
+# client.replace(identifiers.get('inc'), inc_new)
 
 
 ####################
@@ -230,4 +230,4 @@ pm_new.to_csv(f'{filepath_prefix}new_performance_measures.csv', index=False)
 
 
 # upload the data to Socrata
-# client.replace('', inc_new)
+# client.replace(identifiers.get('pm'), pm_new)

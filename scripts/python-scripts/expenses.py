@@ -158,4 +158,4 @@ expenses.sort_values(by=['department_name', 'program_name', 'account_name'], asc
 expenses.to_csv(f'{filepath_prefix}new_expenses.csv')
 
 # upload the data to Socrata
-# client.replace('', expenses)
+# client.replace(socrata_identifier, expenses)

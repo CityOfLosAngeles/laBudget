@@ -153,7 +153,7 @@ new_descriptions = new_descriptions[old_descriptions.columns]
 new_descriptions.to_csv(f'{filepath_prefix}new_descriptions.csv', index=False)
 
 # upload the data to Socrata
-# client.replace('', expenses)
+# client.replace(socrata_identifier, new_descriptions)
 
 
 

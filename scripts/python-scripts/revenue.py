@@ -91,3 +91,4 @@ final_revenues = pd.concat([new_revenues, old_revenues])
 final_revenues.to_csv(f'{filepath_prefix}final_revenues.csv')
 
 # Upload to Socrata here
+# client.replace(socrata_id, final_revenues)
